@@ -1,0 +1,6602 @@
+{
+  "audio": [
+    {
+      "aiff": {
+        "path": "native/assets/extracted/LOGO/audio/cinema.sound_0.aiff",
+        "sha256": "b44a1a519f8e539b45efb214c23e7f9860070bc3d66be72342301bbb0a9dc6f2",
+        "size": 75386
+      },
+      "played_samples": 75331,
+      "role": "cinema.sound[0]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/LOGO/audio/cinema.sound_0.s8",
+        "sha256": "79a9116f3dd861c42e64f4c74a745a1c2a8b943e1f1c02988cd33fb9d0518bf8",
+        "size": 75331
+      },
+      "stored_samples": 75331,
+      "wav": {
+        "path": "native/assets/extracted/LOGO/audio/cinema.sound_0.wav",
+        "sha256": "2ca82b18d4d1fb08e5692ca3705af1be7970bf6362b67bcaa183039e2393f3d7",
+        "size": 75376
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/LOGO/audio/cinema.sound_1.aiff",
+        "sha256": "f6156996d83ae06221cd660c2cc1d21f59d51c725ebcd030815a33e3464fbb6b",
+        "size": 57598
+      },
+      "played_samples": 57543,
+      "role": "cinema.sound[1]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/LOGO/audio/cinema.sound_1.s8",
+        "sha256": "30ece99b80c291e6735cf4814727fcc94d19bea1bfddbb5cd1913fea5c97f70f",
+        "size": 57543
+      },
+      "stored_samples": 57543,
+      "wav": {
+        "path": "native/assets/extracted/LOGO/audio/cinema.sound_1.wav",
+        "sha256": "bf11a80f88330dd219b5408d7198d9d435256457a3bd2a527aaefb0b9aa16023",
+        "size": 57588
+      }
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[2]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[3]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[4]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[5]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[6]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[7]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[8]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[9]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[10]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[11]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[12]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[13]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[14]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[15]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[16]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[17]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[18]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[19]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[20]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[21]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[22]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[23]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[24]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[25]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    }
+  ],
+  "format": "nog2-extracted-file-v1",
+  "images": [
+    {
+      "height": 26,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_0.idx",
+        "sha256": "6535cbc45c1114b6f4e198545d0f737bf1fbe81f1be1d19b880a482f4ae02a03",
+        "size": 962
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[0]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_0.rgba.png",
+        "sha256": "cb7f15b6dfbdef6dd190057f13555ec3217b5e2ef89f5b727e7c0c7b643640d7",
+        "size": 480
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_0.png",
+        "sha256": "40c27c78055dfbfc181c47aeb7aed56562eb457a5cd8aa933f618358ad1d6e86",
+        "size": 1399
+      },
+      "source": {
+        "offset": 4119,
+        "role": "cinema.image[0]",
+        "sha256": "4080afa747c3b1fb7e27d5b23d76a4eb996cf2113d7c5f623c2b9f96d228bb26",
+        "size": 466
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 37
+    },
+    {
+      "height": 60,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_1.idx",
+        "sha256": "51875cd4b697ce555f467c1382bf77b9c040ed5864c5901e166cb64cbfeaaa33",
+        "size": 2940
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[1]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_1.rgba.png",
+        "sha256": "a089b72e14b05fa96933ae806cc9aab85fa9e0228020b5acba993114e0164911",
+        "size": 863
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_1.png",
+        "sha256": "8ae7c23ab0ac9a416d3d8229ef0735acef66698c40d9aa01b8ffb02055736569",
+        "size": 1670
+      },
+      "source": {
+        "offset": 4587,
+        "role": "cinema.image[1]",
+        "sha256": "8ec0cbd0a762a5c5308eedc9324032f3e1804c2d0dac6d94afce4294a8d7d4ae",
+        "size": 1024
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 49
+    },
+    {
+      "height": 70,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_2.idx",
+        "sha256": "764c52761988ad0a9cfaea749d4b8a1f0883e55be3893c8c494a0ba63f081d40",
+        "size": 5880
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[2]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_2.rgba.png",
+        "sha256": "54ba021c8c2da787e3729bce53d5354b583b3a3bcfc8f69a41f3619ee574a4d1",
+        "size": 1074
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_2.png",
+        "sha256": "842ed5e41676ab33622bb3800ccc3a0abbafbdf269422ef6a5ad46049b6514c1",
+        "size": 1855
+      },
+      "source": {
+        "offset": 5613,
+        "role": "cinema.image[2]",
+        "sha256": "5851e614f12a08e2485deceecf9dfd7fc823d76a06ca7acf8bf479e15d0feb5f",
+        "size": 1802
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 84
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_3__background.idx",
+        "sha256": "e2cfecf35d2e01b152799eaf06928c38b6894a0166957c2f40f4a8ffd657c205",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[3]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_3__background.rgba.png",
+        "sha256": "e032d632ea674d4de03b1aef6669ab2412625a6cdfb203af1d09b1928bca6461",
+        "size": 11817
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_3__background.png",
+        "sha256": "109fa2766645c8619e1c5bb3c7280a078ae2ba724bf30f2dbb579da890713131",
+        "size": 10699
+      },
+      "source": {
+        "offset": 7417,
+        "role": "cinema.image[3]",
+        "sha256": "1888a60bc1964820a14034bb554d1e7c423cedd7264cbf02eaf11dc601672a25",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    },
+    {
+      "height": 88,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_4.idx",
+        "sha256": "9f360a1ae32dca1415c023baf0e5eb8f803344112b0e40fbe159b27d92015645",
+        "size": 6512
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[4]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_4.rgba.png",
+        "sha256": "76570a44d4ad9c4d74615b7fdb6ee5dfc8ba44fd13f0dd9bd460180edc71c133",
+        "size": 2158
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_4.png",
+        "sha256": "81f626d39a0ddc837e71b734449adcc282b7ecf68a4ebc9cd57431b65a1cc374",
+        "size": 2687
+      },
+      "source": {
+        "offset": 46587,
+        "role": "cinema.image[4]",
+        "sha256": "677fae15be7d3b53cdf9c15261fe5987a9fb41e86927962d743ee4f90cf95849",
+        "size": 3900
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 74
+    },
+    {
+      "height": 69,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_5.idx",
+        "sha256": "d1717c24cd72f886edbad45d3ac200b3734a5f7d73755bca5d6df40f08105619",
+        "size": 9798
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[5]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_5.rgba.png",
+        "sha256": "625640195eef9b319d0c6603e4ff326082916bc6182e3d26c7ea21eeab031003",
+        "size": 3043
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_5.png",
+        "sha256": "a6be9b063be4ff1d192112f002da92307227f915ff7a18fd990e4a3fafd3f024",
+        "size": 3338
+      },
+      "source": {
+        "offset": 50489,
+        "role": "cinema.image[5]",
+        "sha256": "ba2949ecfccec0131622d441daef1fb962b94c54d9e276c93fec5490d32b56b2",
+        "size": 4319
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 142
+    },
+    {
+      "height": 91,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_6.idx",
+        "sha256": "e18c4ffb6745d0719b890c94464fb00e2414cfa9b95ca69a2b0b3ad489abf3b8",
+        "size": 9464
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[6]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_6.rgba.png",
+        "sha256": "9b433f4ec955f70c1fd2e847c5b4d9c3e8100d4dab24087c71b4df4441f9fc4d",
+        "size": 1990
+      },
+      "palette_source": "LOGO.VOL",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_6.png",
+        "sha256": "0805086614f7a9af0ef03905d7dcf6a68b53a5f99a905a583ff3689d74a0047f",
+        "size": 2515
+      },
+      "source": {
+        "offset": 54810,
+        "role": "cinema.image[6]",
+        "sha256": "f4d81fffd86fe48f8f287d260301623136695280241c1545e5c4775a47f3deba",
+        "size": 4440
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 104
+    },
+    {
+      "height": 136,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_7.idx",
+        "sha256": "be5303904c7c722c3871e8a504108614b4547ef9a14f95ba32d3ec545b8ae861",
+        "size": 21760
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[7]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_7.rgba.png",
+        "sha256": "951de7987219fe3102168a7d642282b3dc754fa64da9e0f903a401f918735848",
+        "size": 8259
+      },
+      "palette_source": "LOGO.VOL",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_7.png",
+        "sha256": "a02144541692e5d8883f402c45def62bfb6c10dd2d33069ef18c06a3e5efceae",
+        "size": 7612
+      },
+      "source": {
+        "offset": 59252,
+        "role": "cinema.image[7]",
+        "sha256": "2429e74ed8df9159fbf155311688c6cf2faa4209c6b84a49daf659ac343225e8",
+        "size": 20869
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 160
+    },
+    {
+      "height": 143,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_8.idx",
+        "sha256": "68164ec6171f6f97472e309cf7885a0a45e80c187e509e451aa7f648e931fed6",
+        "size": 25168
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[8]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_8.rgba.png",
+        "sha256": "cdabd3b069790f3541c422c8fb4cbd2f9238aded898c28f6cb0c120d6cfb829e",
+        "size": 8197
+      },
+      "palette_source": "LOGO.VOL",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_8.png",
+        "sha256": "0d964a6b076daad710c0722355a8479bbd29ccc43698b5aa58bde59c7f969121",
+        "size": 7592
+      },
+      "source": {
+        "offset": 80123,
+        "role": "cinema.image[8]",
+        "sha256": "6084968b2563479e8514eeb4dbc07eca725ab3532a9ffdba3987ea26cdbcdb34",
+        "size": 21024
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 176
+    },
+    {
+      "height": 66,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_9.idx",
+        "sha256": "bc059dafa306997e0a8b087be28fb656ef04f0e7b081a3fcb9929aa7f2140a5c",
+        "size": 6402
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[9]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_9.rgba.png",
+        "sha256": "d3f7b84304d549478988b59658d40ca80f0bdb691c0a93e96959e3934de81ffe",
+        "size": 1195
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_9.png",
+        "sha256": "261f18ea70f32d99f43025f01356b31e1110cc07089971a3ce19676683a5bdab",
+        "size": 1925
+      },
+      "source": {
+        "offset": 101149,
+        "role": "cinema.image[9]",
+        "sha256": "9f473f4494d27cbe0326bad1bfd870c64fe95a5c0f2d172e35093322666f51b5",
+        "size": 1637
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 97
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_10__background.idx",
+        "sha256": "f0f47c138301aabe00d24c8a30d3aa71022bd9b8ed26bd3f7314b67308988410",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[10]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_10__background.rgba.png",
+        "sha256": "06a33e1303a62f6e24bd76091c44cbf8ff02330c85fd37c816a05280be9a242d",
+        "size": 15617
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_10__background.png",
+        "sha256": "2b6988851641f508c7394463e39a004f5e6bdf5034d660272039efa27b5b93f8",
+        "size": 13222
+      },
+      "source": {
+        "offset": 102788,
+        "role": "cinema.image[10]",
+        "sha256": "fb85a87b9d2cc09d64ecd3e2392b733ff7bd91830635dcec01c7d0ca933b89c6",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    },
+    {
+      "height": 21,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_11.idx",
+        "sha256": "21c3d2712282399e477581dc1a3ea1a29c6685edda3016a23aeae35f45d5075a",
+        "size": 651
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[11]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_11.rgba.png",
+        "sha256": "a1e7ba66d90ce43e0940ed5e4a95a0319e467912e37bf4d395b347c9c8a56579",
+        "size": 504
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_11.png",
+        "sha256": "92d2dad570c123a66770f67f1f95a78d5e3c012dad98af88d152ccac0b096f78",
+        "size": 1426
+      },
+      "source": {
+        "offset": 141958,
+        "role": "cinema.image[11]",
+        "sha256": "39d5f6e30fd01c9fce3c1e3516fd4c98f600bf3fc105349bbaab6714ce0fa9d1",
+        "size": 484
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 31
+    },
+    {
+      "height": 23,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_12.idx",
+        "sha256": "7f7008878cea5d76438508bbef495fc82cf4f15f18269ec5843164f08c607643",
+        "size": 575
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[12]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_12.rgba.png",
+        "sha256": "ae357477c8ec8fdfe44cd130906622b2d6a109937b7d7865f5f2cfcdfe34bc2a",
+        "size": 476
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_12.png",
+        "sha256": "648bca894b11c2ce3db4931cfaa0209ee579409fbf4705989efb429f237e2b03",
+        "size": 1396
+      },
+      "source": {
+        "offset": 142444,
+        "role": "cinema.image[12]",
+        "sha256": "c3040a043d6161cdd5ae677b6b45d2ad0f223fc700b9f967f255a6f8e1bf7d86",
+        "size": 436
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 25
+    },
+    {
+      "height": 16,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_13.idx",
+        "sha256": "540434537db36c9c1eef6bc7738bcacedfff98a5751eff079e3e6b037746d5a1",
+        "size": 448
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[13]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_13.rgba.png",
+        "sha256": "c3ca2a2eec9f0d56e1d03a15dee34f8fde94a36f749fd275f76c02d91504a8ba",
+        "size": 380
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_13.png",
+        "sha256": "7aba361b8275989a77d1eee7973fea4c798a5f305ea1e501d1ed76406d1627ac",
+        "size": 1308
+      },
+      "source": {
+        "offset": 142882,
+        "role": "cinema.image[13]",
+        "sha256": "8a1ce840900c2c388fa102e4371df3a34dd4c3fad2980198cb7e0d57e625ac9d",
+        "size": 284
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 28
+    },
+    {
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_14.idx",
+        "sha256": "402f0a21b3cdb5bf23c8ce77e2f0d25dc7ffcc3d624b45fd29fddada9c9234fb",
+        "size": 351
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[14]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_14.rgba.png",
+        "sha256": "25fed5422cd371481162478f34170152a43519f10198cda8a98531dc4512e141",
+        "size": 296
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_14.png",
+        "sha256": "fba8d6b572b2ce446e7abcb02ed2cde5daf434a5c0d6a1c70a2166d2f3eb9b99",
+        "size": 1255
+      },
+      "source": {
+        "offset": 143168,
+        "role": "cinema.image[14]",
+        "sha256": "b00448338c64ce1a66f8a411fdfbd9e1e2e0a855c9d6db5739c6c27c6b83e32e",
+        "size": 281
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 27
+    },
+    {
+      "height": 19,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_15.idx",
+        "sha256": "3297bbfced77aa6001abd737d6ad217b7388f6ea55641ae525332578fe2fb267",
+        "size": 589
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[15]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_15.rgba.png",
+        "sha256": "470a1c5fd72c204cc6eb260c05ccddadec63b2b88601240c4ca43e049879e72f",
+        "size": 576
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_15.png",
+        "sha256": "30a18eb5ba65f6b3f6cad590220a252fb80d6517999d86e90770e03e7b7e0c75",
+        "size": 1462
+      },
+      "source": {
+        "offset": 143451,
+        "role": "cinema.image[15]",
+        "sha256": "25ebbbcfec911f93b69229785f76617d4d9a5b550ba6ff1d7e3dfdc232f936fa",
+        "size": 473
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 31
+    },
+    {
+      "height": 17,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_16.idx",
+        "sha256": "678e432ec0d5d0a7f4f3c27dde34d5be1e1f4802819567bae3e8c5d5cc84e64e",
+        "size": 459
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[16]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_16.rgba.png",
+        "sha256": "0957352a107b5dc101b1616b49fb61782b790b47d648b858ab026d05ced34b6a",
+        "size": 400
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_16.png",
+        "sha256": "14601767e5d9aa736bf38800d846bf22c542caa76f09e2fe9d201780097192ac",
+        "size": 1335
+      },
+      "source": {
+        "offset": 143926,
+        "role": "cinema.image[16]",
+        "sha256": "6dc9841fcdd1dce2d780c06118e390c94a299317de071e7ffe82e33ccaca37eb",
+        "size": 350
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 27
+    },
+    {
+      "height": 27,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_17.idx",
+        "sha256": "54e6467e89470c62b87d49796d96030b27f358bb8a7bc3f782df9c6ccc276ebe",
+        "size": 837
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[17]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_17.rgba.png",
+        "sha256": "8162c9f45c10aa01638de117f9f48f6b186da2a1eeba472967b6d842b4fcb97a",
+        "size": 562
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_17.png",
+        "sha256": "3a53bf991547f978dce62f0a28268b8dc76f0ce349decccbfd5e3bf4c2414346",
+        "size": 1434
+      },
+      "source": {
+        "offset": 144278,
+        "role": "cinema.image[17]",
+        "sha256": "4d7941a39cfd14d8f8f598d65d10a96e662939134855a36702aee9164e349e5b",
+        "size": 656
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 31
+    },
+    {
+      "height": 19,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_18.idx",
+        "sha256": "2c52df62a243f32267df75ad5532c0fe6f76787e53ad36dfbd25d2cd2ceef524",
+        "size": 1425
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[18]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_18.rgba.png",
+        "sha256": "b31142665a632424fd8427cae0a6a86ca4f676f35c3870371b3be6c1fc68aa64",
+        "size": 1143
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_18.png",
+        "sha256": "6ae600fec1f6561dbb435b0bcff91d3161c54461b84c0049b672b6899c5108f6",
+        "size": 1850
+      },
+      "source": {
+        "offset": 144936,
+        "role": "cinema.image[18]",
+        "sha256": "36d4c50017d27a338d9b52d8389c1c3030404ea9c2c074c5c83e47d964827ce7",
+        "size": 1487
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 75
+    },
+    {
+      "height": 29,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_19.idx",
+        "sha256": "3aaa135f5918ee4197c7a7e25af5344a249706c67d034b504ff5d090d9ca319c",
+        "size": 2030
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[19]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_19.rgba.png",
+        "sha256": "91abeb3ea94209f67a0deb701afac5b78ab07d0e5b344260ea3a73ad41a46b33",
+        "size": 1696
+      },
+      "palette_source": "cinema.image[10] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_19.png",
+        "sha256": "0e69365138bbcde3382e8f1e0720bd50c4aa60ce532176fde2863eaeb175c85b",
+        "size": 2262
+      },
+      "source": {
+        "offset": 146425,
+        "role": "cinema.image[19]",
+        "sha256": "ecc90f3fdee8d6cc286aabe6a0fb77af4ddc21a9d2c672f8634780d1d316967b",
+        "size": 2099
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 70
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_20__background.idx",
+        "sha256": "e82591e4e3978caf4b37e6a4c8b742bb62735ab4750c0b0fc311def57b926e69",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[20]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_20__background.rgba.png",
+        "sha256": "3c25a4836f1632e210e0a7513f79032cc0354cb05261c130a86617155839a5d6",
+        "size": 13098
+      },
+      "palette_source": "cinema.image[20] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_20__background.png",
+        "sha256": "e3f7c17e6de2fb9110d904227fef9a24180e44de444079cba4cfcee4b9579fd0",
+        "size": 11165
+      },
+      "source": {
+        "offset": 148526,
+        "role": "cinema.image[20]",
+        "sha256": "2af55fdf4d50093811a69450edd4f5a4626f0b8bdc53be73e3b6deea211c5be0",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_21__background.idx",
+        "sha256": "30033ef7824918aa110f9d5282738e913be215c64f028cb5a2915af025491edd",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[21]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_21__background.rgba.png",
+        "sha256": "4b8428c45bbecc7b892a4856447102cc875eace9fa7256fbb782d702765414bd",
+        "size": 10371
+      },
+      "palette_source": "cinema.image[21] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_21__background.png",
+        "sha256": "d75a32ce584d8a924a86b904f78cd54def4d135f24cf7b1c5bab7b633cfa41db",
+        "size": 8953
+      },
+      "source": {
+        "offset": 187696,
+        "role": "cinema.image[21]",
+        "sha256": "f0d0b47ac07b349bdcb4df5d257f4b1bc69f361cac09af5aa270f1f90aef48df",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_22__background.idx",
+        "sha256": "d26c8125886d9f04b4ddff600968454a84db12fa126397e5dd7675e8fe70e12d",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[22]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_22__background.rgba.png",
+        "sha256": "4703184eeedbc6299b3168a2dac8e4a8476e9c39f33cf58c7bb27cd5137c3feb",
+        "size": 12978
+      },
+      "palette_source": "cinema.image[22] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_22__background.png",
+        "sha256": "38992a1d7b65ba7d1dda71a2acc3b1027243d5a2d47ba99afb9fc26073152e84",
+        "size": 10900
+      },
+      "source": {
+        "offset": 226866,
+        "role": "cinema.image[22]",
+        "sha256": "862805a31f309709cbd2a5a03ac390b821ec3815ed15909011414b72de4d3841",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    },
+    {
+      "height": 25,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_23.idx",
+        "sha256": "462999c73ff0c3df69aea3327874f862ea93874279e00ca794b58d5db0443290",
+        "size": 2125
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[23]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_23.rgba.png",
+        "sha256": "71b1c497025fb7242a0512716e1f763153464a0f3596ebd2b882407d8bb811d9",
+        "size": 452
+      },
+      "palette_source": "cinema.image[22] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_23.png",
+        "sha256": "92394978b72f3c176ce24eb215f1e197f82dcfec05a50e0ed9e9dd0cafa40e34",
+        "size": 1400
+      },
+      "source": {
+        "offset": 266036,
+        "role": "cinema.image[23]",
+        "sha256": "c757c88f61daf1e2de8faff731fb3860bc77c8ef8f11856da2436ce7a517f7cd",
+        "size": 1245
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 85
+    },
+    {
+      "height": 36,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_24.idx",
+        "sha256": "b81e2a5d43fec38ebbeec4ea78a868c9c1c134ddd113988fbdd7a542cead0814",
+        "size": 3600
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[24]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_24.rgba.png",
+        "sha256": "54f10c99ac4787d9495857a6e45e5c548ed4d94758798dae1c66ef15be9d0a87",
+        "size": 551
+      },
+      "palette_source": "cinema.image[22] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_24.png",
+        "sha256": "813829748abf618242b1f19208024e8fc3a7c67430992be27fc237c703a389de",
+        "size": 1458
+      },
+      "source": {
+        "offset": 267283,
+        "role": "cinema.image[24]",
+        "sha256": "b3b7b167f0853d531feebb93f3c35effe8ae297bb59885369a9d101aec5281b1",
+        "size": 2058
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 100
+    },
+    {
+      "height": 50,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_25.idx",
+        "sha256": "9df90e3e5857faade4b9cd08f92f646ee66a2ed86f4642c41644d306131b18f3",
+        "size": 7050
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[25]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_25.rgba.png",
+        "sha256": "796d5ac3534a9e02a444db8724193a48b87607a353768ad23bae0a33b305ac32",
+        "size": 683
+      },
+      "palette_source": "cinema.image[22] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_25.png",
+        "sha256": "fe577563584f59febe447bd1f631058fbb7cad55aff80b6c2e18c1d9a32752f6",
+        "size": 1532
+      },
+      "source": {
+        "offset": 269343,
+        "role": "cinema.image[25]",
+        "sha256": "bfb0b80489e2d90bc1f97c1eaadb49c9020e2d9facfebcd587cef5b23d2b9603",
+        "size": 3791
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 141
+    },
+    {
+      "height": 45,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_26.idx",
+        "sha256": "cdd0c756a4152060229dae5b552629d3dd90c3bd8f0cb28a8264a05ba0c48208",
+        "size": 6885
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[26]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_26.rgba.png",
+        "sha256": "89b809ed20fec40c3ee473714851938a5b9e9f0ca46fe91984f556342b08e232",
+        "size": 865
+      },
+      "palette_source": "cinema.image[22] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_26.png",
+        "sha256": "4c2bb8e3e5e09a49e95031cdd552f03474a09c618f7b50f4e18114b298e09757",
+        "size": 1710
+      },
+      "source": {
+        "offset": 273136,
+        "role": "cinema.image[26]",
+        "sha256": "fcfa09e3bac650f7a350cd7e9ed582a5d6d42c5f6e71ee9a1beeb1040fee51eb",
+        "size": 5088
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 153
+    },
+    {
+      "height": 53,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_27.idx",
+        "sha256": "c54e76ef7cd3b2c0ee71a536bdb138178640e5a03984bfcedf07fedeb36c54b4",
+        "size": 3498
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[27]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_27.rgba.png",
+        "sha256": "38c46434531d625105923b9e15f88fea84eca5975286a70698e3527d5806a23d",
+        "size": 1577
+      },
+      "palette_source": "LOGO.VOL",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_27.png",
+        "sha256": "72a6d0a9e459e0f21d52c91e24ffc35a210e32520bf41ce11be470a3683bf8f5",
+        "size": 2244
+      },
+      "source": {
+        "offset": 278226,
+        "role": "cinema.image[27]",
+        "sha256": "217747089ee5e3422f3db740e03d8e441082814971fc6afa6619b676cfd2b5a5",
+        "size": 3662
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 66
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_28__background.idx",
+        "sha256": "d26c8125886d9f04b4ddff600968454a84db12fa126397e5dd7675e8fe70e12d",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[28]",
+      "normalized_png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_28__background.rgba.png",
+        "sha256": "4703184eeedbc6299b3168a2dac8e4a8476e9c39f33cf58c7bb27cd5137c3feb",
+        "size": 12978
+      },
+      "palette_source": "cinema.image[28] appended palette",
+      "png": {
+        "path": "native/assets/extracted/LOGO/images/cinema.image_28__background.png",
+        "sha256": "38992a1d7b65ba7d1dda71a2acc3b1027243d5a2d47ba99afb9fc26073152e84",
+        "size": 10900
+      },
+      "source": {
+        "offset": 281890,
+        "role": "cinema.image[28]",
+        "sha256": "862805a31f309709cbd2a5a03ac390b821ec3815ed15909011414b72de4d3841",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    }
+  ],
+  "records": [
+    {
+      "metadata": {
+        "component_bits": 6,
+        "entries": 256
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0000_cinema.palette.bin",
+        "sha256": "53798a0a2803093d7d06922b53cd16fc29a8bee7c48fe596abe9ee7b0b88fa81",
+        "size": 768
+      },
+      "role": "cinema.palette",
+      "source_offset": 0,
+      "source_sha256": "53798a0a2803093d7d06922b53cd16fc29a8bee7c48fe596abe9ee7b0b88fa81",
+      "source_size": 768
+    },
+    {
+      "metadata": {
+        "encoding": "i16le",
+        "value": 28
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0001_cinema.events.count.bin",
+        "sha256": "8e2ada6ef626983be1fe9a365ceeb424ee59b884e144f7541cf191116876de04",
+        "size": 2
+      },
+      "role": "cinema.events.count",
+      "source_offset": 768,
+      "source_sha256": "8e2ada6ef626983be1fe9a365ceeb424ee59b884e144f7541cf191116876de04",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "count": 28,
+        "entries": [
+          {
+            "data": 3,
+            "index": 0,
+            "type": 2,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 1,
+            "type": 1,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 1,
+            "index": 2,
+            "type": 5,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 1,
+            "index": 3,
+            "type": 3,
+            "x": 163,
+            "y": 114
+          },
+          {
+            "data": 0,
+            "index": 4,
+            "type": 0,
+            "x": 400,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 5,
+            "type": 1,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 10,
+            "index": 6,
+            "type": 2,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 7,
+            "type": 5,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 9,
+            "index": 8,
+            "type": 3,
+            "x": 81,
+            "y": 61
+          },
+          {
+            "data": 128,
+            "index": 9,
+            "type": 3,
+            "x": 90,
+            "y": 91
+          },
+          {
+            "data": 130,
+            "index": 10,
+            "type": 3,
+            "x": 119,
+            "y": 79
+          },
+          {
+            "data": 131,
+            "index": 11,
+            "type": 3,
+            "x": 69,
+            "y": 76
+          },
+          {
+            "data": 132,
+            "index": 12,
+            "type": 3,
+            "x": 95,
+            "y": 73
+          },
+          {
+            "data": 133,
+            "index": 13,
+            "type": 3,
+            "x": 88,
+            "y": 60
+          },
+          {
+            "data": 134,
+            "index": 14,
+            "type": 3,
+            "x": 61,
+            "y": 52
+          },
+          {
+            "data": 135,
+            "index": 15,
+            "type": 3,
+            "x": 117,
+            "y": 42
+          },
+          {
+            "data": 136,
+            "index": 16,
+            "type": 3,
+            "x": 88,
+            "y": 40
+          },
+          {
+            "data": 0,
+            "index": 17,
+            "type": 1,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 18,
+            "type": 6,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 19,
+            "type": 0,
+            "x": 240,
+            "y": 170
+          },
+          {
+            "data": 20,
+            "index": 20,
+            "type": 2,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 21,
+            "type": 0,
+            "x": 20,
+            "y": 170
+          },
+          {
+            "data": 21,
+            "index": 22,
+            "type": 2,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 23,
+            "type": 0,
+            "x": 20,
+            "y": 170
+          },
+          {
+            "data": 22,
+            "index": 24,
+            "type": 2,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 10,
+            "index": 25,
+            "type": 3,
+            "x": 157,
+            "y": 27
+          },
+          {
+            "data": 0,
+            "index": 26,
+            "type": 0,
+            "x": 100,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 27,
+            "type": 1,
+            "x": 160,
+            "y": 170
+          }
+        ],
+        "entry_size": 6
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0002_cinema.events.bin",
+        "sha256": "d10bf41a0d9de959a0bf4d3f3c802611a42427ac5062cebd0299d6777507d021",
+        "size": 168
+      },
+      "role": "cinema.events",
+      "source_offset": 770,
+      "source_sha256": "d10bf41a0d9de959a0bf4d3f3c802611a42427ac5062cebd0299d6777507d021",
+      "source_size": 168
+    },
+    {
+      "metadata": {
+        "encoding": "i16le",
+        "value": 475
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0003_cinema.sprite_buffer.length.bin",
+        "sha256": "b5a13568a76bff05d107a0f98e063d4a6fac14ca893e0cd6ed826efecdcc7850",
+        "size": 2
+      },
+      "role": "cinema.sprite_buffer.length",
+      "source_offset": 938,
+      "source_sha256": "b5a13568a76bff05d107a0f98e063d4a6fac14ca893e0cd6ed826efecdcc7850",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "sprite_count": 11,
+        "sprites": [
+          {
+            "base": 79,
+            "frame_count": 10,
+            "frames": [
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -55,
+                    "y": -43
+                  }
+                ],
+                "index": 0,
+                "offset": 79,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -54,
+                    "y": -43
+                  }
+                ],
+                "index": 1,
+                "offset": 91,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -53,
+                    "y": -42
+                  }
+                ],
+                "index": 2,
+                "offset": 103,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -53,
+                    "y": -41
+                  }
+                ],
+                "index": 3,
+                "offset": 115,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -52,
+                    "y": -40
+                  }
+                ],
+                "index": 4,
+                "offset": 127,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -53,
+                    "y": -40
+                  }
+                ],
+                "index": 5,
+                "offset": 139,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -54,
+                    "y": -41
+                  }
+                ],
+                "index": 6,
+                "offset": 151,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -54,
+                    "y": -42
+                  }
+                ],
+                "index": 7,
+                "offset": 163,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -55,
+                    "y": -43
+                  }
+                ],
+                "index": 8,
+                "offset": 175,
+                "size": 12
+              },
+              {
+                "duration": 4,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 9,
+                    "orientation": 0,
+                    "x": -55,
+                    "y": -43
+                  }
+                ],
+                "index": 9,
+                "offset": 187,
+                "size": 12
+              }
+            ],
+            "index": 0
+          },
+          {
+            "base": 1,
+            "frame_count": 7,
+            "frames": [
+              {
+                "duration": 114,
+                "dx": 0,
+                "dy": 0,
+                "images": [],
+                "index": 0,
+                "offset": 1,
+                "size": 6
+              },
+              {
+                "duration": 27,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 0,
+                    "orientation": 0,
+                    "x": -19,
+                    "y": -25
+                  }
+                ],
+                "index": 1,
+                "offset": 7,
+                "size": 12
+              },
+              {
+                "duration": 117,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 1,
+                    "orientation": 0,
+                    "x": -25,
+                    "y": -54
+                  }
+                ],
+                "index": 2,
+                "offset": 19,
+                "size": 12
+              },
+              {
+                "duration": 17,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 2,
+                    "orientation": 0,
+                    "x": -52,
+                    "y": -32
+                  }
+                ],
+                "index": 3,
+                "offset": 31,
+                "size": 12
+              },
+              {
+                "duration": 20,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 4,
+                    "orientation": 0,
+                    "x": -53,
+                    "y": -79
+                  }
+                ],
+                "index": 4,
+                "offset": 43,
+                "size": 12
+              },
+              {
+                "duration": 51,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 5,
+                    "orientation": 0,
+                    "x": -66,
+                    "y": -64
+                  }
+                ],
+                "index": 5,
+                "offset": 55,
+                "size": 12
+              },
+              {
+                "duration": 88,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 5,
+                    "orientation": 0,
+                    "x": -66,
+                    "y": -64
+                  }
+                ],
+                "index": 6,
+                "offset": 67,
+                "size": 12
+              }
+            ],
+            "index": 1
+          },
+          {
+            "base": 199,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 12,
+                    "orientation": 0,
+                    "x": -11,
+                    "y": -27
+                  }
+                ],
+                "index": 0,
+                "offset": 199,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 12,
+                    "orientation": 0,
+                    "x": -11,
+                    "y": -26
+                  }
+                ],
+                "index": 1,
+                "offset": 211,
+                "size": 12
+              }
+            ],
+            "index": 2
+          },
+          {
+            "base": 223,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 11,
+                    "orientation": 0,
+                    "x": -16,
+                    "y": -22
+                  }
+                ],
+                "index": 0,
+                "offset": 223,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 11,
+                    "orientation": 0,
+                    "x": -16,
+                    "y": -21
+                  }
+                ],
+                "index": 1,
+                "offset": 235,
+                "size": 12
+              }
+            ],
+            "index": 3
+          },
+          {
+            "base": 247,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 24,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 13,
+                    "orientation": 0,
+                    "x": -14,
+                    "y": -18
+                  }
+                ],
+                "index": 0,
+                "offset": 247,
+                "size": 12
+              },
+              {
+                "duration": 16,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 13,
+                    "orientation": 0,
+                    "x": -14,
+                    "y": -19
+                  }
+                ],
+                "index": 1,
+                "offset": 259,
+                "size": 12
+              }
+            ],
+            "index": 4
+          },
+          {
+            "base": 271,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 14,
+                    "orientation": 0,
+                    "x": -8,
+                    "y": -24
+                  }
+                ],
+                "index": 0,
+                "offset": 271,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 14,
+                    "orientation": 0,
+                    "x": -8,
+                    "y": -23
+                  }
+                ],
+                "index": 1,
+                "offset": 283,
+                "size": 12
+              }
+            ],
+            "index": 5
+          },
+          {
+            "base": 295,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 15,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 15,
+                    "orientation": 0,
+                    "x": -7,
+                    "y": -23
+                  }
+                ],
+                "index": 0,
+                "offset": 295,
+                "size": 12
+              },
+              {
+                "duration": 15,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 15,
+                    "orientation": 0,
+                    "x": -7,
+                    "y": -24
+                  }
+                ],
+                "index": 1,
+                "offset": 307,
+                "size": 12
+              }
+            ],
+            "index": 6
+          },
+          {
+            "base": 319,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 15,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 16,
+                    "orientation": 0,
+                    "x": -14,
+                    "y": -10
+                  }
+                ],
+                "index": 0,
+                "offset": 319,
+                "size": 12
+              },
+              {
+                "duration": 15,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 16,
+                    "orientation": 0,
+                    "x": -14,
+                    "y": -11
+                  }
+                ],
+                "index": 1,
+                "offset": 331,
+                "size": 12
+              }
+            ],
+            "index": 7
+          },
+          {
+            "base": 343,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 17,
+                    "orientation": 0,
+                    "x": -10,
+                    "y": -32
+                  }
+                ],
+                "index": 0,
+                "offset": 343,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 17,
+                    "orientation": 0,
+                    "x": -9,
+                    "y": -32
+                  }
+                ],
+                "index": 1,
+                "offset": 355,
+                "size": 12
+              }
+            ],
+            "index": 8
+          },
+          {
+            "base": 367,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 70,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 18,
+                    "orientation": 0,
+                    "x": -31,
+                    "y": -24
+                  }
+                ],
+                "index": 0,
+                "offset": 367,
+                "size": 12
+              },
+              {
+                "duration": 21,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 19,
+                    "orientation": 0,
+                    "x": -27,
+                    "y": -36
+                  }
+                ],
+                "index": 1,
+                "offset": 379,
+                "size": 12
+              }
+            ],
+            "index": 9
+          },
+          {
+            "base": 391,
+            "frame_count": 7,
+            "frames": [
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 23,
+                    "orientation": 0,
+                    "x": -40,
+                    "y": -16
+                  }
+                ],
+                "index": 0,
+                "offset": 391,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 24,
+                    "orientation": 0,
+                    "x": -46,
+                    "y": -24
+                  }
+                ],
+                "index": 1,
+                "offset": 403,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 25,
+                    "orientation": 0,
+                    "x": -67,
+                    "y": -32
+                  }
+                ],
+                "index": 2,
+                "offset": 415,
+                "size": 12
+              },
+              {
+                "duration": 47,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 26,
+                    "orientation": 0,
+                    "x": -68,
+                    "y": -27
+                  }
+                ],
+                "index": 3,
+                "offset": 427,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 25,
+                    "orientation": 0,
+                    "x": -67,
+                    "y": -32
+                  }
+                ],
+                "index": 4,
+                "offset": 439,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 24,
+                    "orientation": 0,
+                    "x": -46,
+                    "y": -24
+                  }
+                ],
+                "index": 5,
+                "offset": 451,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 23,
+                    "orientation": 0,
+                    "x": -40,
+                    "y": -16
+                  }
+                ],
+                "index": 6,
+                "offset": 463,
+                "size": 12
+              }
+            ],
+            "index": 10
+          }
+        ]
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0004_cinema.sprite_buffer.bin",
+        "sha256": "a9ae3ba7c2668ecaa7086ce9cf28f5110e6518c63cbe5ca303d3c7dcaa8f7ece",
+        "size": 475
+      },
+      "role": "cinema.sprite_buffer",
+      "source_offset": 940,
+      "source_sha256": "a9ae3ba7c2668ecaa7086ce9cf28f5110e6518c63cbe5ca303d3c7dcaa8f7ece",
+      "source_size": 475
+    },
+    {
+      "metadata": {
+        "entries": 50
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0005_cinema.sprite_pointers.bin",
+        "sha256": "2c715219dc90a9e7626db0fa16973a17f441f1b2c3f8ecd2f6577850c6781e0a",
+        "size": 200
+      },
+      "role": "cinema.sprite_pointers",
+      "source_offset": 1415,
+      "source_sha256": "2c715219dc90a9e7626db0fa16973a17f441f1b2c3f8ecd2f6577850c6781e0a",
+      "source_size": 200
+    },
+    {
+      "metadata": {
+        "entries": 25,
+        "entry_size": 100
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0006_cinema.text.bin",
+        "sha256": "0a8dc25fb9d234a820d5110ed0da323d62b79e074905d73269085f4ae3b3bae8",
+        "size": 2500
+      },
+      "role": "cinema.text",
+      "source_offset": 1615,
+      "source_sha256": "0a8dc25fb9d234a820d5110ed0da323d62b79e074905d73269085f4ae3b3bae8",
+      "source_size": 2500
+    },
+    {
+      "metadata": {
+        "encoding": "i16le",
+        "value": 28
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0007_cinema.images.max_index.bin",
+        "sha256": "8e2ada6ef626983be1fe9a365ceeb424ee59b884e144f7541cf191116876de04",
+        "size": 2
+      },
+      "role": "cinema.images.max_index",
+      "source_offset": 4115,
+      "source_sha256": "8e2ada6ef626983be1fe9a365ceeb424ee59b884e144f7541cf191116876de04",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 466
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0008_cinema.image_0_.length.bin",
+        "sha256": "aae06928db18f53826583cb04e592526b12fbb4c9b0ab4bdb928360132bf3c60",
+        "size": 2
+      },
+      "role": "cinema.image[0].length",
+      "source_offset": 4117,
+      "source_sha256": "aae06928db18f53826583cb04e592526b12fbb4c9b0ab4bdb928360132bf3c60",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            65,
+            75,
+            93,
+            113,
+            133,
+            154,
+            176,
+            198,
+            223,
+            255,
+            287,
+            319,
+            350,
+            379,
+            407,
+            435,
+            456,
+            461,
+            462,
+            463,
+            464
+          ],
+          "encoded_size": 465,
+          "height": 26,
+          "literal_pixels": 287,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            65,
+            75,
+            93,
+            113,
+            133,
+            154,
+            176,
+            198,
+            223,
+            255,
+            287,
+            319,
+            350,
+            379,
+            407,
+            435,
+            456,
+            461,
+            462,
+            463,
+            464
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 675,
+          "width": 37
+        },
+        "index": 0,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 466
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0009_cinema.image_0.bin",
+        "sha256": "4080afa747c3b1fb7e27d5b23d76a4eb996cf2113d7c5f623c2b9f96d228bb26",
+        "size": 466
+      },
+      "role": "cinema.image[0]",
+      "source_offset": 4119,
+      "source_sha256": "4080afa747c3b1fb7e27d5b23d76a4eb996cf2113d7c5f623c2b9f96d228bb26",
+      "source_size": 466
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 1024
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0010_cinema.image_1_.length.bin",
+        "sha256": "4f35212d12f9ad2036492c95f1fe79baf4ec7bd9bef3dffa7579f2293ff546a4",
+        "size": 2
+      },
+      "role": "cinema.image[1].length",
+      "source_offset": 4585,
+      "source_sha256": "4f35212d12f9ad2036492c95f1fe79baf4ec7bd9bef3dffa7579f2293ff546a4",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            133,
+            144,
+            161,
+            179,
+            199,
+            219,
+            239,
+            263,
+            293,
+            323,
+            352,
+            382,
+            409,
+            434,
+            458,
+            480,
+            500,
+            519,
+            537,
+            553,
+            567,
+            580,
+            592,
+            604,
+            616,
+            628,
+            640,
+            652,
+            665,
+            678,
+            693,
+            709,
+            725,
+            743,
+            762,
+            782,
+            802,
+            822,
+            844,
+            867,
+            892,
+            918,
+            941,
+            961,
+            979,
+            995,
+            1007,
+            1016,
+            1017,
+            1018,
+            1019,
+            1020,
+            1021,
+            1022
+          ],
+          "encoded_size": 1023,
+          "height": 60,
+          "literal_pixels": 695,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            133,
+            144,
+            161,
+            179,
+            199,
+            219,
+            239,
+            263,
+            293,
+            323,
+            352,
+            382,
+            409,
+            434,
+            458,
+            480,
+            500,
+            519,
+            537,
+            553,
+            567,
+            580,
+            592,
+            604,
+            616,
+            628,
+            640,
+            652,
+            665,
+            678,
+            693,
+            709,
+            725,
+            743,
+            762,
+            782,
+            802,
+            822,
+            844,
+            867,
+            892,
+            918,
+            941,
+            961,
+            979,
+            995,
+            1007,
+            1016,
+            1017,
+            1018,
+            1019,
+            1020,
+            1021,
+            1022
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 2245,
+          "width": 49
+        },
+        "index": 1,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 1024
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0011_cinema.image_1.bin",
+        "sha256": "8ec0cbd0a762a5c5308eedc9324032f3e1804c2d0dac6d94afce4294a8d7d4ae",
+        "size": 1024
+      },
+      "role": "cinema.image[1]",
+      "source_offset": 4587,
+      "source_sha256": "8ec0cbd0a762a5c5308eedc9324032f3e1804c2d0dac6d94afce4294a8d7d4ae",
+      "source_size": 1024
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 1802
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0012_cinema.image_2_.length.bin",
+        "sha256": "3b1b07a15d2ef91320f5ba771d97ab2ce9a7b8b5a0e8fc16fbc7fd9caaa3fc63",
+        "size": 2
+      },
+      "role": "cinema.image[2].length",
+      "source_offset": 5611,
+      "source_sha256": "3b1b07a15d2ef91320f5ba771d97ab2ce9a7b8b5a0e8fc16fbc7fd9caaa3fc63",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            144,
+            145,
+            146,
+            158,
+            173,
+            191,
+            209,
+            230,
+            253,
+            278,
+            303,
+            329,
+            357,
+            386,
+            417,
+            449,
+            483,
+            518,
+            553,
+            590,
+            630,
+            680,
+            739,
+            799,
+            858,
+            919,
+            978,
+            1036,
+            1092,
+            1145,
+            1194,
+            1238,
+            1278,
+            1317,
+            1356,
+            1395,
+            1430,
+            1454,
+            1480,
+            1507,
+            1535,
+            1562,
+            1588,
+            1613,
+            1635,
+            1654,
+            1674,
+            1693,
+            1712,
+            1730,
+            1748,
+            1766,
+            1776,
+            1784,
+            1785,
+            1786,
+            1787,
+            1788,
+            1789,
+            1790,
+            1791,
+            1792,
+            1793,
+            1794,
+            1795,
+            1796,
+            1797,
+            1798,
+            1799,
+            1800
+          ],
+          "encoded_size": 1801,
+          "height": 70,
+          "literal_pixels": 1431,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            144,
+            145,
+            146,
+            158,
+            173,
+            191,
+            209,
+            230,
+            253,
+            278,
+            303,
+            329,
+            357,
+            386,
+            417,
+            449,
+            483,
+            518,
+            553,
+            590,
+            630,
+            680,
+            739,
+            799,
+            858,
+            919,
+            978,
+            1036,
+            1092,
+            1145,
+            1194,
+            1238,
+            1278,
+            1317,
+            1356,
+            1395,
+            1430,
+            1454,
+            1480,
+            1507,
+            1535,
+            1562,
+            1588,
+            1613,
+            1635,
+            1654,
+            1674,
+            1693,
+            1712,
+            1730,
+            1748,
+            1766,
+            1776,
+            1784,
+            1785,
+            1786,
+            1787,
+            1788,
+            1789,
+            1790,
+            1791,
+            1792,
+            1793,
+            1794,
+            1795,
+            1796,
+            1797,
+            1798,
+            1799,
+            1800
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 4449,
+          "width": 84
+        },
+        "index": 2,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 1802
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0013_cinema.image_2.bin",
+        "sha256": "5851e614f12a08e2485deceecf9dfd7fc823d76a06ca7acf8bf479e15d0feb5f",
+        "size": 1802
+      },
+      "role": "cinema.image[2]",
+      "source_offset": 5613,
+      "source_sha256": "5851e614f12a08e2485deceecf9dfd7fc823d76a06ca7acf8bf479e15d0feb5f",
+      "source_size": 1802
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0014_cinema.image_3_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[3].length",
+      "source_offset": 7415,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 3,
+        "pixel_bytes": 38400,
+        "roles": [
+          "background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0015_cinema.image_3.bin",
+        "sha256": "1888a60bc1964820a14034bb554d1e7c423cedd7264cbf02eaf11dc601672a25",
+        "size": 39168
+      },
+      "role": "cinema.image[3]",
+      "source_offset": 7417,
+      "source_sha256": "1888a60bc1964820a14034bb554d1e7c423cedd7264cbf02eaf11dc601672a25",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 3900
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0016_cinema.image_4_.length.bin",
+        "sha256": "586d7c1059f323e3f5c390ae3470f8b62bf03ea159a6920e90d70cfa6060131b",
+        "size": 2
+      },
+      "role": "cinema.image[4].length",
+      "source_offset": 46585,
+      "source_sha256": "586d7c1059f323e3f5c390ae3470f8b62bf03ea159a6920e90d70cfa6060131b",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            196,
+            209,
+            224,
+            242,
+            262,
+            284,
+            308,
+            333,
+            360,
+            388,
+            417,
+            447,
+            477,
+            508,
+            539,
+            569,
+            597,
+            624,
+            650,
+            675,
+            699,
+            735,
+            777,
+            819,
+            863,
+            908,
+            953,
+            1000,
+            1051,
+            1105,
+            1159,
+            1216,
+            1275,
+            1335,
+            1396,
+            1457,
+            1519,
+            1582,
+            1646,
+            1710,
+            1774,
+            1838,
+            1903,
+            1968,
+            2033,
+            2098,
+            2163,
+            2227,
+            2290,
+            2353,
+            2415,
+            2477,
+            2538,
+            2599,
+            2659,
+            2719,
+            2778,
+            2836,
+            2893,
+            2950,
+            3007,
+            3064,
+            3120,
+            3175,
+            3229,
+            3283,
+            3337,
+            3390,
+            3442,
+            3493,
+            3543,
+            3593,
+            3642,
+            3691,
+            3737,
+            3782,
+            3820,
+            3856,
+            3881,
+            3897,
+            3898
+          ],
+          "encoded_size": 3899,
+          "height": 88,
+          "literal_pixels": 3459,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            196,
+            209,
+            224,
+            242,
+            262,
+            284,
+            308,
+            333,
+            360,
+            388,
+            417,
+            447,
+            477,
+            508,
+            539,
+            569,
+            597,
+            624,
+            650,
+            675,
+            699,
+            735,
+            777,
+            819,
+            863,
+            908,
+            953,
+            1000,
+            1051,
+            1105,
+            1159,
+            1216,
+            1275,
+            1335,
+            1396,
+            1457,
+            1519,
+            1582,
+            1646,
+            1710,
+            1774,
+            1838,
+            1903,
+            1968,
+            2033,
+            2098,
+            2163,
+            2227,
+            2290,
+            2353,
+            2415,
+            2477,
+            2538,
+            2599,
+            2659,
+            2719,
+            2778,
+            2836,
+            2893,
+            2950,
+            3007,
+            3064,
+            3120,
+            3175,
+            3229,
+            3283,
+            3337,
+            3390,
+            3442,
+            3493,
+            3543,
+            3593,
+            3642,
+            3691,
+            3737,
+            3782,
+            3820,
+            3856,
+            3881,
+            3897,
+            3898
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 3053,
+          "width": 74
+        },
+        "index": 4,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 3900
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0017_cinema.image_4.bin",
+        "sha256": "677fae15be7d3b53cdf9c15261fe5987a9fb41e86927962d743ee4f90cf95849",
+        "size": 3900
+      },
+      "role": "cinema.image[4]",
+      "source_offset": 46587,
+      "source_sha256": "677fae15be7d3b53cdf9c15261fe5987a9fb41e86927962d743ee4f90cf95849",
+      "source_size": 3900
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 4319
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0018_cinema.image_5_.length.bin",
+        "sha256": "f68db2bbbbc3d9cdee4f286854f548d161d42adc2d2a06093a2432be1dede081",
+        "size": 2
+      },
+      "role": "cinema.image[5].length",
+      "source_offset": 50487,
+      "source_sha256": "f68db2bbbbc3d9cdee4f286854f548d161d42adc2d2a06093a2432be1dede081",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            142,
+            156,
+            175,
+            196,
+            219,
+            245,
+            272,
+            300,
+            328,
+            357,
+            386,
+            415,
+            443,
+            471,
+            499,
+            539,
+            582,
+            627,
+            675,
+            725,
+            779,
+            836,
+            894,
+            958,
+            1024,
+            1095,
+            1170,
+            1247,
+            1326,
+            1407,
+            1490,
+            1573,
+            1657,
+            1742,
+            1825,
+            1905,
+            1984,
+            2064,
+            2146,
+            2228,
+            2311,
+            2395,
+            2480,
+            2565,
+            2649,
+            2733,
+            2815,
+            2897,
+            2976,
+            3056,
+            3133,
+            3208,
+            3282,
+            3356,
+            3433,
+            3511,
+            3589,
+            3666,
+            3740,
+            3812,
+            3881,
+            3948,
+            4013,
+            4074,
+            4130,
+            4182,
+            4220,
+            4255,
+            4289
+          ],
+          "encoded_size": 4318,
+          "height": 69,
+          "literal_pixels": 3828,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            142,
+            156,
+            175,
+            196,
+            219,
+            245,
+            272,
+            300,
+            328,
+            357,
+            386,
+            415,
+            443,
+            471,
+            499,
+            539,
+            582,
+            627,
+            675,
+            725,
+            779,
+            836,
+            894,
+            958,
+            1024,
+            1095,
+            1170,
+            1247,
+            1326,
+            1407,
+            1490,
+            1573,
+            1657,
+            1742,
+            1825,
+            1905,
+            1984,
+            2064,
+            2146,
+            2228,
+            2311,
+            2395,
+            2480,
+            2565,
+            2649,
+            2733,
+            2815,
+            2897,
+            2976,
+            3056,
+            3133,
+            3208,
+            3282,
+            3356,
+            3433,
+            3511,
+            3589,
+            3666,
+            3740,
+            3812,
+            3881,
+            3948,
+            4013,
+            4074,
+            4130,
+            4182,
+            4220,
+            4255,
+            4289
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 5970,
+          "width": 142
+        },
+        "index": 5,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 4319
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0019_cinema.image_5.bin",
+        "sha256": "ba2949ecfccec0131622d441daef1fb962b94c54d9e276c93fec5490d32b56b2",
+        "size": 4319
+      },
+      "role": "cinema.image[5]",
+      "source_offset": 50489,
+      "source_sha256": "ba2949ecfccec0131622d441daef1fb962b94c54d9e276c93fec5490d32b56b2",
+      "source_size": 4319
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 4440
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0020_cinema.image_6_.length.bin",
+        "sha256": "03c6a7bc016214fd96f2a5748dbf30962d62b2505583556ab84524c600d94e46",
+        "size": 2
+      },
+      "role": "cinema.image[6].length",
+      "source_offset": 54808,
+      "source_sha256": "03c6a7bc016214fd96f2a5748dbf30962d62b2505583556ab84524c600d94e46",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            206,
+            222,
+            241,
+            262,
+            286,
+            312,
+            339,
+            366,
+            394,
+            422,
+            450,
+            478,
+            506,
+            533,
+            560,
+            601,
+            644,
+            691,
+            740,
+            794,
+            851,
+            908,
+            971,
+            1036,
+            1106,
+            1180,
+            1256,
+            1334,
+            1414,
+            1496,
+            1578,
+            1662,
+            1746,
+            1828,
+            1907,
+            1986,
+            2066,
+            2147,
+            2228,
+            2310,
+            2394,
+            2481,
+            2568,
+            2654,
+            2739,
+            2821,
+            2903,
+            2983,
+            3062,
+            3138,
+            3212,
+            3285,
+            3358,
+            3434,
+            3511,
+            3588,
+            3664,
+            3737,
+            3808,
+            3876,
+            3942,
+            4006,
+            4067,
+            4125,
+            4182,
+            4230,
+            4275,
+            4319,
+            4357,
+            4389,
+            4418,
+            4429,
+            4430,
+            4431,
+            4432,
+            4433,
+            4434,
+            4435,
+            4436,
+            4437,
+            4438
+          ],
+          "encoded_size": 4439,
+          "height": 91,
+          "literal_pixels": 3936,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            206,
+            222,
+            241,
+            262,
+            286,
+            312,
+            339,
+            366,
+            394,
+            422,
+            450,
+            478,
+            506,
+            533,
+            560,
+            601,
+            644,
+            691,
+            740,
+            794,
+            851,
+            908,
+            971,
+            1036,
+            1106,
+            1180,
+            1256,
+            1334,
+            1414,
+            1496,
+            1578,
+            1662,
+            1746,
+            1828,
+            1907,
+            1986,
+            2066,
+            2147,
+            2228,
+            2310,
+            2394,
+            2481,
+            2568,
+            2654,
+            2739,
+            2821,
+            2903,
+            2983,
+            3062,
+            3138,
+            3212,
+            3285,
+            3358,
+            3434,
+            3511,
+            3588,
+            3664,
+            3737,
+            3808,
+            3876,
+            3942,
+            4006,
+            4067,
+            4125,
+            4182,
+            4230,
+            4275,
+            4319,
+            4357,
+            4389,
+            4418,
+            4429,
+            4430,
+            4431,
+            4432,
+            4433,
+            4434,
+            4435,
+            4436,
+            4437,
+            4438
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 5528,
+          "width": 104
+        },
+        "index": 6,
+        "padding_size": 1,
+        "roles": [
+          "unused_sprite"
+        ],
+        "stored_size": 4440
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0021_cinema.image_6.bin",
+        "sha256": "f4d81fffd86fe48f8f287d260301623136695280241c1545e5c4775a47f3deba",
+        "size": 4440
+      },
+      "role": "cinema.image[6]",
+      "source_offset": 54810,
+      "source_sha256": "f4d81fffd86fe48f8f287d260301623136695280241c1545e5c4775a47f3deba",
+      "source_size": 4440
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 20869
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0022_cinema.image_7_.length.bin",
+        "sha256": "606e9c22987d1df0d7799042e7adee6297d6a3696ad030b7ad6bbe210845e9ed",
+        "size": 2
+      },
+      "role": "cinema.image[7].length",
+      "source_offset": 59250,
+      "source_sha256": "606e9c22987d1df0d7799042e7adee6297d6a3696ad030b7ad6bbe210845e9ed",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            276,
+            438,
+            600,
+            762,
+            924,
+            1086,
+            1248,
+            1410,
+            1572,
+            1734,
+            1896,
+            2058,
+            2220,
+            2382,
+            2544,
+            2706,
+            2868,
+            3030,
+            3192,
+            3354,
+            3516,
+            3678,
+            3840,
+            4002,
+            4164,
+            4326,
+            4488,
+            4650,
+            4812,
+            4974,
+            5136,
+            5298,
+            5460,
+            5622,
+            5784,
+            5946,
+            6108,
+            6270,
+            6432,
+            6594,
+            6756,
+            6918,
+            7080,
+            7242,
+            7404,
+            7566,
+            7728,
+            7890,
+            8052,
+            8214,
+            8376,
+            8538,
+            8700,
+            8862,
+            9024,
+            9186,
+            9348,
+            9510,
+            9672,
+            9834,
+            9996,
+            10158,
+            10320,
+            10482,
+            10644,
+            10806,
+            10968,
+            11130,
+            11292,
+            11454,
+            11616,
+            11778,
+            11940,
+            12102,
+            12264,
+            12426,
+            12588,
+            12750,
+            12912,
+            13074,
+            13236,
+            13398,
+            13560,
+            13722,
+            13884,
+            14046,
+            14208,
+            14370,
+            14532,
+            14694,
+            14856,
+            15018,
+            15180,
+            15342,
+            15504,
+            15666,
+            15828,
+            15990,
+            16152,
+            16314,
+            16476,
+            16638,
+            16800,
+            16962,
+            17124,
+            17286,
+            17448,
+            17610,
+            17772,
+            17934,
+            18096,
+            18258,
+            18420,
+            18582,
+            18744,
+            18906,
+            19068,
+            19230,
+            19392,
+            19554,
+            19716,
+            19878,
+            20040,
+            20202,
+            20364,
+            20526,
+            20688,
+            20850,
+            20852,
+            20854,
+            20856,
+            20858,
+            20860,
+            20862,
+            20864,
+            20866
+          ],
+          "encoded_size": 20868,
+          "height": 136,
+          "literal_pixels": 20320,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            276,
+            438,
+            600,
+            762,
+            924,
+            1086,
+            1248,
+            1410,
+            1572,
+            1734,
+            1896,
+            2058,
+            2220,
+            2382,
+            2544,
+            2706,
+            2868,
+            3030,
+            3192,
+            3354,
+            3516,
+            3678,
+            3840,
+            4002,
+            4164,
+            4326,
+            4488,
+            4650,
+            4812,
+            4974,
+            5136,
+            5298,
+            5460,
+            5622,
+            5784,
+            5946,
+            6108,
+            6270,
+            6432,
+            6594,
+            6756,
+            6918,
+            7080,
+            7242,
+            7404,
+            7566,
+            7728,
+            7890,
+            8052,
+            8214,
+            8376,
+            8538,
+            8700,
+            8862,
+            9024,
+            9186,
+            9348,
+            9510,
+            9672,
+            9834,
+            9996,
+            10158,
+            10320,
+            10482,
+            10644,
+            10806,
+            10968,
+            11130,
+            11292,
+            11454,
+            11616,
+            11778,
+            11940,
+            12102,
+            12264,
+            12426,
+            12588,
+            12750,
+            12912,
+            13074,
+            13236,
+            13398,
+            13560,
+            13722,
+            13884,
+            14046,
+            14208,
+            14370,
+            14532,
+            14694,
+            14856,
+            15018,
+            15180,
+            15342,
+            15504,
+            15666,
+            15828,
+            15990,
+            16152,
+            16314,
+            16476,
+            16638,
+            16800,
+            16962,
+            17124,
+            17286,
+            17448,
+            17610,
+            17772,
+            17934,
+            18096,
+            18258,
+            18420,
+            18582,
+            18744,
+            18906,
+            19068,
+            19230,
+            19392,
+            19554,
+            19716,
+            19878,
+            20040,
+            20202,
+            20364,
+            20526,
+            20688,
+            20850,
+            20852,
+            20854,
+            20856,
+            20858,
+            20860,
+            20862,
+            20864,
+            20866
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 1440,
+          "width": 160
+        },
+        "index": 7,
+        "padding_size": 1,
+        "roles": [
+          "unused_sprite"
+        ],
+        "stored_size": 20869
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0023_cinema.image_7.bin",
+        "sha256": "2429e74ed8df9159fbf155311688c6cf2faa4209c6b84a49daf659ac343225e8",
+        "size": 20869
+      },
+      "role": "cinema.image[7]",
+      "source_offset": 59252,
+      "source_sha256": "2429e74ed8df9159fbf155311688c6cf2faa4209c6b84a49daf659ac343225e8",
+      "source_size": 20869
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 21024
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0024_cinema.image_8_.length.bin",
+        "sha256": "3c4e2c72aecfed7ab77c81051c7e4482c29368fa3523cd6e4247e09736d6c2c4",
+        "size": 2
+      },
+      "role": "cinema.image[8].length",
+      "source_offset": 80121,
+      "source_sha256": "3c4e2c72aecfed7ab77c81051c7e4482c29368fa3523cd6e4247e09736d6c2c4",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            290,
+            453,
+            616,
+            779,
+            942,
+            1105,
+            1268,
+            1431,
+            1594,
+            1757,
+            1920,
+            2083,
+            2246,
+            2409,
+            2572,
+            2735,
+            2898,
+            3061,
+            3224,
+            3387,
+            3550,
+            3713,
+            3876,
+            4039,
+            4202,
+            4365,
+            4528,
+            4691,
+            4854,
+            5017,
+            5180,
+            5343,
+            5506,
+            5669,
+            5832,
+            5995,
+            6158,
+            6321,
+            6484,
+            6647,
+            6810,
+            6973,
+            7136,
+            7299,
+            7462,
+            7625,
+            7788,
+            7951,
+            8114,
+            8277,
+            8440,
+            8603,
+            8766,
+            8929,
+            9092,
+            9255,
+            9418,
+            9581,
+            9744,
+            9907,
+            10070,
+            10233,
+            10396,
+            10559,
+            10722,
+            10885,
+            11048,
+            11211,
+            11374,
+            11537,
+            11700,
+            11863,
+            12026,
+            12189,
+            12352,
+            12515,
+            12678,
+            12841,
+            13004,
+            13167,
+            13330,
+            13493,
+            13656,
+            13819,
+            13982,
+            14145,
+            14308,
+            14471,
+            14634,
+            14797,
+            14960,
+            15123,
+            15286,
+            15449,
+            15612,
+            15775,
+            15938,
+            16101,
+            16264,
+            16427,
+            16590,
+            16753,
+            16916,
+            17079,
+            17242,
+            17405,
+            17568,
+            17731,
+            17894,
+            18057,
+            18220,
+            18383,
+            18546,
+            18709,
+            18872,
+            19035,
+            19198,
+            19361,
+            19524,
+            19687,
+            19850,
+            20013,
+            20176,
+            20339,
+            20502,
+            20665,
+            20828,
+            20991,
+            20993,
+            20995,
+            20997,
+            20999,
+            21001,
+            21003,
+            21005,
+            21007,
+            21009,
+            21011,
+            21013,
+            21015,
+            21017,
+            21019,
+            21021
+          ],
+          "encoded_size": 21023,
+          "height": 143,
+          "literal_pixels": 20320,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            290,
+            453,
+            616,
+            779,
+            942,
+            1105,
+            1268,
+            1431,
+            1594,
+            1757,
+            1920,
+            2083,
+            2246,
+            2409,
+            2572,
+            2735,
+            2898,
+            3061,
+            3224,
+            3387,
+            3550,
+            3713,
+            3876,
+            4039,
+            4202,
+            4365,
+            4528,
+            4691,
+            4854,
+            5017,
+            5180,
+            5343,
+            5506,
+            5669,
+            5832,
+            5995,
+            6158,
+            6321,
+            6484,
+            6647,
+            6810,
+            6973,
+            7136,
+            7299,
+            7462,
+            7625,
+            7788,
+            7951,
+            8114,
+            8277,
+            8440,
+            8603,
+            8766,
+            8929,
+            9092,
+            9255,
+            9418,
+            9581,
+            9744,
+            9907,
+            10070,
+            10233,
+            10396,
+            10559,
+            10722,
+            10885,
+            11048,
+            11211,
+            11374,
+            11537,
+            11700,
+            11863,
+            12026,
+            12189,
+            12352,
+            12515,
+            12678,
+            12841,
+            13004,
+            13167,
+            13330,
+            13493,
+            13656,
+            13819,
+            13982,
+            14145,
+            14308,
+            14471,
+            14634,
+            14797,
+            14960,
+            15123,
+            15286,
+            15449,
+            15612,
+            15775,
+            15938,
+            16101,
+            16264,
+            16427,
+            16590,
+            16753,
+            16916,
+            17079,
+            17242,
+            17405,
+            17568,
+            17731,
+            17894,
+            18057,
+            18220,
+            18383,
+            18546,
+            18709,
+            18872,
+            19035,
+            19198,
+            19361,
+            19524,
+            19687,
+            19850,
+            20013,
+            20176,
+            20339,
+            20502,
+            20665,
+            20828,
+            20991,
+            20993,
+            20995,
+            20997,
+            20999,
+            21001,
+            21003,
+            21005,
+            21007,
+            21009,
+            21011,
+            21013,
+            21015,
+            21017,
+            21019,
+            21021
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 4848,
+          "width": 176
+        },
+        "index": 8,
+        "padding_size": 1,
+        "roles": [
+          "unused_sprite"
+        ],
+        "stored_size": 21024
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0025_cinema.image_8.bin",
+        "sha256": "6084968b2563479e8514eeb4dbc07eca725ab3532a9ffdba3987ea26cdbcdb34",
+        "size": 21024
+      },
+      "role": "cinema.image[8]",
+      "source_offset": 80123,
+      "source_sha256": "6084968b2563479e8514eeb4dbc07eca725ab3532a9ffdba3987ea26cdbcdb34",
+      "source_size": 21024
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 1637
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0026_cinema.image_9_.length.bin",
+        "sha256": "451858a2a4112983a406289de5bc79a4f65057abb9caf9ae597db29469ef9f5b",
+        "size": 2
+      },
+      "role": "cinema.image[9].length",
+      "source_offset": 101147,
+      "source_sha256": "451858a2a4112983a406289de5bc79a4f65057abb9caf9ae597db29469ef9f5b",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            154,
+            165,
+            180,
+            195,
+            210,
+            229,
+            250,
+            271,
+            294,
+            318,
+            344,
+            371,
+            400,
+            431,
+            463,
+            494,
+            527,
+            560,
+            593,
+            627,
+            667,
+            727,
+            789,
+            852,
+            914,
+            973,
+            1029,
+            1084,
+            1137,
+            1189,
+            1238,
+            1283,
+            1326,
+            1366,
+            1406,
+            1444,
+            1480,
+            1514,
+            1547,
+            1577,
+            1602,
+            1625,
+            1626,
+            1627,
+            1628,
+            1629,
+            1630,
+            1631,
+            1632,
+            1633,
+            1634,
+            1635
+          ],
+          "encoded_size": 1636,
+          "height": 66,
+          "literal_pixels": 1268,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            154,
+            165,
+            180,
+            195,
+            210,
+            229,
+            250,
+            271,
+            294,
+            318,
+            344,
+            371,
+            400,
+            431,
+            463,
+            494,
+            527,
+            560,
+            593,
+            627,
+            667,
+            727,
+            789,
+            852,
+            914,
+            973,
+            1029,
+            1084,
+            1137,
+            1189,
+            1238,
+            1283,
+            1326,
+            1366,
+            1406,
+            1444,
+            1480,
+            1514,
+            1547,
+            1577,
+            1602,
+            1625,
+            1626,
+            1627,
+            1628,
+            1629,
+            1630,
+            1631,
+            1632,
+            1633,
+            1634,
+            1635
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 5134,
+          "width": 97
+        },
+        "index": 9,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 1637
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0027_cinema.image_9.bin",
+        "sha256": "9f473f4494d27cbe0326bad1bfd870c64fe95a5c0f2d172e35093322666f51b5",
+        "size": 1637
+      },
+      "role": "cinema.image[9]",
+      "source_offset": 101149,
+      "source_sha256": "9f473f4494d27cbe0326bad1bfd870c64fe95a5c0f2d172e35093322666f51b5",
+      "source_size": 1637
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0028_cinema.image_10_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[10].length",
+      "source_offset": 102786,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 10,
+        "pixel_bytes": 38400,
+        "roles": [
+          "background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0029_cinema.image_10.bin",
+        "sha256": "fb85a87b9d2cc09d64ecd3e2392b733ff7bd91830635dcec01c7d0ca933b89c6",
+        "size": 39168
+      },
+      "role": "cinema.image[10]",
+      "source_offset": 102788,
+      "source_sha256": "fb85a87b9d2cc09d64ecd3e2392b733ff7bd91830635dcec01c7d0ca933b89c6",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 484
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0030_cinema.image_11_.length.bin",
+        "sha256": "aa944c7322434c929555962d2e79f8a914a31376b64179eb46006ff4433c37a7",
+        "size": 2
+      },
+      "role": "cinema.image[11].length",
+      "source_offset": 141956,
+      "source_sha256": "aa944c7322434c929555962d2e79f8a914a31376b64179eb46006ff4433c37a7",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            46,
+            56,
+            78,
+            108,
+            139,
+            170,
+            201,
+            231,
+            261,
+            289,
+            316,
+            342,
+            366,
+            388,
+            408,
+            426,
+            442,
+            456,
+            467,
+            476,
+            482
+          ],
+          "encoded_size": 483,
+          "height": 21,
+          "literal_pixels": 373,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            46,
+            56,
+            78,
+            108,
+            139,
+            170,
+            201,
+            231,
+            261,
+            289,
+            316,
+            342,
+            366,
+            388,
+            408,
+            426,
+            442,
+            456,
+            467,
+            476,
+            482
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 278,
+          "width": 31
+        },
+        "index": 11,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 484
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0031_cinema.image_11.bin",
+        "sha256": "39d5f6e30fd01c9fce3c1e3516fd4c98f600bf3fc105349bbaab6714ce0fa9d1",
+        "size": 484
+      },
+      "role": "cinema.image[11]",
+      "source_offset": 141958,
+      "source_sha256": "39d5f6e30fd01c9fce3c1e3516fd4c98f600bf3fc105349bbaab6714ce0fa9d1",
+      "source_size": 484
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 436
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0032_cinema.image_12_.length.bin",
+        "sha256": "4d2c4e76f312702b19f6931741e52e29e3b8cdee92ac90c030f316aebea663fe",
+        "size": 2
+      },
+      "role": "cinema.image[12].length",
+      "source_offset": 142442,
+      "source_sha256": "4d2c4e76f312702b19f6931741e52e29e3b8cdee92ac90c030f316aebea663fe",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            50,
+            57,
+            70,
+            89,
+            115,
+            141,
+            167,
+            193,
+            219,
+            244,
+            268,
+            291,
+            312,
+            332,
+            350,
+            366,
+            381,
+            394,
+            406,
+            416,
+            424,
+            430,
+            434
+          ],
+          "encoded_size": 435,
+          "height": 23,
+          "literal_pixels": 320,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            50,
+            57,
+            70,
+            89,
+            115,
+            141,
+            167,
+            193,
+            219,
+            244,
+            268,
+            291,
+            312,
+            332,
+            350,
+            366,
+            381,
+            394,
+            406,
+            416,
+            424,
+            430,
+            434
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 255,
+          "width": 25
+        },
+        "index": 12,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 436
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0033_cinema.image_12.bin",
+        "sha256": "c3040a043d6161cdd5ae677b6b45d2ad0f223fc700b9f967f255a6f8e1bf7d86",
+        "size": 436
+      },
+      "role": "cinema.image[12]",
+      "source_offset": 142444,
+      "source_sha256": "c3040a043d6161cdd5ae677b6b45d2ad0f223fc700b9f967f255a6f8e1bf7d86",
+      "source_size": 436
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 284
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0034_cinema.image_13_.length.bin",
+        "sha256": "8411fbeb6f7a0d0cba9595af2c6d9d915879d86e5e1e2d5d3a0afaf062edb1a6",
+        "size": 2
+      },
+      "role": "cinema.image[13].length",
+      "source_offset": 142880,
+      "source_sha256": "8411fbeb6f7a0d0cba9595af2c6d9d915879d86e5e1e2d5d3a0afaf062edb1a6",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            36,
+            44,
+            60,
+            79,
+            100,
+            123,
+            148,
+            174,
+            193,
+            211,
+            228,
+            242,
+            255,
+            267,
+            277,
+            282
+          ],
+          "encoded_size": 283,
+          "height": 16,
+          "literal_pixels": 191,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            36,
+            44,
+            60,
+            79,
+            100,
+            123,
+            148,
+            174,
+            193,
+            211,
+            228,
+            242,
+            255,
+            267,
+            277,
+            282
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 257,
+          "width": 28
+        },
+        "index": 13,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 284
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0035_cinema.image_13.bin",
+        "sha256": "8a1ce840900c2c388fa102e4371df3a34dd4c3fad2980198cb7e0d57e625ac9d",
+        "size": 284
+      },
+      "role": "cinema.image[13]",
+      "source_offset": 142882,
+      "source_sha256": "8a1ce840900c2c388fa102e4371df3a34dd4c3fad2980198cb7e0d57e625ac9d",
+      "source_size": 284
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 281
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0036_cinema.image_14_.length.bin",
+        "sha256": "ddab094fcd1ca5f66239f6c35e74e47524dddd5833cd8bc370ba19b67491b350",
+        "size": 2
+      },
+      "role": "cinema.image[14].length",
+      "source_offset": 143166,
+      "source_sha256": "ddab094fcd1ca5f66239f6c35e74e47524dddd5833cd8bc370ba19b67491b350",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            30,
+            37,
+            51,
+            72,
+            98,
+            125,
+            153,
+            181,
+            208,
+            233,
+            256,
+            271,
+            279
+          ],
+          "encoded_size": 280,
+          "height": 13,
+          "literal_pixels": 216,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            30,
+            37,
+            51,
+            72,
+            98,
+            125,
+            153,
+            181,
+            208,
+            233,
+            256,
+            271,
+            279
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 135,
+          "width": 27
+        },
+        "index": 14,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 281
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0037_cinema.image_14.bin",
+        "sha256": "b00448338c64ce1a66f8a411fdfbd9e1e2e0a855c9d6db5739c6c27c6b83e32e",
+        "size": 281
+      },
+      "role": "cinema.image[14]",
+      "source_offset": 143168,
+      "source_sha256": "b00448338c64ce1a66f8a411fdfbd9e1e2e0a855c9d6db5739c6c27c6b83e32e",
+      "source_size": 281
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 473
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0038_cinema.image_15_.length.bin",
+        "sha256": "2bba1b052c922d602556dafd9daf61b8de4ac97f591b7dfcec293095157a3755",
+        "size": 2
+      },
+      "role": "cinema.image[15].length",
+      "source_offset": 143449,
+      "source_sha256": "2bba1b052c922d602556dafd9daf61b8de4ac97f591b7dfcec293095157a3755",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            42,
+            49,
+            62,
+            80,
+            102,
+            129,
+            159,
+            189,
+            220,
+            251,
+            282,
+            314,
+            346,
+            378,
+            410,
+            439,
+            459,
+            470,
+            471
+          ],
+          "encoded_size": 472,
+          "height": 19,
+          "literal_pixels": 376,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            42,
+            49,
+            62,
+            80,
+            102,
+            129,
+            159,
+            189,
+            220,
+            251,
+            282,
+            314,
+            346,
+            378,
+            410,
+            439,
+            459,
+            470,
+            471
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 213,
+          "width": 31
+        },
+        "index": 15,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 473
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0039_cinema.image_15.bin",
+        "sha256": "25ebbbcfec911f93b69229785f76617d4d9a5b550ba6ff1d7e3dfdc232f936fa",
+        "size": 473
+      },
+      "role": "cinema.image[15]",
+      "source_offset": 143451,
+      "source_sha256": "25ebbbcfec911f93b69229785f76617d4d9a5b550ba6ff1d7e3dfdc232f936fa",
+      "source_size": 473
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 350
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0040_cinema.image_16_.length.bin",
+        "sha256": "8d6dd9f330421e48e73e97c0819d55a9965bac90b1f2f36057b4c906d5791f05",
+        "size": 2
+      },
+      "role": "cinema.image[16].length",
+      "source_offset": 143924,
+      "source_sha256": "8d6dd9f330421e48e73e97c0819d55a9965bac90b1f2f36057b4c906d5791f05",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            38,
+            46,
+            61,
+            80,
+            101,
+            123,
+            146,
+            170,
+            195,
+            221,
+            248,
+            275,
+            302,
+            317,
+            329,
+            339,
+            348
+          ],
+          "encoded_size": 349,
+          "height": 17,
+          "literal_pixels": 268,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            38,
+            46,
+            61,
+            80,
+            101,
+            123,
+            146,
+            170,
+            195,
+            221,
+            248,
+            275,
+            302,
+            317,
+            329,
+            339,
+            348
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 191,
+          "width": 27
+        },
+        "index": 16,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 350
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0041_cinema.image_16.bin",
+        "sha256": "6dc9841fcdd1dce2d780c06118e390c94a299317de071e7ffe82e33ccaca37eb",
+        "size": 350
+      },
+      "role": "cinema.image[16]",
+      "source_offset": 143926,
+      "source_sha256": "6dc9841fcdd1dce2d780c06118e390c94a299317de071e7ffe82e33ccaca37eb",
+      "source_size": 350
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 656
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0042_cinema.image_17_.length.bin",
+        "sha256": "77cf049d68a07bf5debb62625c936b65c6c498925e0b2b9121260a96916c20a8",
+        "size": 2
+      },
+      "role": "cinema.image[17].length",
+      "source_offset": 144276,
+      "source_sha256": "77cf049d68a07bf5debb62625c936b65c6c498925e0b2b9121260a96916c20a8",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            58,
+            65,
+            81,
+            103,
+            129,
+            158,
+            190,
+            222,
+            253,
+            283,
+            312,
+            341,
+            369,
+            396,
+            422,
+            447,
+            472,
+            495,
+            517,
+            539,
+            559,
+            579,
+            597,
+            615,
+            632,
+            646,
+            654
+          ],
+          "encoded_size": 655,
+          "height": 27,
+          "literal_pixels": 522,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            58,
+            65,
+            81,
+            103,
+            129,
+            158,
+            190,
+            222,
+            253,
+            283,
+            312,
+            341,
+            369,
+            396,
+            422,
+            447,
+            472,
+            495,
+            517,
+            539,
+            559,
+            579,
+            597,
+            615,
+            632,
+            646,
+            654
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 315,
+          "width": 31
+        },
+        "index": 17,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 656
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0043_cinema.image_17.bin",
+        "sha256": "4d7941a39cfd14d8f8f598d65d10a96e662939134855a36702aee9164e349e5b",
+        "size": 656
+      },
+      "role": "cinema.image[17]",
+      "source_offset": 144278,
+      "source_sha256": "4d7941a39cfd14d8f8f598d65d10a96e662939134855a36702aee9164e349e5b",
+      "source_size": 656
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 1487
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0044_cinema.image_18_.length.bin",
+        "sha256": "78aa53bb626c3922aabb56b203ffe18a40eef0b147665fb2cc139022c543cfbc",
+        "size": 2
+      },
+      "role": "cinema.image[18].length",
+      "source_offset": 144934,
+      "source_sha256": "78aa53bb626c3922aabb56b203ffe18a40eef0b147665fb2cc139022c543cfbc",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            42,
+            118,
+            194,
+            270,
+            346,
+            422,
+            498,
+            574,
+            650,
+            726,
+            802,
+            878,
+            954,
+            1030,
+            1106,
+            1182,
+            1258,
+            1334,
+            1410
+          ],
+          "encoded_size": 1486,
+          "height": 19,
+          "literal_pixels": 1405,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            42,
+            118,
+            194,
+            270,
+            346,
+            422,
+            498,
+            574,
+            650,
+            726,
+            802,
+            878,
+            954,
+            1030,
+            1106,
+            1182,
+            1258,
+            1334,
+            1410
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 20,
+          "width": 75
+        },
+        "index": 18,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 1487
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0045_cinema.image_18.bin",
+        "sha256": "36d4c50017d27a338d9b52d8389c1c3030404ea9c2c074c5c83e47d964827ce7",
+        "size": 1487
+      },
+      "role": "cinema.image[18]",
+      "source_offset": 144936,
+      "source_sha256": "36d4c50017d27a338d9b52d8389c1c3030404ea9c2c074c5c83e47d964827ce7",
+      "source_size": 1487
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 2099
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0046_cinema.image_19_.length.bin",
+        "sha256": "efb092d7a99c3357d46935ff360e2499f6e3471c4e1ebadea0ba24d55cab31e8",
+        "size": 2
+      },
+      "role": "cinema.image[19].length",
+      "source_offset": 146423,
+      "source_sha256": "efb092d7a99c3357d46935ff360e2499f6e3471c4e1ebadea0ba24d55cab31e8",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            62,
+            133,
+            204,
+            275,
+            346,
+            417,
+            488,
+            559,
+            630,
+            701,
+            772,
+            843,
+            914,
+            985,
+            1056,
+            1127,
+            1198,
+            1269,
+            1340,
+            1411,
+            1482,
+            1553,
+            1624,
+            1695,
+            1767,
+            1836,
+            1890,
+            1956,
+            2027
+          ],
+          "encoded_size": 2098,
+          "height": 29,
+          "literal_pixels": 1989,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            62,
+            133,
+            204,
+            275,
+            346,
+            417,
+            488,
+            559,
+            630,
+            701,
+            772,
+            843,
+            914,
+            985,
+            1056,
+            1127,
+            1198,
+            1269,
+            1340,
+            1411,
+            1482,
+            1553,
+            1624,
+            1695,
+            1767,
+            1836,
+            1890,
+            1956,
+            2027
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 41,
+          "width": 70
+        },
+        "index": 19,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 2099
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0047_cinema.image_19.bin",
+        "sha256": "ecc90f3fdee8d6cc286aabe6a0fb77af4ddc21a9d2c672f8634780d1d316967b",
+        "size": 2099
+      },
+      "role": "cinema.image[19]",
+      "source_offset": 146425,
+      "source_sha256": "ecc90f3fdee8d6cc286aabe6a0fb77af4ddc21a9d2c672f8634780d1d316967b",
+      "source_size": 2099
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0048_cinema.image_20_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[20].length",
+      "source_offset": 148524,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 20,
+        "pixel_bytes": 38400,
+        "roles": [
+          "background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0049_cinema.image_20.bin",
+        "sha256": "2af55fdf4d50093811a69450edd4f5a4626f0b8bdc53be73e3b6deea211c5be0",
+        "size": 39168
+      },
+      "role": "cinema.image[20]",
+      "source_offset": 148526,
+      "source_sha256": "2af55fdf4d50093811a69450edd4f5a4626f0b8bdc53be73e3b6deea211c5be0",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0050_cinema.image_21_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[21].length",
+      "source_offset": 187694,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 21,
+        "pixel_bytes": 38400,
+        "roles": [
+          "background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0051_cinema.image_21.bin",
+        "sha256": "f0d0b47ac07b349bdcb4df5d257f4b1bc69f361cac09af5aa270f1f90aef48df",
+        "size": 39168
+      },
+      "role": "cinema.image[21]",
+      "source_offset": 187696,
+      "source_sha256": "f0d0b47ac07b349bdcb4df5d257f4b1bc69f361cac09af5aa270f1f90aef48df",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0052_cinema.image_22_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[22].length",
+      "source_offset": 226864,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 22,
+        "pixel_bytes": 38400,
+        "roles": [
+          "background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0053_cinema.image_22.bin",
+        "sha256": "862805a31f309709cbd2a5a03ac390b821ec3815ed15909011414b72de4d3841",
+        "size": 39168
+      },
+      "role": "cinema.image[22]",
+      "source_offset": 226866,
+      "source_sha256": "862805a31f309709cbd2a5a03ac390b821ec3815ed15909011414b72de4d3841",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 1245
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0054_cinema.image_23_.length.bin",
+        "sha256": "a65b1fee0a02ead081fbd8ed18f05422efe3535e827757d9919b31e539829b8c",
+        "size": 2
+      },
+      "role": "cinema.image[23].length",
+      "source_offset": 266034,
+      "source_sha256": "a65b1fee0a02ead081fbd8ed18f05422efe3535e827757d9919b31e539829b8c",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            54,
+            55,
+            56,
+            114,
+            188,
+            258,
+            325,
+            395,
+            464,
+            536,
+            609,
+            670,
+            671,
+            672,
+            729,
+            800,
+            870,
+            933,
+            999,
+            1060,
+            1122,
+            1187,
+            1241,
+            1242,
+            1243
+          ],
+          "encoded_size": 1244,
+          "height": 25,
+          "literal_pixels": 943,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            54,
+            55,
+            56,
+            114,
+            188,
+            258,
+            325,
+            395,
+            464,
+            536,
+            609,
+            670,
+            671,
+            672,
+            729,
+            800,
+            870,
+            933,
+            999,
+            1060,
+            1122,
+            1187,
+            1241,
+            1242,
+            1243
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 1182,
+          "width": 85
+        },
+        "index": 23,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 1245
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0055_cinema.image_23.bin",
+        "sha256": "c757c88f61daf1e2de8faff731fb3860bc77c8ef8f11856da2436ce7a517f7cd",
+        "size": 1245
+      },
+      "role": "cinema.image[23]",
+      "source_offset": 266036,
+      "source_sha256": "c757c88f61daf1e2de8faff731fb3860bc77c8ef8f11856da2436ce7a517f7cd",
+      "source_size": 1245
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 2058
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0056_cinema.image_24_.length.bin",
+        "sha256": "5ca70389b3640dcd2123f9bc03c49809e3f24c0c62fcbc2c632a27ed990697a8",
+        "size": 2
+      },
+      "role": "cinema.image[24].length",
+      "source_offset": 267281,
+      "source_sha256": "5ca70389b3640dcd2123f9bc03c49809e3f24c0c62fcbc2c632a27ed990697a8",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            152,
+            242,
+            332,
+            420,
+            504,
+            589,
+            675,
+            761,
+            852,
+            942,
+            1015,
+            1088,
+            1089,
+            1090,
+            1159,
+            1246,
+            1333,
+            1421,
+            1501,
+            1586,
+            1671,
+            1749,
+            1829,
+            1910,
+            1991,
+            2054,
+            2055,
+            2056
+          ],
+          "encoded_size": 2057,
+          "height": 36,
+          "literal_pixels": 1643,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            152,
+            242,
+            332,
+            420,
+            504,
+            589,
+            675,
+            761,
+            852,
+            942,
+            1015,
+            1088,
+            1089,
+            1090,
+            1159,
+            1246,
+            1333,
+            1421,
+            1501,
+            1586,
+            1671,
+            1749,
+            1829,
+            1910,
+            1991,
+            2054,
+            2055,
+            2056
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 1957,
+          "width": 100
+        },
+        "index": 24,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 2058
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0057_cinema.image_24.bin",
+        "sha256": "b3b7b167f0853d531feebb93f3c35effe8ae297bb59885369a9d101aec5281b1",
+        "size": 2058
+      },
+      "role": "cinema.image[24]",
+      "source_offset": 267283,
+      "source_sha256": "b3b7b167f0853d531feebb93f3c35effe8ae297bb59885369a9d101aec5281b1",
+      "source_size": 2058
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 3791
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0058_cinema.image_25_.length.bin",
+        "sha256": "ce13075922fb87cc1120940ab5d145a48c2f144ec7a95835018e170bacca5938",
+        "size": 2
+      },
+      "role": "cinema.image[25].length",
+      "source_offset": 269341,
+      "source_sha256": "ce13075922fb87cc1120940ab5d145a48c2f144ec7a95835018e170bacca5938",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            104,
+            106,
+            108,
+            110,
+            112,
+            114,
+            116,
+            118,
+            120,
+            122,
+            124,
+            215,
+            306,
+            426,
+            546,
+            667,
+            788,
+            902,
+            1016,
+            1130,
+            1247,
+            1364,
+            1490,
+            1616,
+            1737,
+            1833,
+            1929,
+            2025,
+            2027,
+            2029,
+            2031,
+            2120,
+            2238,
+            2356,
+            2474,
+            2593,
+            2702,
+            2811,
+            2928,
+            3045,
+            3152,
+            3259,
+            3370,
+            3480,
+            3590,
+            3700,
+            3782,
+            3784,
+            3786,
+            3788
+          ],
+          "encoded_size": 3790,
+          "height": 50,
+          "literal_pixels": 3190,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            104,
+            106,
+            108,
+            110,
+            112,
+            114,
+            116,
+            118,
+            120,
+            122,
+            124,
+            215,
+            306,
+            426,
+            546,
+            667,
+            788,
+            902,
+            1016,
+            1130,
+            1247,
+            1364,
+            1490,
+            1616,
+            1737,
+            1833,
+            1929,
+            2025,
+            2027,
+            2029,
+            2031,
+            2120,
+            2238,
+            2356,
+            2474,
+            2593,
+            2702,
+            2811,
+            2928,
+            3045,
+            3152,
+            3259,
+            3370,
+            3480,
+            3590,
+            3700,
+            3782,
+            3784,
+            3786,
+            3788
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 3860,
+          "width": 141
+        },
+        "index": 25,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 3791
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0059_cinema.image_25.bin",
+        "sha256": "bfb0b80489e2d90bc1f97c1eaadb49c9020e2d9facfebcd587cef5b23d2b9603",
+        "size": 3791
+      },
+      "role": "cinema.image[25]",
+      "source_offset": 269343,
+      "source_sha256": "bfb0b80489e2d90bc1f97c1eaadb49c9020e2d9facfebcd587cef5b23d2b9603",
+      "source_size": 3791
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 5088
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0060_cinema.image_26_.length.bin",
+        "sha256": "096b2da43d05b9e70333d20bf1e635a696781fdbf7a0232723ed7ae2569a74e0",
+        "size": 2
+      },
+      "role": "cinema.image[26].length",
+      "source_offset": 273134,
+      "source_sha256": "096b2da43d05b9e70333d20bf1e635a696781fdbf7a0232723ed7ae2569a74e0",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            94,
+            96,
+            167,
+            301,
+            439,
+            584,
+            730,
+            874,
+            1018,
+            1155,
+            1295,
+            1434,
+            1574,
+            1720,
+            1865,
+            2008,
+            2157,
+            2308,
+            2455,
+            2584,
+            2696,
+            2698,
+            2700,
+            2702,
+            2704,
+            2793,
+            2922,
+            3056,
+            3190,
+            3327,
+            3462,
+            3597,
+            3723,
+            3855,
+            3987,
+            4120,
+            4244,
+            4367,
+            4486,
+            4610,
+            4738,
+            4863,
+            4988,
+            5083,
+            5085
+          ],
+          "encoded_size": 5087,
+          "height": 45,
+          "literal_pixels": 4434,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            94,
+            96,
+            167,
+            301,
+            439,
+            584,
+            730,
+            874,
+            1018,
+            1155,
+            1295,
+            1434,
+            1574,
+            1720,
+            1865,
+            2008,
+            2157,
+            2308,
+            2455,
+            2584,
+            2696,
+            2698,
+            2700,
+            2702,
+            2704,
+            2793,
+            2922,
+            3056,
+            3190,
+            3327,
+            3462,
+            3597,
+            3723,
+            3855,
+            3987,
+            4120,
+            4244,
+            4367,
+            4486,
+            4610,
+            4738,
+            4863,
+            4988,
+            5083,
+            5085
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 2451,
+          "width": 153
+        },
+        "index": 26,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 5088
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0061_cinema.image_26.bin",
+        "sha256": "fcfa09e3bac650f7a350cd7e9ed582a5d6d42c5f6e71ee9a1beeb1040fee51eb",
+        "size": 5088
+      },
+      "role": "cinema.image[26]",
+      "source_offset": 273136,
+      "source_sha256": "fcfa09e3bac650f7a350cd7e9ed582a5d6d42c5f6e71ee9a1beeb1040fee51eb",
+      "source_size": 5088
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 3662
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0062_cinema.image_27_.length.bin",
+        "sha256": "0a53391786482188e708f32ff080e674cacf33a26f02a67eccf2041019d7cb3a",
+        "size": 2
+      },
+      "role": "cinema.image[27].length",
+      "source_offset": 278224,
+      "source_sha256": "0a53391786482188e708f32ff080e674cacf33a26f02a67eccf2041019d7cb3a",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            110,
+            177,
+            244,
+            311,
+            378,
+            445,
+            512,
+            579,
+            646,
+            713,
+            780,
+            847,
+            914,
+            981,
+            1048,
+            1115,
+            1182,
+            1249,
+            1316,
+            1383,
+            1450,
+            1517,
+            1584,
+            1651,
+            1718,
+            1785,
+            1852,
+            1919,
+            1986,
+            2053,
+            2120,
+            2187,
+            2254,
+            2321,
+            2388,
+            2455,
+            2522,
+            2589,
+            2656,
+            2723,
+            2790,
+            2857,
+            2924,
+            2991,
+            3058,
+            3125,
+            3192,
+            3259,
+            3326,
+            3393,
+            3460,
+            3527,
+            3594
+          ],
+          "encoded_size": 3661,
+          "height": 53,
+          "literal_pixels": 3498,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            110,
+            177,
+            244,
+            311,
+            378,
+            445,
+            512,
+            579,
+            646,
+            713,
+            780,
+            847,
+            914,
+            981,
+            1048,
+            1115,
+            1182,
+            1249,
+            1316,
+            1383,
+            1450,
+            1517,
+            1584,
+            1651,
+            1718,
+            1785,
+            1852,
+            1919,
+            1986,
+            2053,
+            2120,
+            2187,
+            2254,
+            2321,
+            2388,
+            2455,
+            2522,
+            2589,
+            2656,
+            2723,
+            2790,
+            2857,
+            2924,
+            2991,
+            3058,
+            3125,
+            3192,
+            3259,
+            3326,
+            3393,
+            3460,
+            3527,
+            3594
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 0,
+          "width": 66
+        },
+        "index": 27,
+        "padding_size": 1,
+        "roles": [
+          "unused_sprite"
+        ],
+        "stored_size": 3662
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0063_cinema.image_27.bin",
+        "sha256": "217747089ee5e3422f3db740e03d8e441082814971fc6afa6619b676cfd2b5a5",
+        "size": 3662
+      },
+      "role": "cinema.image[27]",
+      "source_offset": 278226,
+      "source_sha256": "217747089ee5e3422f3db740e03d8e441082814971fc6afa6619b676cfd2b5a5",
+      "source_size": 3662
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0064_cinema.image_28_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[28].length",
+      "source_offset": 281888,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 28,
+        "pixel_bytes": 38400,
+        "roles": [
+          "unused_background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0065_cinema.image_28.bin",
+        "sha256": "862805a31f309709cbd2a5a03ac390b821ec3815ed15909011414b72de4d3841",
+        "size": 39168
+      },
+      "role": "cinema.image[28]",
+      "source_offset": 281890,
+      "source_sha256": "862805a31f309709cbd2a5a03ac390b821ec3815ed15909011414b72de4d3841",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 75331
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0066_cinema.sound_0_.length.bin",
+        "sha256": "321f1438820a354d8087d9f76421c0908580d2c6e42ca727d710410215aeaa12",
+        "size": 4
+      },
+      "role": "cinema.sound[0].length",
+      "source_offset": 321058,
+      "source_sha256": "321f1438820a354d8087d9f76421c0908580d2c6e42ca727d710410215aeaa12",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 75331,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 75331
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0067_cinema.sound_0.bin",
+        "sha256": "79a9116f3dd861c42e64f4c74a745a1c2a8b943e1f1c02988cd33fb9d0518bf8",
+        "size": 75331
+      },
+      "role": "cinema.sound[0]",
+      "source_offset": 321062,
+      "source_sha256": "79a9116f3dd861c42e64f4c74a745a1c2a8b943e1f1c02988cd33fb9d0518bf8",
+      "source_size": 75331
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 57543
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0068_cinema.sound_1_.length.bin",
+        "sha256": "efd3ac250c4ba0979931434e1a94bdfc937be4b2b259be523b84a94f9bb91fac",
+        "size": 4
+      },
+      "role": "cinema.sound[1].length",
+      "source_offset": 396393,
+      "source_sha256": "efd3ac250c4ba0979931434e1a94bdfc937be4b2b259be523b84a94f9bb91fac",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 57543,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 57543
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0069_cinema.sound_1.bin",
+        "sha256": "30ece99b80c291e6735cf4814727fcc94d19bea1bfddbb5cd1913fea5c97f70f",
+        "size": 57543
+      },
+      "role": "cinema.sound[1]",
+      "source_offset": 396397,
+      "source_sha256": "30ece99b80c291e6735cf4814727fcc94d19bea1bfddbb5cd1913fea5c97f70f",
+      "source_size": 57543
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0070_cinema.sound_2_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[2].length",
+      "source_offset": 453940,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0071_cinema.sound_2.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[2]",
+      "source_offset": 453944,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0072_cinema.sound_3_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[3].length",
+      "source_offset": 453944,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0073_cinema.sound_3.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[3]",
+      "source_offset": 453948,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0074_cinema.sound_4_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[4].length",
+      "source_offset": 453948,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0075_cinema.sound_4.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[4]",
+      "source_offset": 453952,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0076_cinema.sound_5_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[5].length",
+      "source_offset": 453952,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0077_cinema.sound_5.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[5]",
+      "source_offset": 453956,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0078_cinema.sound_6_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[6].length",
+      "source_offset": 453956,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0079_cinema.sound_6.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[6]",
+      "source_offset": 453960,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0080_cinema.sound_7_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[7].length",
+      "source_offset": 453960,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0081_cinema.sound_7.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[7]",
+      "source_offset": 453964,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0082_cinema.sound_8_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[8].length",
+      "source_offset": 453964,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0083_cinema.sound_8.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[8]",
+      "source_offset": 453968,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0084_cinema.sound_9_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[9].length",
+      "source_offset": 453968,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0085_cinema.sound_9.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[9]",
+      "source_offset": 453972,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0086_cinema.sound_10_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[10].length",
+      "source_offset": 453972,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0087_cinema.sound_10.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[10]",
+      "source_offset": 453976,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0088_cinema.sound_11_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[11].length",
+      "source_offset": 453976,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0089_cinema.sound_11.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[11]",
+      "source_offset": 453980,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0090_cinema.sound_12_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[12].length",
+      "source_offset": 453980,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0091_cinema.sound_12.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[12]",
+      "source_offset": 453984,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0092_cinema.sound_13_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[13].length",
+      "source_offset": 453984,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0093_cinema.sound_13.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[13]",
+      "source_offset": 453988,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0094_cinema.sound_14_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[14].length",
+      "source_offset": 453988,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0095_cinema.sound_14.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[14]",
+      "source_offset": 453992,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0096_cinema.sound_15_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[15].length",
+      "source_offset": 453992,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0097_cinema.sound_15.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[15]",
+      "source_offset": 453996,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0098_cinema.sound_16_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[16].length",
+      "source_offset": 453996,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0099_cinema.sound_16.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[16]",
+      "source_offset": 454000,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0100_cinema.sound_17_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[17].length",
+      "source_offset": 454000,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0101_cinema.sound_17.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[17]",
+      "source_offset": 454004,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0102_cinema.sound_18_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[18].length",
+      "source_offset": 454004,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0103_cinema.sound_18.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[18]",
+      "source_offset": 454008,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0104_cinema.sound_19_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[19].length",
+      "source_offset": 454008,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0105_cinema.sound_19.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[19]",
+      "source_offset": 454012,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0106_cinema.sound_20_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[20].length",
+      "source_offset": 454012,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0107_cinema.sound_20.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[20]",
+      "source_offset": 454016,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0108_cinema.sound_21_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[21].length",
+      "source_offset": 454016,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0109_cinema.sound_21.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[21]",
+      "source_offset": 454020,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0110_cinema.sound_22_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[22].length",
+      "source_offset": 454020,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0111_cinema.sound_22.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[22]",
+      "source_offset": 454024,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0112_cinema.sound_23_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[23].length",
+      "source_offset": 454024,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0113_cinema.sound_23.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[23]",
+      "source_offset": 454028,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0114_cinema.sound_24_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[24].length",
+      "source_offset": 454028,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0115_cinema.sound_24.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[24]",
+      "source_offset": 454032,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0116_cinema.sound_25_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[25].length",
+      "source_offset": 454032,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/LOGO/records/0117_cinema.sound_25.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[25]",
+      "source_offset": 454036,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    }
+  ],
+  "source": {
+    "family": "cinema",
+    "name": "LOGO.VOL",
+    "path": "LOGO.VOL",
+    "sha256": "2355049872fea409498a128c74b88b5bd196d866bb43a8ecf2cb7279b51e6670",
+    "size": 454036
+  }
+}

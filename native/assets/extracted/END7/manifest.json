@@ -1,0 +1,1763 @@
+{
+  "audio": [
+    {
+      "aiff": {
+        "path": "native/assets/extracted/END7/audio/cinema.sound_0.aiff",
+        "sha256": "6bec69737c529ca3254aa895bd7bf68ff5cc78039ef6d097723a8c91752403b6",
+        "size": 250142
+      },
+      "played_samples": 250088,
+      "role": "cinema.sound[0]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/END7/audio/cinema.sound_0.s8",
+        "sha256": "75683661c2225616a4e1e9d8aa00e7dbd07571866ba573daf099c56eefa43b57",
+        "size": 250088
+      },
+      "stored_samples": 250088,
+      "wav": {
+        "path": "native/assets/extracted/END7/audio/cinema.sound_0.wav",
+        "sha256": "b68d20275fb33ae0f8104ef0139a18ce51ad60f0e20b599e4df0cd3b6291c5da",
+        "size": 250132
+      }
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[1]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[2]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[3]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[4]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[5]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[6]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[7]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[8]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[9]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[10]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[11]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[12]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[13]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[14]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[15]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[16]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[17]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[18]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[19]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[20]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[21]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[22]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[23]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[24]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    },
+    {
+      "played_samples": 0,
+      "role": "cinema.sound[25]",
+      "sample_rate_hz": 16000,
+      "stored_samples": 0
+    }
+  ],
+  "format": "nog2-extracted-file-v1",
+  "images": [
+    {
+      "height": 72,
+      "indexed": {
+        "path": "native/assets/extracted/END7/images/cinema.image_0.idx",
+        "sha256": "e932e185ff4a0c042096e52cafc13c4e7d61ee6c19f2328b2c84cc3a04e42965",
+        "size": 5832
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[0]",
+      "normalized_png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_0.rgba.png",
+        "sha256": "20781ee8abf0a60504e1053bc8b187ee15849cc5c57623def092462d6c51fcc5",
+        "size": 2088
+      },
+      "palette_source": "cinema.image[2] appended palette",
+      "png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_0.png",
+        "sha256": "444322e1befcc53dee852b436b62407949c72cc231934e0e8e93dd87f571b1d2",
+        "size": 2507
+      },
+      "source": {
+        "offset": 3573,
+        "role": "cinema.image[0]",
+        "sha256": "b8c9aa0920f1ecff74928b2a24be4accbb71dde94470ab331794b5578b0b160f",
+        "size": 6053
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 81
+    },
+    {
+      "height": 14,
+      "indexed": {
+        "path": "native/assets/extracted/END7/images/cinema.image_1.idx",
+        "sha256": "f778f91924e13d4bd373d5e9c290381803cc57c67101217f9d759d92e0279eb2",
+        "size": 224
+      },
+      "kind": "indexed_rle_image",
+      "name": "cinema.image[1]",
+      "normalized_png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_1.rgba.png",
+        "sha256": "baef06aa62fe2ccce7297bc904169ba92611f6b33c37c34fc76a869de4e4a165",
+        "size": 277
+      },
+      "palette_source": "cinema.image[2] appended palette",
+      "png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_1.png",
+        "sha256": "032b6b0bc906af300e66d2ad4580583f326b46039877b893437c3ade63fd7e96",
+        "size": 1231
+      },
+      "source": {
+        "offset": 9628,
+        "role": "cinema.image[1]",
+        "sha256": "5075888b3213619f248e13a18ef194b02460002491d936acb05aa42d2359859b",
+        "size": 271
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 16
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/END7/images/cinema.image_2__background.idx",
+        "sha256": "7eca050c01ed1e32949af7775c19d7441444082b027d38984f29b9a251004aec",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[2]",
+      "normalized_png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_2__background.rgba.png",
+        "sha256": "fc9554a8c4bf3900349e9a296cbdf641a50f3ca6512b2dde30268784a387b84d",
+        "size": 4351
+      },
+      "palette_source": "cinema.image[2] appended palette",
+      "png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_2__background.png",
+        "sha256": "f304e87995522b4e58c9a1fa0972ff7a798322bf67c52031fa6c79cc43ebf7b0",
+        "size": 3773
+      },
+      "source": {
+        "offset": 9901,
+        "role": "cinema.image[2]",
+        "sha256": "56b39384db9a7fa658db4cfcf800a6d4516ce0f73990ec2c02919193c2622cf9",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    },
+    {
+      "height": 120,
+      "indexed": {
+        "path": "native/assets/extracted/END7/images/cinema.image_3__background.idx",
+        "sha256": "7eca050c01ed1e32949af7775c19d7441444082b027d38984f29b9a251004aec",
+        "size": 38400
+      },
+      "kind": "indexed_raw_background",
+      "name": "cinema.image[3]",
+      "normalized_png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_3__background.rgba.png",
+        "sha256": "fc9554a8c4bf3900349e9a296cbdf641a50f3ca6512b2dde30268784a387b84d",
+        "size": 4351
+      },
+      "palette_source": "cinema.image[3] appended palette",
+      "png": {
+        "path": "native/assets/extracted/END7/images/cinema.image_3__background.png",
+        "sha256": "f304e87995522b4e58c9a1fa0972ff7a798322bf67c52031fa6c79cc43ebf7b0",
+        "size": 3773
+      },
+      "source": {
+        "offset": 49071,
+        "role": "cinema.image[3]",
+        "sha256": "56b39384db9a7fa658db4cfcf800a6d4516ce0f73990ec2c02919193c2622cf9",
+        "size": 39168
+      },
+      "transparent": false,
+      "width": 320
+    }
+  ],
+  "records": [
+    {
+      "metadata": {
+        "component_bits": 6,
+        "entries": 256
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0000_cinema.palette.bin",
+        "sha256": "53798a0a2803093d7d06922b53cd16fc29a8bee7c48fe596abe9ee7b0b88fa81",
+        "size": 768
+      },
+      "role": "cinema.palette",
+      "source_offset": 0,
+      "source_sha256": "53798a0a2803093d7d06922b53cd16fc29a8bee7c48fe596abe9ee7b0b88fa81",
+      "source_size": 768
+    },
+    {
+      "metadata": {
+        "encoding": "i16le",
+        "value": 10
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0001_cinema.events.count.bin",
+        "sha256": "102b51b9765a56a3e899f7cf0ee38e5251f9c503b357b330a49183eb7b155604",
+        "size": 2
+      },
+      "role": "cinema.events.count",
+      "source_offset": 768,
+      "source_sha256": "102b51b9765a56a3e899f7cf0ee38e5251f9c503b357b330a49183eb7b155604",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "count": 10,
+        "entries": [
+          {
+            "data": 2,
+            "index": 0,
+            "type": 2,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 128,
+            "index": 1,
+            "type": 3,
+            "x": 58,
+            "y": 68
+          },
+          {
+            "data": 129,
+            "index": 2,
+            "type": 3,
+            "x": 204,
+            "y": 46
+          },
+          {
+            "data": 0,
+            "index": 3,
+            "type": 1,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 4,
+            "type": 5,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 5,
+            "type": 6,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 6,
+            "type": 0,
+            "x": 1560,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 7,
+            "type": 1,
+            "x": 160,
+            "y": 170
+          },
+          {
+            "data": 0,
+            "index": 8,
+            "type": 0,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "data": 0,
+            "index": 9,
+            "type": 0,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "entry_size": 6
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0002_cinema.events.bin",
+        "sha256": "e2f9d852f7a140677d118c9f2b5b826142204a1102254db14d2e786ebad6f857",
+        "size": 60
+      },
+      "role": "cinema.events",
+      "source_offset": 770,
+      "source_sha256": "e2f9d852f7a140677d118c9f2b5b826142204a1102254db14d2e786ebad6f857",
+      "source_size": 60
+    },
+    {
+      "metadata": {
+        "encoding": "i16le",
+        "value": 37
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0003_cinema.sprite_buffer.length.bin",
+        "sha256": "bbb3afa31af1adf2deb2cd3774f62df5807acf44963fc296e62de13b00380a6b",
+        "size": 2
+      },
+      "role": "cinema.sprite_buffer.length",
+      "source_offset": 830,
+      "source_sha256": "bbb3afa31af1adf2deb2cd3774f62df5807acf44963fc296e62de13b00380a6b",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "sprite_count": 2,
+        "sprites": [
+          {
+            "base": 1,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 5,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 0,
+                    "orientation": 0,
+                    "x": -51,
+                    "y": -65
+                  }
+                ],
+                "index": 0,
+                "offset": 1,
+                "size": 12
+              },
+              {
+                "duration": 5,
+                "dx": 0,
+                "dy": 0,
+                "images": [],
+                "index": 1,
+                "offset": 13,
+                "size": 6
+              }
+            ],
+            "index": 0
+          },
+          {
+            "base": 19,
+            "frame_count": 2,
+            "frames": [
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [
+                  {
+                    "image": 1,
+                    "orientation": 0,
+                    "x": -7,
+                    "y": -10
+                  }
+                ],
+                "index": 0,
+                "offset": 19,
+                "size": 12
+              },
+              {
+                "duration": 10,
+                "dx": 0,
+                "dy": 0,
+                "images": [],
+                "index": 1,
+                "offset": 31,
+                "size": 6
+              }
+            ],
+            "index": 1
+          }
+        ]
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0004_cinema.sprite_buffer.bin",
+        "sha256": "eb9dd244c9cf4ff8c6712dc9a76c409b650f9dea813da93d563693361326e0f4",
+        "size": 37
+      },
+      "role": "cinema.sprite_buffer",
+      "source_offset": 832,
+      "source_sha256": "eb9dd244c9cf4ff8c6712dc9a76c409b650f9dea813da93d563693361326e0f4",
+      "source_size": 37
+    },
+    {
+      "metadata": {
+        "entries": 50
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0005_cinema.sprite_pointers.bin",
+        "sha256": "d1b0c6f5b35f97a4ddff5982efa52d48f3c45b7bbb40a505777026068ffcd67e",
+        "size": 200
+      },
+      "role": "cinema.sprite_pointers",
+      "source_offset": 869,
+      "source_sha256": "d1b0c6f5b35f97a4ddff5982efa52d48f3c45b7bbb40a505777026068ffcd67e",
+      "source_size": 200
+    },
+    {
+      "metadata": {
+        "entries": 25,
+        "entry_size": 100
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0006_cinema.text.bin",
+        "sha256": "5be3b2bc2613f8390ce4f6e81bbb7d189be646c601f592b97838bdf6269383e6",
+        "size": 2500
+      },
+      "role": "cinema.text",
+      "source_offset": 1069,
+      "source_sha256": "5be3b2bc2613f8390ce4f6e81bbb7d189be646c601f592b97838bdf6269383e6",
+      "source_size": 2500
+    },
+    {
+      "metadata": {
+        "encoding": "i16le",
+        "value": 3
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0007_cinema.images.max_index.bin",
+        "sha256": "9b4fb24edd6d1d8830e272398263cdbf026b97392cc35387b991dc0248a628f9",
+        "size": 2
+      },
+      "role": "cinema.images.max_index",
+      "source_offset": 3569,
+      "source_sha256": "9b4fb24edd6d1d8830e272398263cdbf026b97392cc35387b991dc0248a628f9",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 6053
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0008_cinema.image_0_.length.bin",
+        "sha256": "717daa879aa67674d8986025c35c26ada5f6a9a6b5caf920ea080773d5be8586",
+        "size": 2
+      },
+      "role": "cinema.image[0].length",
+      "source_offset": 3571,
+      "source_sha256": "717daa879aa67674d8986025c35c26ada5f6a9a6b5caf920ea080773d5be8586",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            148,
+            230,
+            312,
+            394,
+            476,
+            558,
+            640,
+            722,
+            804,
+            886,
+            968,
+            1050,
+            1132,
+            1214,
+            1296,
+            1378,
+            1460,
+            1542,
+            1624,
+            1706,
+            1788,
+            1870,
+            1952,
+            2034,
+            2116,
+            2198,
+            2280,
+            2362,
+            2444,
+            2526,
+            2608,
+            2690,
+            2772,
+            2854,
+            2936,
+            3018,
+            3100,
+            3182,
+            3264,
+            3346,
+            3428,
+            3510,
+            3592,
+            3674,
+            3756,
+            3838,
+            3920,
+            4002,
+            4084,
+            4166,
+            4248,
+            4330,
+            4412,
+            4494,
+            4576,
+            4658,
+            4740,
+            4822,
+            4904,
+            4986,
+            5068,
+            5150,
+            5232,
+            5314,
+            5396,
+            5478,
+            5560,
+            5642,
+            5724,
+            5806,
+            5888,
+            5970
+          ],
+          "encoded_size": 6052,
+          "height": 72,
+          "literal_pixels": 5832,
+          "marker": 0,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            148,
+            230,
+            312,
+            394,
+            476,
+            558,
+            640,
+            722,
+            804,
+            886,
+            968,
+            1050,
+            1132,
+            1214,
+            1296,
+            1378,
+            1460,
+            1542,
+            1624,
+            1706,
+            1788,
+            1870,
+            1952,
+            2034,
+            2116,
+            2198,
+            2280,
+            2362,
+            2444,
+            2526,
+            2608,
+            2690,
+            2772,
+            2854,
+            2936,
+            3018,
+            3100,
+            3182,
+            3264,
+            3346,
+            3428,
+            3510,
+            3592,
+            3674,
+            3756,
+            3838,
+            3920,
+            4002,
+            4084,
+            4166,
+            4248,
+            4330,
+            4412,
+            4494,
+            4576,
+            4658,
+            4740,
+            4822,
+            4904,
+            4986,
+            5068,
+            5150,
+            5232,
+            5314,
+            5396,
+            5478,
+            5560,
+            5642,
+            5724,
+            5806,
+            5888,
+            5970
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 0,
+          "width": 81
+        },
+        "index": 0,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 6053
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0009_cinema.image_0.bin",
+        "sha256": "b8c9aa0920f1ecff74928b2a24be4accbb71dde94470ab331794b5578b0b160f",
+        "size": 6053
+      },
+      "role": "cinema.image[0]",
+      "source_offset": 3573,
+      "source_sha256": "b8c9aa0920f1ecff74928b2a24be4accbb71dde94470ab331794b5578b0b160f",
+      "source_size": 6053
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 271
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0010_cinema.image_1_.length.bin",
+        "sha256": "1e1c23afd51f18678fc3ecfefc5ff8c2a45aea7cd858157eee44cd2ea8315b4f",
+        "size": 2
+      },
+      "role": "cinema.image[1].length",
+      "source_offset": 9626,
+      "source_sha256": "1e1c23afd51f18678fc3ecfefc5ff8c2a45aea7cd858157eee44cd2ea8315b4f",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            32,
+            49,
+            66,
+            83,
+            100,
+            117,
+            134,
+            151,
+            168,
+            185,
+            202,
+            219,
+            236,
+            253
+          ],
+          "encoded_size": 270,
+          "height": 14,
+          "literal_pixels": 224,
+          "marker": 0,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            32,
+            49,
+            66,
+            83,
+            100,
+            117,
+            134,
+            151,
+            168,
+            185,
+            202,
+            219,
+            236,
+            253
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 0,
+          "width": 16
+        },
+        "index": 1,
+        "padding_size": 1,
+        "roles": [
+          "sprite"
+        ],
+        "stored_size": 271
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0011_cinema.image_1.bin",
+        "sha256": "5075888b3213619f248e13a18ef194b02460002491d936acb05aa42d2359859b",
+        "size": 271
+      },
+      "role": "cinema.image[1]",
+      "source_offset": 9628,
+      "source_sha256": "5075888b3213619f248e13a18ef194b02460002491d936acb05aa42d2359859b",
+      "source_size": 271
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0012_cinema.image_2_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[2].length",
+      "source_offset": 9899,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 2,
+        "pixel_bytes": 38400,
+        "roles": [
+          "background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0013_cinema.image_2.bin",
+        "sha256": "56b39384db9a7fa658db4cfcf800a6d4516ce0f73990ec2c02919193c2622cf9",
+        "size": 39168
+      },
+      "role": "cinema.image[2]",
+      "source_offset": 9901,
+      "source_sha256": "56b39384db9a7fa658db4cfcf800a6d4516ce0f73990ec2c02919193c2622cf9",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "value": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0014_cinema.image_3_.length.bin",
+        "sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+        "size": 2
+      },
+      "role": "cinema.image[3].length",
+      "source_offset": 49069,
+      "source_sha256": "f488f2198758b459828f25c4d4429b6507bca1a21349edf8e1005eb9aa4ce637",
+      "source_size": 2
+    },
+    {
+      "metadata": {
+        "appended_palette_bytes": 768,
+        "extra_bytes": 0,
+        "index": 3,
+        "pixel_bytes": 38400,
+        "roles": [
+          "unused_background"
+        ],
+        "stored_size": 39168
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0015_cinema.image_3.bin",
+        "sha256": "56b39384db9a7fa658db4cfcf800a6d4516ce0f73990ec2c02919193c2622cf9",
+        "size": 39168
+      },
+      "role": "cinema.image[3]",
+      "source_offset": 49071,
+      "source_sha256": "56b39384db9a7fa658db4cfcf800a6d4516ce0f73990ec2c02919193c2622cf9",
+      "source_size": 39168
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 250088
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0016_cinema.sound_0_.length.bin",
+        "sha256": "40d2892b12905bdd90bc841de0566155e258a60dea99361e9b478c6e30731d95",
+        "size": 4
+      },
+      "role": "cinema.sound[0].length",
+      "source_offset": 88239,
+      "source_sha256": "40d2892b12905bdd90bc841de0566155e258a60dea99361e9b478c6e30731d95",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 250088,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 250088
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0017_cinema.sound_0.bin",
+        "sha256": "75683661c2225616a4e1e9d8aa00e7dbd07571866ba573daf099c56eefa43b57",
+        "size": 250088
+      },
+      "role": "cinema.sound[0]",
+      "source_offset": 88243,
+      "source_sha256": "75683661c2225616a4e1e9d8aa00e7dbd07571866ba573daf099c56eefa43b57",
+      "source_size": 250088
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0018_cinema.sound_1_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[1].length",
+      "source_offset": 338331,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0019_cinema.sound_1.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[1]",
+      "source_offset": 338335,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0020_cinema.sound_2_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[2].length",
+      "source_offset": 338335,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0021_cinema.sound_2.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[2]",
+      "source_offset": 338339,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0022_cinema.sound_3_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[3].length",
+      "source_offset": 338339,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0023_cinema.sound_3.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[3]",
+      "source_offset": 338343,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0024_cinema.sound_4_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[4].length",
+      "source_offset": 338343,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0025_cinema.sound_4.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[4]",
+      "source_offset": 338347,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0026_cinema.sound_5_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[5].length",
+      "source_offset": 338347,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0027_cinema.sound_5.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[5]",
+      "source_offset": 338351,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0028_cinema.sound_6_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[6].length",
+      "source_offset": 338351,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0029_cinema.sound_6.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[6]",
+      "source_offset": 338355,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0030_cinema.sound_7_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[7].length",
+      "source_offset": 338355,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0031_cinema.sound_7.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[7]",
+      "source_offset": 338359,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0032_cinema.sound_8_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[8].length",
+      "source_offset": 338359,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0033_cinema.sound_8.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[8]",
+      "source_offset": 338363,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0034_cinema.sound_9_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[9].length",
+      "source_offset": 338363,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0035_cinema.sound_9.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[9]",
+      "source_offset": 338367,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0036_cinema.sound_10_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[10].length",
+      "source_offset": 338367,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0037_cinema.sound_10.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[10]",
+      "source_offset": 338371,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0038_cinema.sound_11_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[11].length",
+      "source_offset": 338371,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0039_cinema.sound_11.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[11]",
+      "source_offset": 338375,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0040_cinema.sound_12_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[12].length",
+      "source_offset": 338375,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0041_cinema.sound_12.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[12]",
+      "source_offset": 338379,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0042_cinema.sound_13_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[13].length",
+      "source_offset": 338379,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0043_cinema.sound_13.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[13]",
+      "source_offset": 338383,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0044_cinema.sound_14_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[14].length",
+      "source_offset": 338383,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0045_cinema.sound_14.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[14]",
+      "source_offset": 338387,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0046_cinema.sound_15_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[15].length",
+      "source_offset": 338387,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0047_cinema.sound_15.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[15]",
+      "source_offset": 338391,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0048_cinema.sound_16_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[16].length",
+      "source_offset": 338391,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0049_cinema.sound_16.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[16]",
+      "source_offset": 338395,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0050_cinema.sound_17_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[17].length",
+      "source_offset": 338395,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0051_cinema.sound_17.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[17]",
+      "source_offset": 338399,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0052_cinema.sound_18_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[18].length",
+      "source_offset": 338399,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0053_cinema.sound_18.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[18]",
+      "source_offset": 338403,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0054_cinema.sound_19_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[19].length",
+      "source_offset": 338403,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0055_cinema.sound_19.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[19]",
+      "source_offset": 338407,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0056_cinema.sound_20_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[20].length",
+      "source_offset": 338407,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0057_cinema.sound_20.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[20]",
+      "source_offset": 338411,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0058_cinema.sound_21_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[21].length",
+      "source_offset": 338411,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0059_cinema.sound_21.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[21]",
+      "source_offset": 338415,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0060_cinema.sound_22_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[22].length",
+      "source_offset": 338415,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0061_cinema.sound_22.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[22]",
+      "source_offset": 338419,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0062_cinema.sound_23_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[23].length",
+      "source_offset": 338419,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0063_cinema.sound_23.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[23]",
+      "source_offset": 338423,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0064_cinema.sound_24_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[24].length",
+      "source_offset": 338423,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0065_cinema.sound_24.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[24]",
+      "source_offset": 338427,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0066_cinema.sound_25_.length.bin",
+        "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+        "size": 4
+      },
+      "role": "cinema.sound[25].length",
+      "source_offset": 338427,
+      "source_sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 0,
+        "dos_played_samples": 0,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 0
+      },
+      "output": {
+        "path": "native/assets/extracted/END7/records/0067_cinema.sound_25.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+      },
+      "role": "cinema.sound[25]",
+      "source_offset": 338431,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_size": 0
+    }
+  ],
+  "source": {
+    "family": "cinema",
+    "name": "END7.VOL",
+    "path": "END7.VOL",
+    "sha256": "003fe156e77d9a30301fd38ba1b26a0719dfff487cbb5f0cc61f6333fc954a9e",
+    "size": 338431
+  }
+}

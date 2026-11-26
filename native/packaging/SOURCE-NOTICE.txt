@@ -1,0 +1,15 @@
+Noggin Knockers 2 native port source and license notice
+
+This package contains a native frontend and portable game logic adapted from:
+  https://github.com/trapexit/3do-bls-nogginknockers2
+  commit 8fc7f106d5b8f272291eb949d441e858c035b360
+
+The adapted port code is licensed under GNU GPL version 2. The corresponding
+source and build scripts are included in Source/native/. See GPL-2.0.txt.
+
+The game and original data were created by Bloodlust Software. The historical
+source release is preserved at:
+  https://github.com/trapexit/bloodlust-software-src
+Its supplied MIT license is included as Bloodlust-MIT.txt.
+
+SDL2 is distributed under its zlib license. See SDL2.txt.

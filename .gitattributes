@@ -1,0 +1,8 @@
+# Generated image, audio, and record data can contain whitespace-like bytes.
+*.aiff -diff
+*.bin -diff
+*.idx -diff
+*.png -diff
+*.rgba -diff
+*.s8 -diff
+*.wav -diff

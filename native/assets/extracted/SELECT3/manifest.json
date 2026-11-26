@@ -1,0 +1,560 @@
+{
+  "audio": [
+    {
+      "aiff": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.versus_sound.aiff",
+        "sha256": "204f6e380a8c7b6f558178fcf321b7b9e6839fc40b77c05e5a872e9a8909ae8b",
+        "size": 13862
+      },
+      "played_samples": 13807,
+      "role": "selector_options.versus_sound",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.versus_sound.s8",
+        "sha256": "19b47920b3d1fc91f17ee2dafe32f5337cbf83736e191f7bb92da137f7040da6",
+        "size": 13837
+      },
+      "stored_samples": 13837,
+      "wav": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.versus_sound.wav",
+        "sha256": "8c192b4d91e8d3b928cd3ed28260d556343b879933c86b0e3fb3ba05499808d4",
+        "size": 13852
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.sound_0.aiff",
+        "sha256": "70bc8733cc5de2f636dc2892f8b6612cc4b4e9972337cd18d7ae26fd11693f00",
+        "size": 10330
+      },
+      "played_samples": 10275,
+      "role": "selector_options.sound[0]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.sound_0.s8",
+        "sha256": "7c3833783342ed9fa8552dbd6f064e1ef518f16b2432f0f3fe85c815e7d1d1de",
+        "size": 10305
+      },
+      "stored_samples": 10305,
+      "wav": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.sound_0.wav",
+        "sha256": "9b0c66add4192e79acaea76f2695d76c9a6fb5c031f821f72f0a9e27a0f2cf95",
+        "size": 10320
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.sound_1.aiff",
+        "sha256": "83fa671cd6e8bcd8af8bc8a7df6467777d887e5546392667d7bd59fcf5469de1",
+        "size": 20720
+      },
+      "played_samples": 20666,
+      "role": "selector_options.sound[1]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.sound_1.s8",
+        "sha256": "e93dd7784ffa8fc4cae0857cae35508e15f1897db7970d75dc19de8d36078491",
+        "size": 20696
+      },
+      "stored_samples": 20696,
+      "wav": {
+        "path": "native/assets/extracted/SELECT3/audio/selector_options.sound_1.wav",
+        "sha256": "027295fc2b920553229f843139b823f12b983ed33cfc5dda84023e1450ffd780",
+        "size": 20710
+      }
+    }
+  ],
+  "format": "nog2-extracted-file-v1",
+  "images": [
+    {
+      "height": 31,
+      "indexed": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.player1.idx",
+        "sha256": "fa7ed1c6a5d4f8bb22e8e502e61f5e9aa6566ddcb19d794d97067fa917790420",
+        "size": 930
+      },
+      "kind": "indexed_rle_image",
+      "name": "selector_options.player1",
+      "normalized_png": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.player1.rgba.png",
+        "sha256": "793c94427c0d0264e86ea5e751c1a5aca4d8890f2385736c525a9099c02847c2",
+        "size": 207
+      },
+      "palette_source": "SELECT3.VOL",
+      "png": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.player1.png",
+        "sha256": "c0188c30bb89e1687ce1338afa880ef323d748799da308133859e55e0338d10a",
+        "size": 1211
+      },
+      "source": {
+        "offset": 14613,
+        "role": "selector_options.player1",
+        "sha256": "575f06e9cd29a5d4db450d7eefb3ed8f38b12d5df480934744f6a178fe927275",
+        "size": 398
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 30
+    },
+    {
+      "height": 31,
+      "indexed": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.player2.idx",
+        "sha256": "9012543764f3606d3b952dfbac498b40890ce6fcead18686fc7f6b292b39319d",
+        "size": 930
+      },
+      "kind": "indexed_rle_image",
+      "name": "selector_options.player2",
+      "normalized_png": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.player2.rgba.png",
+        "sha256": "41e9624c4e4b276b4da6fafa4c5dcdf0c17ecb5dc9639432c085a24994be1891",
+        "size": 215
+      },
+      "palette_source": "SELECT3.VOL",
+      "png": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.player2.png",
+        "sha256": "b67811fc5f030d9ded715eaba888d90374387964583133e3f4f29062f023c0c2",
+        "size": 1215
+      },
+      "source": {
+        "offset": 15015,
+        "role": "selector_options.player2",
+        "sha256": "a0d799af484121b2a5f41760eeb1be3767a95563e4a8e3190f95bac476436ba7",
+        "size": 456
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 30
+    },
+    {
+      "height": 9,
+      "indexed": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.computer.idx",
+        "sha256": "837160cbc7e0dd484c32a20a11d8801119f13eb18827ee59ca0910ca019ac280",
+        "size": 72
+      },
+      "kind": "indexed_rle_image",
+      "name": "selector_options.computer",
+      "normalized_png": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.computer.rgba.png",
+        "sha256": "36bd30f29b313b7bab2582aec280e98ab1107fb64e16a10b8cf0530578bf428a",
+        "size": 126
+      },
+      "palette_source": "SELECT3.VOL",
+      "png": {
+        "path": "native/assets/extracted/SELECT3/images/selector_options.computer.png",
+        "sha256": "4c73a7a3b37df3cf230a8d29550e97656e36ee640ddfd45a7e1d4346a64156ed",
+        "size": 1147
+      },
+      "source": {
+        "offset": 15475,
+        "role": "selector_options.computer",
+        "sha256": "d0416555a34a95dd8b7bc79ab6e3ac0aa93bbd6d891897b640bf863f7f6f7ef2",
+        "size": 83
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 8
+    }
+  ],
+  "records": [
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 13837
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0000_selector_options.versus_sound.length.bin",
+        "sha256": "a0df08e19b1e55d22cabb99f2fe46f35c738b1410bad0c9de3112da3fe8c5281",
+        "size": 4
+      },
+      "role": "selector_options.versus_sound.length",
+      "source_offset": 0,
+      "source_sha256": "a0df08e19b1e55d22cabb99f2fe46f35c738b1410bad0c9de3112da3fe8c5281",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 13807,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 13837
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0001_selector_options.versus_sound.bin",
+        "sha256": "19b47920b3d1fc91f17ee2dafe32f5337cbf83736e191f7bb92da137f7040da6",
+        "size": 13837
+      },
+      "role": "selector_options.versus_sound",
+      "source_offset": 4,
+      "source_sha256": "19b47920b3d1fc91f17ee2dafe32f5337cbf83736e191f7bb92da137f7040da6",
+      "source_size": 13837
+    },
+    {
+      "metadata": {
+        "component_bits": 6,
+        "entries": 256
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0002_selector_options.palette.bin",
+        "sha256": "118476fda925361e9b17a7a0aec36f0398f8216b3554dfe9103bda2da2271158",
+        "size": 768
+      },
+      "role": "selector_options.palette",
+      "source_offset": 13841,
+      "source_sha256": "118476fda925361e9b17a7a0aec36f0398f8216b3554dfe9103bda2da2271158",
+      "source_size": 768
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 398
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0003_selector_options.player1.length.bin",
+        "sha256": "72e0a757c48a169ac2d2928b5e2d92b5048c5e40805ce9066184847cd458ce5a",
+        "size": 4
+      },
+      "role": "selector_options.player1.length",
+      "source_offset": 14609,
+      "source_sha256": "72e0a757c48a169ac2d2928b5e2d92b5048c5e40805ce9066184847cd458ce5a",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            66,
+            78,
+            94,
+            112,
+            144,
+            176,
+            198,
+            219,
+            239,
+            259,
+            278,
+            285,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            309,
+            316,
+            323,
+            330,
+            337,
+            344,
+            351,
+            374
+          ],
+          "encoded_size": 397,
+          "height": 31,
+          "literal_pixels": 240,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            66,
+            78,
+            94,
+            112,
+            144,
+            176,
+            198,
+            219,
+            239,
+            259,
+            278,
+            285,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            309,
+            316,
+            323,
+            330,
+            337,
+            344,
+            351,
+            374
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 690,
+          "width": 30
+        },
+        "stored_size": 398
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0004_selector_options.player1.bin",
+        "sha256": "575f06e9cd29a5d4db450d7eefb3ed8f38b12d5df480934744f6a178fe927275",
+        "size": 398
+      },
+      "role": "selector_options.player1",
+      "source_offset": 14613,
+      "source_sha256": "575f06e9cd29a5d4db450d7eefb3ed8f38b12d5df480934744f6a178fe927275",
+      "source_size": 398
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 456
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0005_selector_options.player2.length.bin",
+        "sha256": "4b3a8376b004ee675078a76e38a78bf025f99b54e8dcb0bbae24b8265547b6de",
+        "size": 4
+      },
+      "role": "selector_options.player2.length",
+      "source_offset": 15011,
+      "source_sha256": "4b3a8376b004ee675078a76e38a78bf025f99b54e8dcb0bbae24b8265547b6de",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            66,
+            89,
+            112,
+            119,
+            126,
+            133,
+            140,
+            147,
+            154,
+            161,
+            162,
+            163,
+            170,
+            177,
+            188,
+            199,
+            206,
+            213,
+            214,
+            215,
+            222,
+            229,
+            249,
+            273,
+            298,
+            323,
+            347,
+            379,
+            411,
+            426,
+            441
+          ],
+          "encoded_size": 455,
+          "height": 31,
+          "literal_pixels": 290,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            66,
+            89,
+            112,
+            119,
+            126,
+            133,
+            140,
+            147,
+            154,
+            161,
+            162,
+            163,
+            170,
+            177,
+            188,
+            199,
+            206,
+            213,
+            214,
+            215,
+            222,
+            229,
+            249,
+            273,
+            298,
+            323,
+            347,
+            379,
+            411,
+            426,
+            441
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 640,
+          "width": 30
+        },
+        "stored_size": 456
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0006_selector_options.player2.bin",
+        "sha256": "a0d799af484121b2a5f41760eeb1be3767a95563e4a8e3190f95bac476436ba7",
+        "size": 456
+      },
+      "role": "selector_options.player2",
+      "source_offset": 15015,
+      "source_sha256": "a0d799af484121b2a5f41760eeb1be3767a95563e4a8e3190f95bac476436ba7",
+      "source_size": 456
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 83
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0007_selector_options.computer.length.bin",
+        "sha256": "5bb10a0ea4aab835b063f9406d8c27a850b80ee5042841828f83e40bbea74f1d",
+        "size": 4
+      },
+      "role": "selector_options.computer.length",
+      "source_offset": 15471,
+      "source_sha256": "5bb10a0ea4aab835b063f9406d8c27a850b80ee5042841828f83e40bbea74f1d",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "image": {
+          "decoded_row_offsets": [
+            22,
+            25,
+            29,
+            34,
+            40,
+            47,
+            55,
+            64,
+            73
+          ],
+          "encoded_size": 82,
+          "height": 9,
+          "literal_pixels": 44,
+          "marker": 16,
+          "row_offsets_validated": true,
+          "stored_row_words": [
+            22,
+            25,
+            29,
+            34,
+            40,
+            47,
+            55,
+            64,
+            73
+          ],
+          "transparent_index": 255,
+          "transparent_pixels": 28,
+          "width": 8
+        },
+        "stored_size": 83
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0008_selector_options.computer.bin",
+        "sha256": "d0416555a34a95dd8b7bc79ab6e3ac0aa93bbd6d891897b640bf863f7f6f7ef2",
+        "size": 83
+      },
+      "role": "selector_options.computer",
+      "source_offset": 15475,
+      "source_sha256": "d0416555a34a95dd8b7bc79ab6e3ac0aa93bbd6d891897b640bf863f7f6f7ef2",
+      "source_size": 83
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 10305
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0009_selector_options.sound_0_.length.bin",
+        "sha256": "f8897f4d44671a95e1642cac901a4e50cad2fe5157183f50a365694fc474ef59",
+        "size": 4
+      },
+      "role": "selector_options.sound[0].length",
+      "source_offset": 15558,
+      "source_sha256": "f8897f4d44671a95e1642cac901a4e50cad2fe5157183f50a365694fc474ef59",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 10275,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 10305
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0010_selector_options.sound_0.bin",
+        "sha256": "7c3833783342ed9fa8552dbd6f064e1ef518f16b2432f0f3fe85c815e7d1d1de",
+        "size": 10305
+      },
+      "role": "selector_options.sound[0]",
+      "source_offset": 15562,
+      "source_sha256": "7c3833783342ed9fa8552dbd6f064e1ef518f16b2432f0f3fe85c815e7d1d1de",
+      "source_size": 10305
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 20696
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0011_selector_options.sound_1_.length.bin",
+        "sha256": "bbd1d7879d244b05541fc6e0f3f10bc57e6c8219127b5a0589301de4be8c2acb",
+        "size": 4
+      },
+      "role": "selector_options.sound[1].length",
+      "source_offset": 25867,
+      "source_sha256": "bbd1d7879d244b05541fc6e0f3f10bc57e6c8219127b5a0589301de4be8c2acb",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 20666,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 20696
+      },
+      "output": {
+        "path": "native/assets/extracted/SELECT3/records/0012_selector_options.sound_1.bin",
+        "sha256": "e93dd7784ffa8fc4cae0857cae35508e15f1897db7970d75dc19de8d36078491",
+        "size": 20696
+      },
+      "role": "selector_options.sound[1]",
+      "source_offset": 25871,
+      "source_sha256": "e93dd7784ffa8fc4cae0857cae35508e15f1897db7970d75dc19de8d36078491",
+      "source_size": 20696
+    }
+  ],
+  "source": {
+    "family": "selector_options",
+    "name": "SELECT3.VOL",
+    "path": "SELECT3.VOL",
+    "sha256": "748b812fa631d3eddcec4903b00482190abbbf8f3ac92b2f84137cb99a3645cb",
+    "size": 46567
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "audio": [
+    {
+      "aiff": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_0.aiff",
+        "sha256": "95626745510233f930bdcf70d9c280755c1e773d78b00d1601b60146faa3bf0c",
+        "size": 20914
+      },
+      "played_samples": 20859,
+      "role": "title_speech.sound[0]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_0.s8",
+        "sha256": "3733047d41da973ad96cebd86fcfb79f856c13eddfbbb9bf053dc9458541d4f9",
+        "size": 20889
+      },
+      "stored_samples": 20889,
+      "wav": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_0.wav",
+        "sha256": "cb6379d33acad425a4623868609e63c47c8f321dbebdaaa9d1390376c3025862",
+        "size": 20904
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_1.aiff",
+        "sha256": "3f1bf921bd1846cced927962884ac8c7ec89456c0e8128e4593e483df324e819",
+        "size": 10734
+      },
+      "played_samples": 10679,
+      "role": "title_speech.sound[1]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_1.s8",
+        "sha256": "c6e9d933d12864be74f53d79fa37d30647b5bf2fc5ca936f8d2e4e08cc47552c",
+        "size": 10709
+      },
+      "stored_samples": 10709,
+      "wav": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_1.wav",
+        "sha256": "28557173a7461bdebfb0c734a0a63c101049257ba3e590d7bc5420c6bb94293b",
+        "size": 10724
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_2.aiff",
+        "sha256": "f8d470d635c97ffd6ca16c702d5f796c97aaba40ad22abe0964642d7140b47a3",
+        "size": 12774
+      },
+      "played_samples": 12719,
+      "role": "title_speech.sound[2]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_2.s8",
+        "sha256": "532b6a77199f693e99b99f8438ec19b4f1220a3dd6168a04c8dae40cb90b4d75",
+        "size": 12749
+      },
+      "stored_samples": 12749,
+      "wav": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_2.wav",
+        "sha256": "408ea05efb840167a7dfb99440b2060ed9cc7e12559c3995dc58cdc0da36641e",
+        "size": 12764
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_3.aiff",
+        "sha256": "2492c09ef61b4acd95f25883a3cf9fc75e775bfa467fc3c112b3875e825943e4",
+        "size": 10738
+      },
+      "played_samples": 10683,
+      "role": "title_speech.sound[3]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_3.s8",
+        "sha256": "959b51762ee713c0efcbd9505ee51e635e085bd796c63a0b308bd246433efb34",
+        "size": 10713
+      },
+      "stored_samples": 10713,
+      "wav": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_3.wav",
+        "sha256": "fdacd2c32995bf79cd15d489c286171ef3fe67cea6dc4324519731482c1bdfa2",
+        "size": 10728
+      }
+    },
+    {
+      "aiff": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_4.aiff",
+        "sha256": "66a0763f945485e461b8129b47f858b402a3e5e6751f93903ab06f6c42abbd7a",
+        "size": 38414
+      },
+      "played_samples": 38359,
+      "role": "title_speech.sound[4]",
+      "sample_rate_hz": 16000,
+      "source_pcm": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_4.s8",
+        "sha256": "938dc344a0d0b079a69e4f81beebd4b8d556dc2cbae93f3ce70ebdea04f5948d",
+        "size": 38389
+      },
+      "stored_samples": 38389,
+      "wav": {
+        "path": "native/assets/extracted/TITLESND/audio/title_speech.sound_4.wav",
+        "sha256": "a7e16c6a47fbbaccfb6b041f2626b34e1197c7c5035b7b4c3271b3a40c8ded8b",
+        "size": 38404
+      }
+    }
+  ],
+  "format": "nog2-extracted-file-v1",
+  "images": [],
+  "records": [
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 20889
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0000_title_speech.sound_0_.length.bin",
+        "sha256": "2a67623c3ddc81314fd03972589daf1661c96d5afc2118d2fd8e105c76fd9609",
+        "size": 4
+      },
+      "role": "title_speech.sound[0].length",
+      "source_offset": 0,
+      "source_sha256": "2a67623c3ddc81314fd03972589daf1661c96d5afc2118d2fd8e105c76fd9609",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 20859,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 20889
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0001_title_speech.sound_0.bin",
+        "sha256": "3733047d41da973ad96cebd86fcfb79f856c13eddfbbb9bf053dc9458541d4f9",
+        "size": 20889
+      },
+      "role": "title_speech.sound[0]",
+      "source_offset": 4,
+      "source_sha256": "3733047d41da973ad96cebd86fcfb79f856c13eddfbbb9bf053dc9458541d4f9",
+      "source_size": 20889
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 10709
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0002_title_speech.sound_1_.length.bin",
+        "sha256": "9f8e9bf508793c2b330414232338bdfde7f19e25e4acf2c68a228585d13d0325",
+        "size": 4
+      },
+      "role": "title_speech.sound[1].length",
+      "source_offset": 20893,
+      "source_sha256": "9f8e9bf508793c2b330414232338bdfde7f19e25e4acf2c68a228585d13d0325",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 10679,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 10709
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0003_title_speech.sound_1.bin",
+        "sha256": "c6e9d933d12864be74f53d79fa37d30647b5bf2fc5ca936f8d2e4e08cc47552c",
+        "size": 10709
+      },
+      "role": "title_speech.sound[1]",
+      "source_offset": 20897,
+      "source_sha256": "c6e9d933d12864be74f53d79fa37d30647b5bf2fc5ca936f8d2e4e08cc47552c",
+      "source_size": 10709
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 12749
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0004_title_speech.sound_2_.length.bin",
+        "sha256": "aa5eec68da044015ecc6ea4a5e77ac8108be3d6fdaedafdf4807829b6519d358",
+        "size": 4
+      },
+      "role": "title_speech.sound[2].length",
+      "source_offset": 31606,
+      "source_sha256": "aa5eec68da044015ecc6ea4a5e77ac8108be3d6fdaedafdf4807829b6519d358",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 12719,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 12749
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0005_title_speech.sound_2.bin",
+        "sha256": "532b6a77199f693e99b99f8438ec19b4f1220a3dd6168a04c8dae40cb90b4d75",
+        "size": 12749
+      },
+      "role": "title_speech.sound[2]",
+      "source_offset": 31610,
+      "source_sha256": "532b6a77199f693e99b99f8438ec19b4f1220a3dd6168a04c8dae40cb90b4d75",
+      "source_size": 12749
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 10713
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0006_title_speech.sound_3_.length.bin",
+        "sha256": "e0af9bf1239b5ca0d2020a693def8eb6924250ebca0e86960d0c257e848760ba",
+        "size": 4
+      },
+      "role": "title_speech.sound[3].length",
+      "source_offset": 44359,
+      "source_sha256": "e0af9bf1239b5ca0d2020a693def8eb6924250ebca0e86960d0c257e848760ba",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 10683,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 10713
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0007_title_speech.sound_3.bin",
+        "sha256": "959b51762ee713c0efcbd9505ee51e635e085bd796c63a0b308bd246433efb34",
+        "size": 10713
+      },
+      "role": "title_speech.sound[3]",
+      "source_offset": 44363,
+      "source_sha256": "959b51762ee713c0efcbd9505ee51e635e085bd796c63a0b308bd246433efb34",
+      "source_size": 10713
+    },
+    {
+      "metadata": {
+        "encoding": "u32le",
+        "value": 38389
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0008_title_speech.sound_4_.length.bin",
+        "sha256": "1082aeffb4e8ac0de1b3a128996a9b9832245aa86d74070848ca153aff494046",
+        "size": 4
+      },
+      "role": "title_speech.sound[4].length",
+      "source_offset": 55076,
+      "source_sha256": "1082aeffb4e8ac0de1b3a128996a9b9832245aa86d74070848ca153aff494046",
+      "source_size": 4
+    },
+    {
+      "metadata": {
+        "dos_ignored_suffix_samples": 30,
+        "dos_played_samples": 38359,
+        "sample_format": "signed 8-bit mono PCM",
+        "sample_rate_hz": 16000,
+        "stored_size": 38389
+      },
+      "output": {
+        "path": "native/assets/extracted/TITLESND/records/0009_title_speech.sound_4.bin",
+        "sha256": "938dc344a0d0b079a69e4f81beebd4b8d556dc2cbae93f3ce70ebdea04f5948d",
+        "size": 38389
+      },
+      "role": "title_speech.sound[4]",
+      "source_offset": 55080,
+      "source_sha256": "938dc344a0d0b079a69e4f81beebd4b8d556dc2cbae93f3ce70ebdea04f5948d",
+      "source_size": 38389
+    }
+  ],
+  "source": {
+    "family": "title_speech",
+    "name": "TITLESND.VOL",
+    "path": "TITLESND.VOL",
+    "sha256": "5acbfa7d6e834188934ce12da85e02b1d638aedf9c0f5c33c6262f621da78bd7",
+    "size": 93469
+  }
+}

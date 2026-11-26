@@ -1,0 +1,28 @@
+{
+  "audio": [],
+  "format": "nog2-extracted-file-v1",
+  "images": [],
+  "records": [
+    {
+      "metadata": {
+        "shipping_disposition": "exclude_dos_support"
+      },
+      "output": {
+        "path": "native/assets/extracted/GRIP/records/0000_grip_driver.payload.bin",
+        "sha256": "2a82fbc795a9e6a5c67b6e270ea8d1ae5426238221f6ed6fe03b22b60aad4ab5",
+        "size": 4224
+      },
+      "role": "grip_driver.payload",
+      "source_offset": 0,
+      "source_sha256": "2a82fbc795a9e6a5c67b6e270ea8d1ae5426238221f6ed6fe03b22b60aad4ab5",
+      "source_size": 4224
+    }
+  ],
+  "source": {
+    "family": "grip_driver",
+    "name": "GRIP.VOL",
+    "path": "GRIP.VOL",
+    "sha256": "2a82fbc795a9e6a5c67b6e270ea8d1ae5426238221f6ed6fe03b22b60aad4ab5",
+    "size": 4224
+  }
+}

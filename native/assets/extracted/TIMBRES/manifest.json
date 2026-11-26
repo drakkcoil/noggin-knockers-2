@@ -1,0 +1,2008 @@
+{
+  "audio": [],
+  "format": "nog2-extracted-file-v1",
+  "images": [],
+  "records": [
+    {
+      "metadata": {
+        "expected_hex": "4f504c321a"
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0000_timbres.magic.bin",
+        "sha256": "7959da27123da1400d8c2aa9ab2bb176e91d0cc8bbf640cc207f140e2db67e0a",
+        "size": 5
+      },
+      "role": "timbres.magic",
+      "source_offset": 0,
+      "source_sha256": "7959da27123da1400d8c2aa9ab2bb176e91d0cc8bbf640cc207f140e2db67e0a",
+      "source_size": 5
+    },
+    {
+      "metadata": {
+        "encoding": "u8",
+        "value": 131
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0001_timbres.count.bin",
+        "sha256": "5ee0dd4d4840229fab4a86438efbcaf1b9571af94f5ace5acc94de19e98ea9ab",
+        "size": 1
+      },
+      "role": "timbres.count",
+      "source_offset": 5,
+      "source_sha256": "5ee0dd4d4840229fab4a86438efbcaf1b9571af94f5ace5acc94de19e98ea9ab",
+      "source_size": 1
+    },
+    {
+      "metadata": {
+        "patch": 0,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0002_timbres.patch_0.bin",
+        "sha256": "d59f772670a47450d51fd7c5086886f562354725f216bb51991b3423b35f691a",
+        "size": 14
+      },
+      "role": "timbres.patch[0]",
+      "source_offset": 6,
+      "source_sha256": "d59f772670a47450d51fd7c5086886f562354725f216bb51991b3423b35f691a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 1,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0003_timbres.patch_1.bin",
+        "sha256": "d8628d6e90b68bdb9aceb5ee887a9ee6326b546eee799e96cc166ee6f0c560f9",
+        "size": 14
+      },
+      "role": "timbres.patch[1]",
+      "source_offset": 20,
+      "source_sha256": "d8628d6e90b68bdb9aceb5ee887a9ee6326b546eee799e96cc166ee6f0c560f9",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 2,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0004_timbres.patch_2.bin",
+        "sha256": "15bfa1a9a46f8d2a28a81a6b0274668a357935a6a8082d61b7207ede7cd9c3fa",
+        "size": 14
+      },
+      "role": "timbres.patch[2]",
+      "source_offset": 34,
+      "source_sha256": "15bfa1a9a46f8d2a28a81a6b0274668a357935a6a8082d61b7207ede7cd9c3fa",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 3,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0005_timbres.patch_3.bin",
+        "sha256": "2b8d93fd7991260b24a551b86593fcfccfdbea70911c01415fe5417bba1701ee",
+        "size": 14
+      },
+      "role": "timbres.patch[3]",
+      "source_offset": 48,
+      "source_sha256": "2b8d93fd7991260b24a551b86593fcfccfdbea70911c01415fe5417bba1701ee",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 4,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0006_timbres.patch_4.bin",
+        "sha256": "e0dce0502f5a90e6b7ea202eba685ebf6a688b09313fda8a73d410618dff7c87",
+        "size": 14
+      },
+      "role": "timbres.patch[4]",
+      "source_offset": 62,
+      "source_sha256": "e0dce0502f5a90e6b7ea202eba685ebf6a688b09313fda8a73d410618dff7c87",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 5,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0007_timbres.patch_5.bin",
+        "sha256": "bf0920e4f8aa15e1d27399a5182c525c74c19c559665e9c694435aee2cf90cd1",
+        "size": 14
+      },
+      "role": "timbres.patch[5]",
+      "source_offset": 76,
+      "source_sha256": "bf0920e4f8aa15e1d27399a5182c525c74c19c559665e9c694435aee2cf90cd1",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 6,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0008_timbres.patch_6.bin",
+        "sha256": "1ce3c2dd4780a942cf9001edce18cf3b6f0860099534d21bf6211a522a665edd",
+        "size": 14
+      },
+      "role": "timbres.patch[6]",
+      "source_offset": 90,
+      "source_sha256": "1ce3c2dd4780a942cf9001edce18cf3b6f0860099534d21bf6211a522a665edd",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 7,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0009_timbres.patch_7.bin",
+        "sha256": "cd055f659bc8fd9b2e39714ea4733a0d396e5e189d96c7932f841c8e78e16ccd",
+        "size": 14
+      },
+      "role": "timbres.patch[7]",
+      "source_offset": 104,
+      "source_sha256": "cd055f659bc8fd9b2e39714ea4733a0d396e5e189d96c7932f841c8e78e16ccd",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 8,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0010_timbres.patch_8.bin",
+        "sha256": "b7e17db1154e2535e7a140cdfc457ee896ec4cc3c7dea581a79fba3fb475d6cb",
+        "size": 14
+      },
+      "role": "timbres.patch[8]",
+      "source_offset": 118,
+      "source_sha256": "b7e17db1154e2535e7a140cdfc457ee896ec4cc3c7dea581a79fba3fb475d6cb",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 9,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0011_timbres.patch_9.bin",
+        "sha256": "b868aaaae07de247dbe0580de81daab108977b240a3ae65635fc5b63b244ba73",
+        "size": 14
+      },
+      "role": "timbres.patch[9]",
+      "source_offset": 132,
+      "source_sha256": "b868aaaae07de247dbe0580de81daab108977b240a3ae65635fc5b63b244ba73",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 10,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0012_timbres.patch_10.bin",
+        "sha256": "babf6d2482a88bd1b1a7b92fcc51d837f8fced6da6da0267b0a26e58573ba741",
+        "size": 14
+      },
+      "role": "timbres.patch[10]",
+      "source_offset": 146,
+      "source_sha256": "babf6d2482a88bd1b1a7b92fcc51d837f8fced6da6da0267b0a26e58573ba741",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 11,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0013_timbres.patch_11.bin",
+        "sha256": "a54e76d973621b84a0dfd82f04e899cff356c6f4f8bad5f2608292b3a711b4e6",
+        "size": 14
+      },
+      "role": "timbres.patch[11]",
+      "source_offset": 160,
+      "source_sha256": "a54e76d973621b84a0dfd82f04e899cff356c6f4f8bad5f2608292b3a711b4e6",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 12,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0014_timbres.patch_12.bin",
+        "sha256": "5ed8f9384c6da3b5984ada66a83c6eb7ca4d59f7bb190d7a9777ac34a69b3a33",
+        "size": 14
+      },
+      "role": "timbres.patch[12]",
+      "source_offset": 174,
+      "source_sha256": "5ed8f9384c6da3b5984ada66a83c6eb7ca4d59f7bb190d7a9777ac34a69b3a33",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 13,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0015_timbres.patch_13.bin",
+        "sha256": "f6fe30be28701f08a67356a23ad734126b0269ef9452bb72916642e3a0a33449",
+        "size": 14
+      },
+      "role": "timbres.patch[13]",
+      "source_offset": 188,
+      "source_sha256": "f6fe30be28701f08a67356a23ad734126b0269ef9452bb72916642e3a0a33449",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 14,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0016_timbres.patch_14.bin",
+        "sha256": "80b2acdf7cca110508513fd172f355e25561e3cde9c6b8996230e419ffa9b504",
+        "size": 14
+      },
+      "role": "timbres.patch[14]",
+      "source_offset": 202,
+      "source_sha256": "80b2acdf7cca110508513fd172f355e25561e3cde9c6b8996230e419ffa9b504",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 15,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0017_timbres.patch_15.bin",
+        "sha256": "ef574e1763a6b852d8bdbc3b81652c75b7f5c35616762f5e4f888f0b13429df0",
+        "size": 14
+      },
+      "role": "timbres.patch[15]",
+      "source_offset": 216,
+      "source_sha256": "ef574e1763a6b852d8bdbc3b81652c75b7f5c35616762f5e4f888f0b13429df0",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 16,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0018_timbres.patch_16.bin",
+        "sha256": "8fc1ecc08c43d59482c133ef613c40c792b2e2ccb11433808592fe8fc4500fc3",
+        "size": 14
+      },
+      "role": "timbres.patch[16]",
+      "source_offset": 230,
+      "source_sha256": "8fc1ecc08c43d59482c133ef613c40c792b2e2ccb11433808592fe8fc4500fc3",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 17,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0019_timbres.patch_17.bin",
+        "sha256": "2168449fd1ec7f4735b4a4cb1e5d2d038a6dd9bf5093da4e5d4f256bd8bb49b2",
+        "size": 14
+      },
+      "role": "timbres.patch[17]",
+      "source_offset": 244,
+      "source_sha256": "2168449fd1ec7f4735b4a4cb1e5d2d038a6dd9bf5093da4e5d4f256bd8bb49b2",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 18,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0020_timbres.patch_18.bin",
+        "sha256": "a45e2362596072a5acde9c5585aa73d0cfa5335e8c1979846db9c42a0c5c680c",
+        "size": 14
+      },
+      "role": "timbres.patch[18]",
+      "source_offset": 258,
+      "source_sha256": "a45e2362596072a5acde9c5585aa73d0cfa5335e8c1979846db9c42a0c5c680c",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 19,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0021_timbres.patch_19.bin",
+        "sha256": "664264e5904f50d1292f0eb3626c3f94311ec46eabba9b63afefe80e7ab14e06",
+        "size": 14
+      },
+      "role": "timbres.patch[19]",
+      "source_offset": 272,
+      "source_sha256": "664264e5904f50d1292f0eb3626c3f94311ec46eabba9b63afefe80e7ab14e06",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 20,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0022_timbres.patch_20.bin",
+        "sha256": "00719afbe5a6081d6afc75eee3979affd55d3dd4c023090c7eb803afad82ad50",
+        "size": 14
+      },
+      "role": "timbres.patch[20]",
+      "source_offset": 286,
+      "source_sha256": "00719afbe5a6081d6afc75eee3979affd55d3dd4c023090c7eb803afad82ad50",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 21,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0023_timbres.patch_21.bin",
+        "sha256": "9b6945fb5158afc615505dfa5902e5dfffb9c3813c499075a384289f2d694b00",
+        "size": 14
+      },
+      "role": "timbres.patch[21]",
+      "source_offset": 300,
+      "source_sha256": "9b6945fb5158afc615505dfa5902e5dfffb9c3813c499075a384289f2d694b00",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 22,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0024_timbres.patch_22.bin",
+        "sha256": "9f467f76c7b7a806eb5401eda3dfdc113fb1594de8cdac9c2a00fe154a9fe3c2",
+        "size": 14
+      },
+      "role": "timbres.patch[22]",
+      "source_offset": 314,
+      "source_sha256": "9f467f76c7b7a806eb5401eda3dfdc113fb1594de8cdac9c2a00fe154a9fe3c2",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 23,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0025_timbres.patch_23.bin",
+        "sha256": "b2fba5317e91c102fa6cc669bd95b57b91b9c3c28b058946bf32bc4499a610ef",
+        "size": 14
+      },
+      "role": "timbres.patch[23]",
+      "source_offset": 328,
+      "source_sha256": "b2fba5317e91c102fa6cc669bd95b57b91b9c3c28b058946bf32bc4499a610ef",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 24,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0026_timbres.patch_24.bin",
+        "sha256": "c283ce42d435694fe43164a3484c8ea76797a05f812c59abad5c3ce7b31e69d2",
+        "size": 14
+      },
+      "role": "timbres.patch[24]",
+      "source_offset": 342,
+      "source_sha256": "c283ce42d435694fe43164a3484c8ea76797a05f812c59abad5c3ce7b31e69d2",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 25,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0027_timbres.patch_25.bin",
+        "sha256": "7c7aa30b7d97ff924c413ebf6d1324379f425b93852e20bace533d0f1192d0bf",
+        "size": 14
+      },
+      "role": "timbres.patch[25]",
+      "source_offset": 356,
+      "source_sha256": "7c7aa30b7d97ff924c413ebf6d1324379f425b93852e20bace533d0f1192d0bf",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 26,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0028_timbres.patch_26.bin",
+        "sha256": "af50bdf3592a4c8a13da2c55a3ff0b52d29f257f0d8d66f76e24cac7c94ae786",
+        "size": 14
+      },
+      "role": "timbres.patch[26]",
+      "source_offset": 370,
+      "source_sha256": "af50bdf3592a4c8a13da2c55a3ff0b52d29f257f0d8d66f76e24cac7c94ae786",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 27,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0029_timbres.patch_27.bin",
+        "sha256": "679037ecdbbaa12368dc72b861752f7942577bfe27cd6bcc6d2704c49bf68ab4",
+        "size": 14
+      },
+      "role": "timbres.patch[27]",
+      "source_offset": 384,
+      "source_sha256": "679037ecdbbaa12368dc72b861752f7942577bfe27cd6bcc6d2704c49bf68ab4",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 28,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0030_timbres.patch_28.bin",
+        "sha256": "0af67c6b8d46ed277f384938af749fa3dd7d9d13680a42e229dc241c5f9b35fe",
+        "size": 14
+      },
+      "role": "timbres.patch[28]",
+      "source_offset": 398,
+      "source_sha256": "0af67c6b8d46ed277f384938af749fa3dd7d9d13680a42e229dc241c5f9b35fe",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 29,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0031_timbres.patch_29.bin",
+        "sha256": "c69ce972d44fb612f4a703b42bc9beb809497d1475856cbdb1b1f1a8b66cce77",
+        "size": 14
+      },
+      "role": "timbres.patch[29]",
+      "source_offset": 412,
+      "source_sha256": "c69ce972d44fb612f4a703b42bc9beb809497d1475856cbdb1b1f1a8b66cce77",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 30,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0032_timbres.patch_30.bin",
+        "sha256": "d8133448032df031a054007eafdccd764ac4464c871912c0c5937bfdb0c10be2",
+        "size": 14
+      },
+      "role": "timbres.patch[30]",
+      "source_offset": 426,
+      "source_sha256": "d8133448032df031a054007eafdccd764ac4464c871912c0c5937bfdb0c10be2",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 31,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0033_timbres.patch_31.bin",
+        "sha256": "283cc2ea4ce2beb83d88d3fbdec9f584dfbdec5ff0e82527edc85a3f0d2e18bc",
+        "size": 14
+      },
+      "role": "timbres.patch[31]",
+      "source_offset": 440,
+      "source_sha256": "283cc2ea4ce2beb83d88d3fbdec9f584dfbdec5ff0e82527edc85a3f0d2e18bc",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 32,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0034_timbres.patch_32.bin",
+        "sha256": "005cb55caab1950feb253751b5fa9bf6120bfe7580cb6fd732eb7dd8ddf84906",
+        "size": 14
+      },
+      "role": "timbres.patch[32]",
+      "source_offset": 454,
+      "source_sha256": "005cb55caab1950feb253751b5fa9bf6120bfe7580cb6fd732eb7dd8ddf84906",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 33,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0035_timbres.patch_33.bin",
+        "sha256": "a236aca3a3e3b8befe6323e0a859a3c2a470feddcf3eb2268c1566ab894c9e29",
+        "size": 14
+      },
+      "role": "timbres.patch[33]",
+      "source_offset": 468,
+      "source_sha256": "a236aca3a3e3b8befe6323e0a859a3c2a470feddcf3eb2268c1566ab894c9e29",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 34,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0036_timbres.patch_34.bin",
+        "sha256": "d56925d27843430dda44ff7e5c35296aee0c509ed1e202e59ec0d264a3b69abd",
+        "size": 14
+      },
+      "role": "timbres.patch[34]",
+      "source_offset": 482,
+      "source_sha256": "d56925d27843430dda44ff7e5c35296aee0c509ed1e202e59ec0d264a3b69abd",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 35,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0037_timbres.patch_35.bin",
+        "sha256": "8652e71a91cc3468fd3b051a86bd7a7d8d60842c1bd48c34b4ba295a45b5c05f",
+        "size": 14
+      },
+      "role": "timbres.patch[35]",
+      "source_offset": 496,
+      "source_sha256": "8652e71a91cc3468fd3b051a86bd7a7d8d60842c1bd48c34b4ba295a45b5c05f",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 36,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0038_timbres.patch_36.bin",
+        "sha256": "58a3e82a23a237afa41c4874a30d2900617340c370dca28893c1734904736026",
+        "size": 14
+      },
+      "role": "timbres.patch[36]",
+      "source_offset": 510,
+      "source_sha256": "58a3e82a23a237afa41c4874a30d2900617340c370dca28893c1734904736026",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 37,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0039_timbres.patch_37.bin",
+        "sha256": "5ea163c27da1f53277daff1438d377eefd3cf90f3b46b646b1664e17dc6a74a9",
+        "size": 14
+      },
+      "role": "timbres.patch[37]",
+      "source_offset": 524,
+      "source_sha256": "5ea163c27da1f53277daff1438d377eefd3cf90f3b46b646b1664e17dc6a74a9",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 38,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0040_timbres.patch_38.bin",
+        "sha256": "a18feab03a0f62a1f8687af6562ee88d4199d61ac550b053fa86141602f73e1a",
+        "size": 14
+      },
+      "role": "timbres.patch[38]",
+      "source_offset": 538,
+      "source_sha256": "a18feab03a0f62a1f8687af6562ee88d4199d61ac550b053fa86141602f73e1a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 39,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0041_timbres.patch_39.bin",
+        "sha256": "ceced35a8cf05dddeb6ca080ecc7e31430bd977aa9e6e60baf2f68205db254f8",
+        "size": 14
+      },
+      "role": "timbres.patch[39]",
+      "source_offset": 552,
+      "source_sha256": "ceced35a8cf05dddeb6ca080ecc7e31430bd977aa9e6e60baf2f68205db254f8",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 40,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0042_timbres.patch_40.bin",
+        "sha256": "fd049032d54d160c226041dbbac1f173f780f86c9fa5b8889df515569e1313a0",
+        "size": 14
+      },
+      "role": "timbres.patch[40]",
+      "source_offset": 566,
+      "source_sha256": "fd049032d54d160c226041dbbac1f173f780f86c9fa5b8889df515569e1313a0",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 41,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0043_timbres.patch_41.bin",
+        "sha256": "9abea805abb3423835d61d34189861a62bf4b71445d3888d7ae951ce9097f2bf",
+        "size": 14
+      },
+      "role": "timbres.patch[41]",
+      "source_offset": 580,
+      "source_sha256": "9abea805abb3423835d61d34189861a62bf4b71445d3888d7ae951ce9097f2bf",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 42,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0044_timbres.patch_42.bin",
+        "sha256": "044a2cd6c9e11cf31c07f63a03d33ab26802a953770e39ef23d7a806a86a07f4",
+        "size": 14
+      },
+      "role": "timbres.patch[42]",
+      "source_offset": 594,
+      "source_sha256": "044a2cd6c9e11cf31c07f63a03d33ab26802a953770e39ef23d7a806a86a07f4",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 43,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0045_timbres.patch_43.bin",
+        "sha256": "c074a46e46ef572329dea6046b59baa6c6d7c742dada57afa507ae0cdd124c52",
+        "size": 14
+      },
+      "role": "timbres.patch[43]",
+      "source_offset": 608,
+      "source_sha256": "c074a46e46ef572329dea6046b59baa6c6d7c742dada57afa507ae0cdd124c52",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 44,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0046_timbres.patch_44.bin",
+        "sha256": "7cff0f3b067219a53996fdf5d07326757bb2922bf1c0f78b441dd37900cce2ae",
+        "size": 14
+      },
+      "role": "timbres.patch[44]",
+      "source_offset": 622,
+      "source_sha256": "7cff0f3b067219a53996fdf5d07326757bb2922bf1c0f78b441dd37900cce2ae",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 45,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0047_timbres.patch_45.bin",
+        "sha256": "4042f408ae172bccefb942a0acf7bcdce99d049e005e7116114efd620cd70c89",
+        "size": 14
+      },
+      "role": "timbres.patch[45]",
+      "source_offset": 636,
+      "source_sha256": "4042f408ae172bccefb942a0acf7bcdce99d049e005e7116114efd620cd70c89",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 46,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0048_timbres.patch_46.bin",
+        "sha256": "0de5be47876a224ddc452f20410b8c7deb26e03bc09bf16dcb7fcf1044caef4f",
+        "size": 14
+      },
+      "role": "timbres.patch[46]",
+      "source_offset": 650,
+      "source_sha256": "0de5be47876a224ddc452f20410b8c7deb26e03bc09bf16dcb7fcf1044caef4f",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 47,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0049_timbres.patch_47.bin",
+        "sha256": "2ae5af814a23879ba59cc107743555f373cf79864cfd9bbcffb34a9ee1b32532",
+        "size": 14
+      },
+      "role": "timbres.patch[47]",
+      "source_offset": 664,
+      "source_sha256": "2ae5af814a23879ba59cc107743555f373cf79864cfd9bbcffb34a9ee1b32532",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 48,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0050_timbres.patch_48.bin",
+        "sha256": "a76176a065861d666f4609bb9dae023e321ccb87e23f26aa03eb60e9126ae80d",
+        "size": 14
+      },
+      "role": "timbres.patch[48]",
+      "source_offset": 678,
+      "source_sha256": "a76176a065861d666f4609bb9dae023e321ccb87e23f26aa03eb60e9126ae80d",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 49,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0051_timbres.patch_49.bin",
+        "sha256": "d46417fa82f6ce618846c3f410a38213515e1d630a48de2552f1a9d557d30e83",
+        "size": 14
+      },
+      "role": "timbres.patch[49]",
+      "source_offset": 692,
+      "source_sha256": "d46417fa82f6ce618846c3f410a38213515e1d630a48de2552f1a9d557d30e83",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 50,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0052_timbres.patch_50.bin",
+        "sha256": "79f296b1cb1dd0011e54213cefa72000846d05606b2dcc5c8dff331fb9e62886",
+        "size": 14
+      },
+      "role": "timbres.patch[50]",
+      "source_offset": 706,
+      "source_sha256": "79f296b1cb1dd0011e54213cefa72000846d05606b2dcc5c8dff331fb9e62886",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 51,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0053_timbres.patch_51.bin",
+        "sha256": "9770fab648f4340bb79f6482420e6839a0db722ee58105accf8b0db7ef84c461",
+        "size": 14
+      },
+      "role": "timbres.patch[51]",
+      "source_offset": 720,
+      "source_sha256": "9770fab648f4340bb79f6482420e6839a0db722ee58105accf8b0db7ef84c461",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 52,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0054_timbres.patch_52.bin",
+        "sha256": "961baf0ef57ccec8141c67423f015440d140cf1aa9009394b1b4ccc5dc259289",
+        "size": 14
+      },
+      "role": "timbres.patch[52]",
+      "source_offset": 734,
+      "source_sha256": "961baf0ef57ccec8141c67423f015440d140cf1aa9009394b1b4ccc5dc259289",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 53,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0055_timbres.patch_53.bin",
+        "sha256": "602f5508001b17e7904ebcf51d919272d44a785ff0086074b052513d3429b7af",
+        "size": 14
+      },
+      "role": "timbres.patch[53]",
+      "source_offset": 748,
+      "source_sha256": "602f5508001b17e7904ebcf51d919272d44a785ff0086074b052513d3429b7af",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 54,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0056_timbres.patch_54.bin",
+        "sha256": "e96751582de09477dac5c7179b1fd1ccea8913e347c650d8f6fa4da224d3c1e3",
+        "size": 14
+      },
+      "role": "timbres.patch[54]",
+      "source_offset": 762,
+      "source_sha256": "e96751582de09477dac5c7179b1fd1ccea8913e347c650d8f6fa4da224d3c1e3",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 55,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0057_timbres.patch_55.bin",
+        "sha256": "638419115df24ecf178b1dc4b9921df8b6114187f18e2605a3fe7e156bc24598",
+        "size": 14
+      },
+      "role": "timbres.patch[55]",
+      "source_offset": 776,
+      "source_sha256": "638419115df24ecf178b1dc4b9921df8b6114187f18e2605a3fe7e156bc24598",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 56,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0058_timbres.patch_56.bin",
+        "sha256": "16a1ed30f9dee7e9e9e654e1b000ee5f4a89ccbc2bf074de2e228abe30c2c0f6",
+        "size": 14
+      },
+      "role": "timbres.patch[56]",
+      "source_offset": 790,
+      "source_sha256": "16a1ed30f9dee7e9e9e654e1b000ee5f4a89ccbc2bf074de2e228abe30c2c0f6",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 57,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0059_timbres.patch_57.bin",
+        "sha256": "49345175eee1f1182b4ebf86982ea5f729312b6c398486e43fe8d7b3687ddcf6",
+        "size": 14
+      },
+      "role": "timbres.patch[57]",
+      "source_offset": 804,
+      "source_sha256": "49345175eee1f1182b4ebf86982ea5f729312b6c398486e43fe8d7b3687ddcf6",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 58,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0060_timbres.patch_58.bin",
+        "sha256": "80835a767202639b5bbad2cab0b8286737e85d87370a5642f56b0a82e48b1014",
+        "size": 14
+      },
+      "role": "timbres.patch[58]",
+      "source_offset": 818,
+      "source_sha256": "80835a767202639b5bbad2cab0b8286737e85d87370a5642f56b0a82e48b1014",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 59,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0061_timbres.patch_59.bin",
+        "sha256": "56ac4fd226e7d22f5b0384fa20220ee6a8b1108c566444dcb152f93bd2f954bf",
+        "size": 14
+      },
+      "role": "timbres.patch[59]",
+      "source_offset": 832,
+      "source_sha256": "56ac4fd226e7d22f5b0384fa20220ee6a8b1108c566444dcb152f93bd2f954bf",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 60,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0062_timbres.patch_60.bin",
+        "sha256": "91a289a5e08027835b10a78b746dc93e78ad8defe71f2095dc51a23b49785a72",
+        "size": 14
+      },
+      "role": "timbres.patch[60]",
+      "source_offset": 846,
+      "source_sha256": "91a289a5e08027835b10a78b746dc93e78ad8defe71f2095dc51a23b49785a72",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 61,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0063_timbres.patch_61.bin",
+        "sha256": "e4fae1cd4274fb5679cfbdee79c85cb2860a46f2d4e608fe1683a26b29382e33",
+        "size": 14
+      },
+      "role": "timbres.patch[61]",
+      "source_offset": 860,
+      "source_sha256": "e4fae1cd4274fb5679cfbdee79c85cb2860a46f2d4e608fe1683a26b29382e33",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 62,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0064_timbres.patch_62.bin",
+        "sha256": "ef04e4274024a339fb5785ada389543f6acf02b80ee1dba1e515888bf922f451",
+        "size": 14
+      },
+      "role": "timbres.patch[62]",
+      "source_offset": 874,
+      "source_sha256": "ef04e4274024a339fb5785ada389543f6acf02b80ee1dba1e515888bf922f451",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 63,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0065_timbres.patch_63.bin",
+        "sha256": "ce47c665496c04fee71174feb2290446434b1cffa0f7d64e1985b60c2214d9d3",
+        "size": 14
+      },
+      "role": "timbres.patch[63]",
+      "source_offset": 888,
+      "source_sha256": "ce47c665496c04fee71174feb2290446434b1cffa0f7d64e1985b60c2214d9d3",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 64,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0066_timbres.patch_64.bin",
+        "sha256": "2a2766c18448b29b4ed03f11dcb8f79bf66b7686b09a43501eaf250ba7606288",
+        "size": 14
+      },
+      "role": "timbres.patch[64]",
+      "source_offset": 902,
+      "source_sha256": "2a2766c18448b29b4ed03f11dcb8f79bf66b7686b09a43501eaf250ba7606288",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 65,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0067_timbres.patch_65.bin",
+        "sha256": "b4fa9e3919338af195b7e2306901fd568eef5f76a8458561dc277e3fffcb26c7",
+        "size": 14
+      },
+      "role": "timbres.patch[65]",
+      "source_offset": 916,
+      "source_sha256": "b4fa9e3919338af195b7e2306901fd568eef5f76a8458561dc277e3fffcb26c7",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 66,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0068_timbres.patch_66.bin",
+        "sha256": "de7960a7026d377a657b04102241c0be9a597314919f1b9ad8dbd83352be5385",
+        "size": 14
+      },
+      "role": "timbres.patch[66]",
+      "source_offset": 930,
+      "source_sha256": "de7960a7026d377a657b04102241c0be9a597314919f1b9ad8dbd83352be5385",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 67,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0069_timbres.patch_67.bin",
+        "sha256": "e3bf887f21b11c9aeaa526e829cec2f730ed6c7bb2d80ed54830623f50bbeb1f",
+        "size": 14
+      },
+      "role": "timbres.patch[67]",
+      "source_offset": 944,
+      "source_sha256": "e3bf887f21b11c9aeaa526e829cec2f730ed6c7bb2d80ed54830623f50bbeb1f",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 68,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0070_timbres.patch_68.bin",
+        "sha256": "517a83088b9a4680656f0651ae7374a66275aa2e169fed81a283f6cbc4895cbf",
+        "size": 14
+      },
+      "role": "timbres.patch[68]",
+      "source_offset": 958,
+      "source_sha256": "517a83088b9a4680656f0651ae7374a66275aa2e169fed81a283f6cbc4895cbf",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 69,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0071_timbres.patch_69.bin",
+        "sha256": "0342ae614a2225309aad40e4d79571efd75d6429d2e6fecaae471844e78dfa15",
+        "size": 14
+      },
+      "role": "timbres.patch[69]",
+      "source_offset": 972,
+      "source_sha256": "0342ae614a2225309aad40e4d79571efd75d6429d2e6fecaae471844e78dfa15",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 70,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0072_timbres.patch_70.bin",
+        "sha256": "a32fb3404a68d9c5321d40d5199bb1b1d57fe048d332fdf3cb534eb471c86430",
+        "size": 14
+      },
+      "role": "timbres.patch[70]",
+      "source_offset": 986,
+      "source_sha256": "a32fb3404a68d9c5321d40d5199bb1b1d57fe048d332fdf3cb534eb471c86430",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 71,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0073_timbres.patch_71.bin",
+        "sha256": "f35f0d0b6e8cf35e50bc925e1acfb94504e6333742dde9dd8a8618c8e8dd9121",
+        "size": 14
+      },
+      "role": "timbres.patch[71]",
+      "source_offset": 1000,
+      "source_sha256": "f35f0d0b6e8cf35e50bc925e1acfb94504e6333742dde9dd8a8618c8e8dd9121",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 72,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0074_timbres.patch_72.bin",
+        "sha256": "f17c1fd831e7e02d0c99039ef6edbded1967c0b87fb8c83b70fcc09dd3db5d17",
+        "size": 14
+      },
+      "role": "timbres.patch[72]",
+      "source_offset": 1014,
+      "source_sha256": "f17c1fd831e7e02d0c99039ef6edbded1967c0b87fb8c83b70fcc09dd3db5d17",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 73,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0075_timbres.patch_73.bin",
+        "sha256": "491998f83873c5d0b75b7bed55dfb10c2a3e695ce9007746e9a9f5be994750bb",
+        "size": 14
+      },
+      "role": "timbres.patch[73]",
+      "source_offset": 1028,
+      "source_sha256": "491998f83873c5d0b75b7bed55dfb10c2a3e695ce9007746e9a9f5be994750bb",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 74,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0076_timbres.patch_74.bin",
+        "sha256": "7f21920b2afa91dfad687389e93c1685643e0c5c548b07dd56afac60b02a0e60",
+        "size": 14
+      },
+      "role": "timbres.patch[74]",
+      "source_offset": 1042,
+      "source_sha256": "7f21920b2afa91dfad687389e93c1685643e0c5c548b07dd56afac60b02a0e60",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 75,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0077_timbres.patch_75.bin",
+        "sha256": "25d077afdb9305f572aeb6ded57e1ed733b45c8d6c9ec06bb442d2173fb5f32d",
+        "size": 14
+      },
+      "role": "timbres.patch[75]",
+      "source_offset": 1056,
+      "source_sha256": "25d077afdb9305f572aeb6ded57e1ed733b45c8d6c9ec06bb442d2173fb5f32d",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 76,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0078_timbres.patch_76.bin",
+        "sha256": "be6bfb0e9ecf3d3bc2df166fdf8010446b035fce9ccfa42a1ed450cac7de6e1e",
+        "size": 14
+      },
+      "role": "timbres.patch[76]",
+      "source_offset": 1070,
+      "source_sha256": "be6bfb0e9ecf3d3bc2df166fdf8010446b035fce9ccfa42a1ed450cac7de6e1e",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 77,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0079_timbres.patch_77.bin",
+        "sha256": "8ebda7c34b5a7e01abffc3e5f0bc06c15a235f48a0acb766fe3df79e7090f96a",
+        "size": 14
+      },
+      "role": "timbres.patch[77]",
+      "source_offset": 1084,
+      "source_sha256": "8ebda7c34b5a7e01abffc3e5f0bc06c15a235f48a0acb766fe3df79e7090f96a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 78,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0080_timbres.patch_78.bin",
+        "sha256": "f2a53790db35079609c2ca54ecf16d4abf411ee6f230306a0887aceabf0243e5",
+        "size": 14
+      },
+      "role": "timbres.patch[78]",
+      "source_offset": 1098,
+      "source_sha256": "f2a53790db35079609c2ca54ecf16d4abf411ee6f230306a0887aceabf0243e5",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 79,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0081_timbres.patch_79.bin",
+        "sha256": "08ba51d0f65196d82c980c10f52a31a1fcb2396a13b2dc7c20863f8a9adaf92c",
+        "size": 14
+      },
+      "role": "timbres.patch[79]",
+      "source_offset": 1112,
+      "source_sha256": "08ba51d0f65196d82c980c10f52a31a1fcb2396a13b2dc7c20863f8a9adaf92c",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 80,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0082_timbres.patch_80.bin",
+        "sha256": "23c289dc1059ae0bd17a6bcc328b9bdc3ffd3fb75b5667ff7cb31262fbe13d91",
+        "size": 14
+      },
+      "role": "timbres.patch[80]",
+      "source_offset": 1126,
+      "source_sha256": "23c289dc1059ae0bd17a6bcc328b9bdc3ffd3fb75b5667ff7cb31262fbe13d91",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 81,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0083_timbres.patch_81.bin",
+        "sha256": "9a18a7c6a65e638f73f3e93268e8d11abe530ab2eaa510256c5f94c1dee1d7eb",
+        "size": 14
+      },
+      "role": "timbres.patch[81]",
+      "source_offset": 1140,
+      "source_sha256": "9a18a7c6a65e638f73f3e93268e8d11abe530ab2eaa510256c5f94c1dee1d7eb",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 82,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0084_timbres.patch_82.bin",
+        "sha256": "361e77cbff65196721527fda895a9b08e49ab2a1dfcdeb15e377bc3d2be5e180",
+        "size": 14
+      },
+      "role": "timbres.patch[82]",
+      "source_offset": 1154,
+      "source_sha256": "361e77cbff65196721527fda895a9b08e49ab2a1dfcdeb15e377bc3d2be5e180",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 83,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0085_timbres.patch_83.bin",
+        "sha256": "4e3786385b95658bdfac7e477da78b861dc895e62c33a1a474b8afccc6c425bd",
+        "size": 14
+      },
+      "role": "timbres.patch[83]",
+      "source_offset": 1168,
+      "source_sha256": "4e3786385b95658bdfac7e477da78b861dc895e62c33a1a474b8afccc6c425bd",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 84,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0086_timbres.patch_84.bin",
+        "sha256": "e35db1ea2973c8ae0ef658d8fccbe5d7b125ec3644c839743713235b779888f7",
+        "size": 14
+      },
+      "role": "timbres.patch[84]",
+      "source_offset": 1182,
+      "source_sha256": "e35db1ea2973c8ae0ef658d8fccbe5d7b125ec3644c839743713235b779888f7",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 85,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0087_timbres.patch_85.bin",
+        "sha256": "41048358c68a1dfb90526eea5d7784a026ada2843cd31dde06319d308014e3e9",
+        "size": 14
+      },
+      "role": "timbres.patch[85]",
+      "source_offset": 1196,
+      "source_sha256": "41048358c68a1dfb90526eea5d7784a026ada2843cd31dde06319d308014e3e9",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 86,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0088_timbres.patch_86.bin",
+        "sha256": "b572758ce5f739e74843b3c29b0655ace68db7a7c45e54debba403bdb6284bcd",
+        "size": 14
+      },
+      "role": "timbres.patch[86]",
+      "source_offset": 1210,
+      "source_sha256": "b572758ce5f739e74843b3c29b0655ace68db7a7c45e54debba403bdb6284bcd",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 87,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0089_timbres.patch_87.bin",
+        "sha256": "8aa62bb0d860a5130808fe3bcf8f2e04595eb821e1ecb9cc2f0fad846491f163",
+        "size": 14
+      },
+      "role": "timbres.patch[87]",
+      "source_offset": 1224,
+      "source_sha256": "8aa62bb0d860a5130808fe3bcf8f2e04595eb821e1ecb9cc2f0fad846491f163",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 88,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0090_timbres.patch_88.bin",
+        "sha256": "0e4daa25c32a39b90e3b9528a0b479ffba7863e48b757094bc703b88047bb330",
+        "size": 14
+      },
+      "role": "timbres.patch[88]",
+      "source_offset": 1238,
+      "source_sha256": "0e4daa25c32a39b90e3b9528a0b479ffba7863e48b757094bc703b88047bb330",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 89,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0091_timbres.patch_89.bin",
+        "sha256": "0728308ca22b3ce001f3130336c28cbb7d56ae9ef8407850869e15fe54a0d856",
+        "size": 14
+      },
+      "role": "timbres.patch[89]",
+      "source_offset": 1252,
+      "source_sha256": "0728308ca22b3ce001f3130336c28cbb7d56ae9ef8407850869e15fe54a0d856",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 90,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0092_timbres.patch_90.bin",
+        "sha256": "5edcd9f0b0be994eeacc8a08a565e64024c80f01d803527c9407d3038c9bae05",
+        "size": 14
+      },
+      "role": "timbres.patch[90]",
+      "source_offset": 1266,
+      "source_sha256": "5edcd9f0b0be994eeacc8a08a565e64024c80f01d803527c9407d3038c9bae05",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 91,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0093_timbres.patch_91.bin",
+        "sha256": "223e1053ff24f5d7e9b1ca67566d1e8fb6453a85980902d9bb29da358e0d75c6",
+        "size": 14
+      },
+      "role": "timbres.patch[91]",
+      "source_offset": 1280,
+      "source_sha256": "223e1053ff24f5d7e9b1ca67566d1e8fb6453a85980902d9bb29da358e0d75c6",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 92,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0094_timbres.patch_92.bin",
+        "sha256": "0f9c049f5948ea0037c1c7df50b5f9688290e43e2a449d3e5e9cf90b83474e25",
+        "size": 14
+      },
+      "role": "timbres.patch[92]",
+      "source_offset": 1294,
+      "source_sha256": "0f9c049f5948ea0037c1c7df50b5f9688290e43e2a449d3e5e9cf90b83474e25",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 93,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0095_timbres.patch_93.bin",
+        "sha256": "240cefa813631ceeaa42055ca1e242edce1f48a5c655ae6b97d095c309a495c1",
+        "size": 14
+      },
+      "role": "timbres.patch[93]",
+      "source_offset": 1308,
+      "source_sha256": "240cefa813631ceeaa42055ca1e242edce1f48a5c655ae6b97d095c309a495c1",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 94,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0096_timbres.patch_94.bin",
+        "sha256": "d9263290e73133db53ddec247ccfce566cc837598c7f2c282c251bcbb7ba7479",
+        "size": 14
+      },
+      "role": "timbres.patch[94]",
+      "source_offset": 1322,
+      "source_sha256": "d9263290e73133db53ddec247ccfce566cc837598c7f2c282c251bcbb7ba7479",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 95,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0097_timbres.patch_95.bin",
+        "sha256": "d9f155f7d486ea105b0f41b018efc12b5e28a4a7c42a5a4469d873320b069efa",
+        "size": 14
+      },
+      "role": "timbres.patch[95]",
+      "source_offset": 1336,
+      "source_sha256": "d9f155f7d486ea105b0f41b018efc12b5e28a4a7c42a5a4469d873320b069efa",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 96,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0098_timbres.patch_96.bin",
+        "sha256": "f00923a38188b28ad27ae22060d97db1ee32d6368a9122c05879c8fda608fdb7",
+        "size": 14
+      },
+      "role": "timbres.patch[96]",
+      "source_offset": 1350,
+      "source_sha256": "f00923a38188b28ad27ae22060d97db1ee32d6368a9122c05879c8fda608fdb7",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 97,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0099_timbres.patch_97.bin",
+        "sha256": "8938384f9f4cc614fb12d20e6a7c13d64eac625a9fa8b51dd6293ab67c92ced4",
+        "size": 14
+      },
+      "role": "timbres.patch[97]",
+      "source_offset": 1364,
+      "source_sha256": "8938384f9f4cc614fb12d20e6a7c13d64eac625a9fa8b51dd6293ab67c92ced4",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 98,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0100_timbres.patch_98.bin",
+        "sha256": "5922d04d431d6dc24130e7c3e0c84167019fa65bcf183ede6c44e9ad1eeae18e",
+        "size": 14
+      },
+      "role": "timbres.patch[98]",
+      "source_offset": 1378,
+      "source_sha256": "5922d04d431d6dc24130e7c3e0c84167019fa65bcf183ede6c44e9ad1eeae18e",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 99,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0101_timbres.patch_99.bin",
+        "sha256": "c6427476275f83b82031667fcd7f3836ed29c80834cb19b519ddae82e34e5918",
+        "size": 14
+      },
+      "role": "timbres.patch[99]",
+      "source_offset": 1392,
+      "source_sha256": "c6427476275f83b82031667fcd7f3836ed29c80834cb19b519ddae82e34e5918",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 100,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0102_timbres.patch_100.bin",
+        "sha256": "bb764ec9c63fc2988d08be02d95ab6e8f6fe1cd1893dbd07c1da6222a0c8d5e5",
+        "size": 14
+      },
+      "role": "timbres.patch[100]",
+      "source_offset": 1406,
+      "source_sha256": "bb764ec9c63fc2988d08be02d95ab6e8f6fe1cd1893dbd07c1da6222a0c8d5e5",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 101,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0103_timbres.patch_101.bin",
+        "sha256": "9dc94e1a78da7b0375aa1ae35b5ab81f490b07112488a1c3f99aebcd538e1d43",
+        "size": 14
+      },
+      "role": "timbres.patch[101]",
+      "source_offset": 1420,
+      "source_sha256": "9dc94e1a78da7b0375aa1ae35b5ab81f490b07112488a1c3f99aebcd538e1d43",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 102,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0104_timbres.patch_102.bin",
+        "sha256": "a44dad525dd0caad0257b7d749204776f9bdc5af00ea1170335a35b93eb3115d",
+        "size": 14
+      },
+      "role": "timbres.patch[102]",
+      "source_offset": 1434,
+      "source_sha256": "a44dad525dd0caad0257b7d749204776f9bdc5af00ea1170335a35b93eb3115d",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 103,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0105_timbres.patch_103.bin",
+        "sha256": "e48dc5459b7c5310b947852c991a3035ade2b6ef3185280381e7dbf51c9b183e",
+        "size": 14
+      },
+      "role": "timbres.patch[103]",
+      "source_offset": 1448,
+      "source_sha256": "e48dc5459b7c5310b947852c991a3035ade2b6ef3185280381e7dbf51c9b183e",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 104,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0106_timbres.patch_104.bin",
+        "sha256": "177bbc146684c07259d7a89e69cc1e5fb098770a9e7c926a16711ee3a6438389",
+        "size": 14
+      },
+      "role": "timbres.patch[104]",
+      "source_offset": 1462,
+      "source_sha256": "177bbc146684c07259d7a89e69cc1e5fb098770a9e7c926a16711ee3a6438389",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 105,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0107_timbres.patch_105.bin",
+        "sha256": "4fc2094ed4905fef845ce50ade96882fcf80c665b91755dd8fc142229be3d90c",
+        "size": 14
+      },
+      "role": "timbres.patch[105]",
+      "source_offset": 1476,
+      "source_sha256": "4fc2094ed4905fef845ce50ade96882fcf80c665b91755dd8fc142229be3d90c",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 106,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0108_timbres.patch_106.bin",
+        "sha256": "af26690d697a24d48ecb1d9cc688c761fe8830f521de7815a69ba773444eb59c",
+        "size": 14
+      },
+      "role": "timbres.patch[106]",
+      "source_offset": 1490,
+      "source_sha256": "af26690d697a24d48ecb1d9cc688c761fe8830f521de7815a69ba773444eb59c",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 107,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0109_timbres.patch_107.bin",
+        "sha256": "870cc52d10591d26aec6a19de50a73cad03a57b005d3674f0b85f8e61617233b",
+        "size": 14
+      },
+      "role": "timbres.patch[107]",
+      "source_offset": 1504,
+      "source_sha256": "870cc52d10591d26aec6a19de50a73cad03a57b005d3674f0b85f8e61617233b",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 108,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0110_timbres.patch_108.bin",
+        "sha256": "9e55cc56423cd4f8e4e44a3b352774e2a8c7b0bffb71fbb4b830582c7d5a14bc",
+        "size": 14
+      },
+      "role": "timbres.patch[108]",
+      "source_offset": 1518,
+      "source_sha256": "9e55cc56423cd4f8e4e44a3b352774e2a8c7b0bffb71fbb4b830582c7d5a14bc",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 109,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0111_timbres.patch_109.bin",
+        "sha256": "645ca96dbbaac764d3f5d39ea8315da42b412a1364b5cd1a41c69ec543615b8a",
+        "size": 14
+      },
+      "role": "timbres.patch[109]",
+      "source_offset": 1532,
+      "source_sha256": "645ca96dbbaac764d3f5d39ea8315da42b412a1364b5cd1a41c69ec543615b8a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 110,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0112_timbres.patch_110.bin",
+        "sha256": "264ad9a371255e1d714ba8c86462e863b3a6a5194e39e92a3cc6c346c68aaf02",
+        "size": 14
+      },
+      "role": "timbres.patch[110]",
+      "source_offset": 1546,
+      "source_sha256": "264ad9a371255e1d714ba8c86462e863b3a6a5194e39e92a3cc6c346c68aaf02",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 111,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0113_timbres.patch_111.bin",
+        "sha256": "dce82909a8809a539db836c00aba11a82a3c6c23570ae04758bf6a9291851f2b",
+        "size": 14
+      },
+      "role": "timbres.patch[111]",
+      "source_offset": 1560,
+      "source_sha256": "dce82909a8809a539db836c00aba11a82a3c6c23570ae04758bf6a9291851f2b",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 112,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0114_timbres.patch_112.bin",
+        "sha256": "81c625ccbcddb7ef443acdba0b59d1f045b526bbcfa36c815a55fe5a4c3be80c",
+        "size": 14
+      },
+      "role": "timbres.patch[112]",
+      "source_offset": 1574,
+      "source_sha256": "81c625ccbcddb7ef443acdba0b59d1f045b526bbcfa36c815a55fe5a4c3be80c",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 113,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0115_timbres.patch_113.bin",
+        "sha256": "ed789e5b630766b3d4dcfef15771abbf36573154bb2e1a0c1d55b874f371940a",
+        "size": 14
+      },
+      "role": "timbres.patch[113]",
+      "source_offset": 1588,
+      "source_sha256": "ed789e5b630766b3d4dcfef15771abbf36573154bb2e1a0c1d55b874f371940a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 114,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0116_timbres.patch_114.bin",
+        "sha256": "5dbcb10c95d65dc5106cea332cb075f0a0e4bc7c47dae1c31b3236b9c1156a26",
+        "size": 14
+      },
+      "role": "timbres.patch[114]",
+      "source_offset": 1602,
+      "source_sha256": "5dbcb10c95d65dc5106cea332cb075f0a0e4bc7c47dae1c31b3236b9c1156a26",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 115,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0117_timbres.patch_115.bin",
+        "sha256": "9ffd94f303066a9bddd58fbb58311d8d6b4bd3a4296444abf3254d11d3de473e",
+        "size": 14
+      },
+      "role": "timbres.patch[115]",
+      "source_offset": 1616,
+      "source_sha256": "9ffd94f303066a9bddd58fbb58311d8d6b4bd3a4296444abf3254d11d3de473e",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 116,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0118_timbres.patch_116.bin",
+        "sha256": "697c0d66b2d42736e05f42345a096e46879639a1476eefa24065a35f1ed526c7",
+        "size": 14
+      },
+      "role": "timbres.patch[116]",
+      "source_offset": 1630,
+      "source_sha256": "697c0d66b2d42736e05f42345a096e46879639a1476eefa24065a35f1ed526c7",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 117,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0119_timbres.patch_117.bin",
+        "sha256": "837679052afea5e7f6d75a826060b7755debfee508ae0dc656bd2810c5c915ab",
+        "size": 14
+      },
+      "role": "timbres.patch[117]",
+      "source_offset": 1644,
+      "source_sha256": "837679052afea5e7f6d75a826060b7755debfee508ae0dc656bd2810c5c915ab",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 118,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0120_timbres.patch_118.bin",
+        "sha256": "350c9a839c965d7de9264237388bbd5a308dc053e9dfb4316f6bf36980c31e8a",
+        "size": 14
+      },
+      "role": "timbres.patch[118]",
+      "source_offset": 1658,
+      "source_sha256": "350c9a839c965d7de9264237388bbd5a308dc053e9dfb4316f6bf36980c31e8a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 119,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0121_timbres.patch_119.bin",
+        "sha256": "764a89915b46bb1119bc96063478df46171af93204f747920eddd9cdc096233e",
+        "size": 14
+      },
+      "role": "timbres.patch[119]",
+      "source_offset": 1672,
+      "source_sha256": "764a89915b46bb1119bc96063478df46171af93204f747920eddd9cdc096233e",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 120,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0122_timbres.patch_120.bin",
+        "sha256": "857a0c763c5999fd08af3e9b8dea26d309fd34e0674ccf2397c0c133fefd377a",
+        "size": 14
+      },
+      "role": "timbres.patch[120]",
+      "source_offset": 1686,
+      "source_sha256": "857a0c763c5999fd08af3e9b8dea26d309fd34e0674ccf2397c0c133fefd377a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 121,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0123_timbres.patch_121.bin",
+        "sha256": "fc98b75141083172e34df47bc59a1ed7154a06c7bec489dfa1bbd9c93c9b0b6b",
+        "size": 14
+      },
+      "role": "timbres.patch[121]",
+      "source_offset": 1700,
+      "source_sha256": "fc98b75141083172e34df47bc59a1ed7154a06c7bec489dfa1bbd9c93c9b0b6b",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 122,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0124_timbres.patch_122.bin",
+        "sha256": "6294ef7d035fe976d75faecbb072e5ce4dac4369e3134818f9bff0d0d354003d",
+        "size": 14
+      },
+      "role": "timbres.patch[122]",
+      "source_offset": 1714,
+      "source_sha256": "6294ef7d035fe976d75faecbb072e5ce4dac4369e3134818f9bff0d0d354003d",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 123,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0125_timbres.patch_123.bin",
+        "sha256": "390b151bad2cdd7025517bc0564fcd6f1aade84d283413c8869d2e0fe6dfac47",
+        "size": 14
+      },
+      "role": "timbres.patch[123]",
+      "source_offset": 1728,
+      "source_sha256": "390b151bad2cdd7025517bc0564fcd6f1aade84d283413c8869d2e0fe6dfac47",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 124,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0126_timbres.patch_124.bin",
+        "sha256": "cbe9d3e0dc442fa0db292fba44b63a0ba5169c281da3fcd750b596df5346c69a",
+        "size": 14
+      },
+      "role": "timbres.patch[124]",
+      "source_offset": 1742,
+      "source_sha256": "cbe9d3e0dc442fa0db292fba44b63a0ba5169c281da3fcd750b596df5346c69a",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 125,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0127_timbres.patch_125.bin",
+        "sha256": "0173718ebc2fd57df47948743d29cd090bbaf60b5652cee5d3fa28c8adc28213",
+        "size": 14
+      },
+      "role": "timbres.patch[125]",
+      "source_offset": 1756,
+      "source_sha256": "0173718ebc2fd57df47948743d29cd090bbaf60b5652cee5d3fa28c8adc28213",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 126,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0128_timbres.patch_126.bin",
+        "sha256": "b1215b2887d24f8c92d7868d1c3463cfa0b3b96206f8de46a6950d5ea6159256",
+        "size": 14
+      },
+      "role": "timbres.patch[126]",
+      "source_offset": 1770,
+      "source_sha256": "b1215b2887d24f8c92d7868d1c3463cfa0b3b96206f8de46a6950d5ea6159256",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 127,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0129_timbres.patch_127.bin",
+        "sha256": "473c38a3a8984c67fc1d95da00bab8a564ac961028560df2a1a336b851fe750d",
+        "size": 14
+      },
+      "role": "timbres.patch[127]",
+      "source_offset": 1784,
+      "source_sha256": "473c38a3a8984c67fc1d95da00bab8a564ac961028560df2a1a336b851fe750d",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 164,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0130_timbres.patch_128.bin",
+        "sha256": "6733d8257952fe7a64ae9e15899f0b03dd253d83ff404c4b181aaa9ddf2562ba",
+        "size": 14
+      },
+      "role": "timbres.patch[128]",
+      "source_offset": 1798,
+      "source_sha256": "6733d8257952fe7a64ae9e15899f0b03dd253d83ff404c4b181aaa9ddf2562ba",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 166,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0131_timbres.patch_129.bin",
+        "sha256": "a68a2f6a3204a21d117f4c98d53244ad0505f4fa6b8cd625e4b00a11a76defe8",
+        "size": 14
+      },
+      "role": "timbres.patch[129]",
+      "source_offset": 1812,
+      "source_sha256": "a68a2f6a3204a21d117f4c98d53244ad0505f4fa6b8cd625e4b00a11a76defe8",
+      "source_size": 14
+    },
+    {
+      "metadata": {
+        "patch": 170,
+        "timbre_size": 13
+      },
+      "output": {
+        "path": "native/assets/extracted/TIMBRES/records/0132_timbres.patch_130.bin",
+        "sha256": "daddd9cb9cc2c80345333d25f1c93745d9ab8d035c0c9022d0c5f4aef97d2de6",
+        "size": 14
+      },
+      "role": "timbres.patch[130]",
+      "source_offset": 1826,
+      "source_sha256": "daddd9cb9cc2c80345333d25f1c93745d9ab8d035c0c9022d0c5f4aef97d2de6",
+      "source_size": 14
+    }
+  ],
+  "source": {
+    "family": "timbres",
+    "name": "TIMBRES.VOL",
+    "path": "TIMBRES.VOL",
+    "sha256": "5c108c22b49c5d921a71734e9826ffb7d5c1ad0e8fee7119372f3a8cf9401347",
+    "size": 1840
+  }
+}

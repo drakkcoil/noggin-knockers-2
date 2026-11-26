@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Distributable binaries are attached to GitHub Releases.
+/native/dist/
+
+# Original DOS files come from the user's game copy, not the native source tree.
+/*.VOL
+/*.EXE
+/README.TXT

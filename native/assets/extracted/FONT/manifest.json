@@ -1,0 +1,3463 @@
+{
+  "audio": [],
+  "format": "nog2-extracted-file-v1",
+  "images": [
+    {
+      "font_glyph_ordinal": 0,
+      "font_variant": "base",
+      "height": 14,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_033.idx",
+        "sha256": "b5b039a67d80a2ae394c6f067e05300b65ba044862b3f7fa53895d7725704a30",
+        "size": 98
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_033",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_033.rgba.png",
+        "sha256": "a6110dba256f9cdc2ba0dbdb74bab326fd89925b4516a80b7ec37c4f084a78a8",
+        "size": 122
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_033.png",
+        "sha256": "86e80b5b17546019bca0b702fc4a7f2161d481c605e1b0c03e34aec1676c1f4f",
+        "size": 1151
+      },
+      "source": {
+        "offset": 512,
+        "role": "font.glyph_area",
+        "sha256": "f2a06dc55858a2f0a8d56ce3f5db424968f95e7fdbcd0d74cbda414d67ea1d66",
+        "size": 135
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 7
+    },
+    {
+      "font_glyph_ordinal": 1,
+      "font_variant": "base",
+      "height": 14,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_039.idx",
+        "sha256": "38c43030ef258b7c9d25a49c96abe36b6a94f915ce0192f5ef3e88e5d0d0a838",
+        "size": 70
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_039",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_039.rgba.png",
+        "sha256": "110d9ad0ec557300f684df87f8467f605945207a1408f1903cdf6078ac297532",
+        "size": 110
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_039.png",
+        "sha256": "c9cca183e5d2a8725d3a86634c2d727bbe211835624594311db345df14d2ff2a",
+        "size": 1139
+      },
+      "source": {
+        "offset": 647,
+        "role": "font.glyph_area",
+        "sha256": "29deeb746357d45d878f299d885bae70fbcf33a7eb5c1dc8cabe0d55a883e5fe",
+        "size": 85
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 5
+    },
+    {
+      "font_glyph_ordinal": 2,
+      "font_variant": "base",
+      "height": 16,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_044.idx",
+        "sha256": "4a0f5e433ba4d70e6f820c8f4b51eafde6e498da73c0baa8f5fdc82b482b85a9",
+        "size": 80
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_044",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_044.rgba.png",
+        "sha256": "0a2a38271859b43cb37778d3b3e9450efeba81f5db84bc0c59223c575125ffa4",
+        "size": 106
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_044.png",
+        "sha256": "abc8f0357b616d5c5e7977ae379876202703d73b28f64997b7687f5c7a3a36f6",
+        "size": 1139
+      },
+      "source": {
+        "offset": 732,
+        "role": "font.glyph_area",
+        "sha256": "dd056bbeb1a9a549b994e311914d6876c9672df6b52be0f084bc4020a3731e08",
+        "size": 91
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 5
+    },
+    {
+      "font_glyph_ordinal": 3,
+      "font_variant": "base",
+      "height": 14,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_046.idx",
+        "sha256": "1655e099b92361c0814fc128eb71a55a0263c8ac86e2e40313f20436c7ff0e3b",
+        "size": 70
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_046",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_046.rgba.png",
+        "sha256": "81048c8e3fa1311b79c91615c3c128437c56ab49ffbf1447df21eda12185a05d",
+        "size": 101
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_046.png",
+        "sha256": "8d4915fff22b08e7125e451cf89c72b779014790aea33a8472cd4e84c71c00c1",
+        "size": 1135
+      },
+      "source": {
+        "offset": 823,
+        "role": "font.glyph_area",
+        "sha256": "f2d323349aec5b7c49d5b837d5b3c0f11ec10ebc6f0363c28357f12091723c2f",
+        "size": 70
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 5
+    },
+    {
+      "font_glyph_ordinal": 4,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_048.idx",
+        "sha256": "8d3445a81fc267453cb08662a3d25554cfd714bd67c8be1937557f6a28f60255",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_048",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_048.rgba.png",
+        "sha256": "f8039b00065f47778621ed1f9d86042f3855af46dcc07d8ffabdbbed26062022",
+        "size": 127
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_048.png",
+        "sha256": "6c86ad7e139b2db18681925fc17549398a2af8e16b54e0d223e5c09a4eac4eda",
+        "size": 1150
+      },
+      "source": {
+        "offset": 893,
+        "role": "font.glyph_area",
+        "sha256": "70bb48528890648623031aaa4cc23e0b9d92eab09390021be47966f44fcc4480",
+        "size": 159
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 5,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_049.idx",
+        "sha256": "2b76c958ef156b602198659c908db078250edc9aaa763a399cb54021e36d01c1",
+        "size": 91
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_049",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_049.rgba.png",
+        "sha256": "b6cf0f8f1a8fabafee75a409856ddc0309471d32d72ce3ffb64cd50a08b5d7ec",
+        "size": 121
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_049.png",
+        "sha256": "0bca3421a7746aa48c4c3612edd649ecb3ae7569e2514d7fd8bd3f1e90c26e76",
+        "size": 1146
+      },
+      "source": {
+        "offset": 1052,
+        "role": "font.glyph_area",
+        "sha256": "354bfe0ec84842fb7b145de17a98c59d3c4b815d50f352bf4fe04c1dc8dfac77",
+        "size": 134
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 7
+    },
+    {
+      "font_glyph_ordinal": 6,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_050.idx",
+        "sha256": "5644f28a32fcacac09499de23bfda8d2eeef3099f17067361dfb70fb01873989",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_050",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_050.rgba.png",
+        "sha256": "529f415725cd9eb7785c4ac4f4f9ee57098b5a0106c0b955a24a848d5f98be3a",
+        "size": 141
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_050.png",
+        "sha256": "b05809c6da0b5b65a685624f09151bfb1cf54c019b3e9e24fe1e7b3df1dfea6e",
+        "size": 1154
+      },
+      "source": {
+        "offset": 1186,
+        "role": "font.glyph_area",
+        "sha256": "45115ca5fbd58407eb8fe9a25161aad9e36b3de007bb8b6912a17fc1024a1987",
+        "size": 160
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 7,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_051.idx",
+        "sha256": "3e967674362bb820bd54ca102d4ccbec79d42d43634a4b31a91dd01cc59de136",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_051",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_051.rgba.png",
+        "sha256": "c78e7a8c469ee1c588965e7856e125510590e4d8f2e3f2c17dddb7cc3a35360c",
+        "size": 143
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_051.png",
+        "sha256": "383fe61bcdcf8226d55f04d5271ba5af8c4d2bcbb1400c7e748cb6a468fb2b14",
+        "size": 1157
+      },
+      "source": {
+        "offset": 1346,
+        "role": "font.glyph_area",
+        "sha256": "ae4ef8925186829f0a00480e9a280bdd3a4e1b9f1bb88a961a1906239ff87395",
+        "size": 158
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 8,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_052.idx",
+        "sha256": "794987af06a38e52e55b9a648f819413838e79bf02c477851d08009151204c37",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_052",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_052.rgba.png",
+        "sha256": "0e57f7addbf62c08ae42aef06291a924d1b9e3910723d5da9c811a73c1ae53e5",
+        "size": 131
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_052.png",
+        "sha256": "a225caaaac324f408efd58899b008d4893f057a3d5fc52d4f558c3f13d0663b8",
+        "size": 1153
+      },
+      "source": {
+        "offset": 1504,
+        "role": "font.glyph_area",
+        "sha256": "96231352d464be4f68202472b1371084cb35f100c4956e0be98800376f945927",
+        "size": 137
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 9,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_053.idx",
+        "sha256": "776995b2a717676a207c03d37f7b7110d5db9bbea1e1a604c7adee9010b1f644",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_053",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_053.rgba.png",
+        "sha256": "054961801a9964f97df0d9861d18404e9c182f7f1afb21d92d395931b545457d",
+        "size": 127
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_053.png",
+        "sha256": "37bb091ad0d63d70027958f303fd8dfc5f1ccb58dfd7efbb6ed58c2f38d0e74d",
+        "size": 1149
+      },
+      "source": {
+        "offset": 1641,
+        "role": "font.glyph_area",
+        "sha256": "91bb64967531c515ac8ebb01d6320128cc3d6db7efb4a88381c39234b5efdca7",
+        "size": 161
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 10,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_054.idx",
+        "sha256": "65405152c82f484bd26a925c87c9f245f20acc2f23ae317d62640eb53653b53b",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_054",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_054.rgba.png",
+        "sha256": "616a8a630178e83f3c0766673756d1c1dfa8ee80cbf5cf1914ce14e1b7e0ec36",
+        "size": 135
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_054.png",
+        "sha256": "641846ca6ca96c1d3b2ecbb4a30b162f7d81a9a5640b12d44d083a596bcdc4c2",
+        "size": 1156
+      },
+      "source": {
+        "offset": 1802,
+        "role": "font.glyph_area",
+        "sha256": "2d48d316909cd9f07c5f9a6ec94c16f976e5a721b26febbef2b250209427cd28",
+        "size": 159
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 11,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_055.idx",
+        "sha256": "8b0f37781f228d4dbdddb591c78cbee0669074e9289e4e18951d72de47ef012e",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_055",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_055.rgba.png",
+        "sha256": "bfe98369486f58b1f5d99420d7237217bb3ac0405b40197db3e65e7c46fbb38d",
+        "size": 130
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_055.png",
+        "sha256": "af34506a6e84095c702b0b814ecde26b0c939d5981fb2504ffc562efaa98d847",
+        "size": 1154
+      },
+      "source": {
+        "offset": 1961,
+        "role": "font.glyph_area",
+        "sha256": "b01c77cbd337734b9514152076cb539912c32a35cbe40fcb3663b43c1a008c3b",
+        "size": 151
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 12,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_056.idx",
+        "sha256": "8de8f5b53f2b0842186cf06aed79c0ca5b74603f2d91bfaf7a6991520067ef19",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_056",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_056.rgba.png",
+        "sha256": "cb5d2eb0585fd5b6b5a339ada98566f62b55f762f495266641945bafbafbe50b",
+        "size": 133
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_056.png",
+        "sha256": "e420b0ca3002446ab664378a7bf05a9d139c8b00d1d57e097a6c49d5401c1a40",
+        "size": 1153
+      },
+      "source": {
+        "offset": 2112,
+        "role": "font.glyph_area",
+        "sha256": "179e6187e89541b74aab2a0ff10301637070ec28f8e7522ac2b9343fe85b6cd9",
+        "size": 159
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 13,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_057.idx",
+        "sha256": "55c774d21b715b0a6cb92ff2d11ff7e2e091167ca078313284c053db009b0423",
+        "size": 117
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_057",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_057.rgba.png",
+        "sha256": "d897222914a09214fd68cccc7d1f114eba06b9649e5aff11102089850d044bf5",
+        "size": 138
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_057.png",
+        "sha256": "b5edb3fce2fcf12f5871e21a5fe51daa20bced96a43a1ccc44e50a5f62018858",
+        "size": 1156
+      },
+      "source": {
+        "offset": 2271,
+        "role": "font.glyph_area",
+        "sha256": "d85069514c115a7ab331f5cf06bdcff79e6874fffbca37084bb7dc2fcbec3e12",
+        "size": 159
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 14,
+      "font_variant": "base",
+      "height": 14,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_063.idx",
+        "sha256": "7f6967a22b7759457fe1da3002174a4cc786e1a4445a81df54a5adec67fed95e",
+        "size": 126
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_063",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_063.rgba.png",
+        "sha256": "80570a15d212a7783ba493d43efedc81953cab010ecb8525c4ec93a61e55ed69",
+        "size": 143
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_063.png",
+        "sha256": "06fdde90162537b50529e0051d249693958a0dcedac601d195a9d7b2562dff9a",
+        "size": 1159
+      },
+      "source": {
+        "offset": 2430,
+        "role": "font.glyph_area",
+        "sha256": "41db7b6d3a47e3d6f7fe43704530a850de48c5e72aaa10aa12a2603c1f0875b5",
+        "size": 149
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 9
+    },
+    {
+      "font_glyph_ordinal": 15,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_065.idx",
+        "sha256": "3fa7e187c5fab42e8f79c610543c99102bec0c42ae90c30836507d534f6719c0",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_065",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_065.rgba.png",
+        "sha256": "e2206c5ad722efcfa4956d65dc563bf62c92e49b1422cb525611858afc17715a",
+        "size": 126
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_065.png",
+        "sha256": "0f8bae6e5fb6583b6f153951d9e63696ebfdc4e8b052583fe88603a6af90ba67",
+        "size": 1151
+      },
+      "source": {
+        "offset": 2579,
+        "role": "font.glyph_area",
+        "sha256": "115704f79c1e601e38337e512aa6e110958ed8c8edbd6a525e71d63505b55d7e",
+        "size": 174
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 16,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_066.idx",
+        "sha256": "04da20ca543887d41845a06a3a71538653372314d284f757933bf200239fce60",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_066",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_066.rgba.png",
+        "sha256": "a2848adfa7bced0a75b941f0183da2e4b33221e46536df7068469e36cab9825d",
+        "size": 137
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_066.png",
+        "sha256": "dceeb1188f19a71c4ede52a698a76af7c3de01bc8495eab4e4b192c14b26bf04",
+        "size": 1156
+      },
+      "source": {
+        "offset": 2753,
+        "role": "font.glyph_area",
+        "sha256": "839bba6b0a925760c883811a79ebd9c46bcd5ac3656f11044135a027ab4c9800",
+        "size": 173
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 17,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_067.idx",
+        "sha256": "58ae22891849a4d315612a71d49cf1ca993ce26d77efe015a2af7d93d00dee0d",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_067",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_067.rgba.png",
+        "sha256": "75c8c7a90294c4fa6f00bd43838b56388ef116853e3da035715831b4c153a42f",
+        "size": 140
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_067.png",
+        "sha256": "3d8fff2aa51e88abca1a99618209f3e3d948021aa4dc9fdb39c8b345418c0e19",
+        "size": 1158
+      },
+      "source": {
+        "offset": 2926,
+        "role": "font.glyph_area",
+        "sha256": "371cdcc3d362b57e9dd71685409b6beee35d595a4077a3370331dacd85937cf8",
+        "size": 172
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 18,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_068.idx",
+        "sha256": "004d6ad97139ea9615c72f06921156712ed2f34d069afbbe2b4b0895c618e447",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_068",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_068.rgba.png",
+        "sha256": "bf14d7a49668abe8d9bedf934460d8bcf147ed4fa0b0438945124a517e508b7f",
+        "size": 132
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_068.png",
+        "sha256": "7245062acbc9fabab4b6656eed11cebb5c7239ad19d6b04d3271f0f3628f60ec",
+        "size": 1153
+      },
+      "source": {
+        "offset": 3098,
+        "role": "font.glyph_area",
+        "sha256": "4ad7b26d1b21432a992c715807a7c9d6c864b3eb09788e060c4ed77c96764990",
+        "size": 171
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 19,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_069.idx",
+        "sha256": "0f48cde787d64e0568f16b158864d0cebf4f1271093ba3f5b46d9f416a2ffdcd",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_069",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_069.rgba.png",
+        "sha256": "75f315f1734085b0b77faf204f54f9e47607668c0882d2ca898015b3d9e44a74",
+        "size": 117
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_069.png",
+        "sha256": "65231f7f56b099401097a19c08159707f330d071f6f8550c2108a5ac5953f07b",
+        "size": 1146
+      },
+      "source": {
+        "offset": 3269,
+        "role": "font.glyph_area",
+        "sha256": "26fe2dd3d15a4b300e42dcbc99d39f98c904c1723afe0a40ff804291ea57f214",
+        "size": 174
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 20,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_070.idx",
+        "sha256": "d1ec4f0deb55a5de3243fc02b5f8b0e300ba790749f0599fb12ea0248a69b2a0",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_070",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_070.rgba.png",
+        "sha256": "4d951992429347815360b53b2f0f0e480ceedf690618bde52f39b61e8c773601",
+        "size": 127
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_070.png",
+        "sha256": "693f1aac62239187a456ca7f71b59a2340db50c7ba7c9ae9c1fb5cc8dbf05249",
+        "size": 1152
+      },
+      "source": {
+        "offset": 3443,
+        "role": "font.glyph_area",
+        "sha256": "e4cce8fda04217b4031b8310f95650b75135ecda15a79481e5d50e6b24b580d1",
+        "size": 158
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 21,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_071.idx",
+        "sha256": "7b1ba52159299f5fb77cd64bbc937a9478b605cd974c89fb5310fc7c593e2d13",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_071",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_071.rgba.png",
+        "sha256": "84c783d98866ab7a77b99024e6cc91db38d0d40476be3575d150029e77d4e1f5",
+        "size": 136
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_071.png",
+        "sha256": "3188d4d3e30fed82c97eb98e9ef5ec155d7f36ddd8db1dc1b8d6a0686cdfdc15",
+        "size": 1155
+      },
+      "source": {
+        "offset": 3601,
+        "role": "font.glyph_area",
+        "sha256": "c69b9382fe9c2a5e49e143c329fcab650efa0d06887ed318e61d5f8847a6e731",
+        "size": 173
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 22,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_072.idx",
+        "sha256": "2d0bdc56dddfd7d118381fd7b32c28b19b5578970d0f8939a4b4c2f12a723253",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_072",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_072.rgba.png",
+        "sha256": "c5a27835ce359f13f571d1857184763702fc62da78817f0b0d6fc9fc8edbe2d0",
+        "size": 121
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_072.png",
+        "sha256": "6886712cde5abdb4990a7e4e5e877f7d873af6cecee66401a0827349964cc948",
+        "size": 1147
+      },
+      "source": {
+        "offset": 3774,
+        "role": "font.glyph_area",
+        "sha256": "cfca66bcec2d6d3cb19007976abae1dae38b37b81776ae2ff3e087a206abe101",
+        "size": 176
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 23,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_073.idx",
+        "sha256": "d552fbd305bbc974bbfb31196fcf48386fccca06fcd7ae0f23af7a84cc17ba68",
+        "size": 65
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_073",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_073.rgba.png",
+        "sha256": "f8c6822d63b8ebbefde796334693e92669ee5ddb718fb276490566be9c452c31",
+        "size": 101
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_073.png",
+        "sha256": "11de2a1da1c392e8eba231cacba60f36b33ef30b63d1b3c9f017e5fa081486e9",
+        "size": 1135
+      },
+      "source": {
+        "offset": 3950,
+        "role": "font.glyph_area",
+        "sha256": "3fcf377d3530398c20757e9a3dea5baa9088de96b7be3105b6060f692cf1aff3",
+        "size": 109
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 5
+    },
+    {
+      "font_glyph_ordinal": 24,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_074.idx",
+        "sha256": "279648b67b871250461801712cd4b223a25d24a2b3f4eb5baaf4d917a85ab292",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_074",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_074.rgba.png",
+        "sha256": "f6644188e5e000e1439716a059a7fb72c09607a3da3991d4646e3486df5b7776",
+        "size": 131
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_074.png",
+        "sha256": "e5b4e6e76243514374b24a0dc709ef943a6db9a3ffc00e33f037c44fa0eece1c",
+        "size": 1155
+      },
+      "source": {
+        "offset": 4059,
+        "role": "font.glyph_area",
+        "sha256": "32204be1e01d58fcf5d2a1d6c3bcfd7a6f97a10d4dc728e36613dae2e3b8613d",
+        "size": 150
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 25,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_075.idx",
+        "sha256": "38ddbefb37de9245f8ff4aaa8984b7ed00584d8ecccd171ebd2cf0e65f66cc29",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_075",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_075.rgba.png",
+        "sha256": "1759ee599ec4fd646e93e53d27467f742dcf2f086ed8d4f7de2d84b67e3c3295",
+        "size": 137
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_075.png",
+        "sha256": "d238566a4ac8c2d616d91b65adc3fdc01736ad7c93f45b5f1229bf98d1ff38f1",
+        "size": 1153
+      },
+      "source": {
+        "offset": 4209,
+        "role": "font.glyph_area",
+        "sha256": "6c034ade015e8398817cbb581acadf8db9f1a115bf02eccb7c9dc649c4798dc7",
+        "size": 176
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 26,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_076.idx",
+        "sha256": "e867d8c1b57985356ae3b24baffbf0f46bf947908a11e0141e48638aff048b1d",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_076",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_076.rgba.png",
+        "sha256": "798ef67995bcb14300b77716552035acfc2b6f5546d66647b3323bbb19ba7cbf",
+        "size": 123
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_076.png",
+        "sha256": "495437f838a9d62b47f1637a90e6f65984620b1a2ad4183e689472012a71512b",
+        "size": 1150
+      },
+      "source": {
+        "offset": 4385,
+        "role": "font.glyph_area",
+        "sha256": "07d6d977263d6686bc75221a2f6ca09df6dc749ec51d38d165d6997c82b0981a",
+        "size": 141
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 27,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_077.idx",
+        "sha256": "9ad3bb9a7960d6839687e20bcd31eaa7686aee480f6ea6fee2478929050b5488",
+        "size": 143
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_077",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_077.rgba.png",
+        "sha256": "46529a0be56afb63dfcbc2fb201d06d87b8a5e603aa2b57b1b2e1247fdfa70a3",
+        "size": 142
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_077.png",
+        "sha256": "b7bddefdd20c8fd96ec24a5dddf9cc189dc650136c8f79f66a79eeff61767e8f",
+        "size": 1157
+      },
+      "source": {
+        "offset": 4526,
+        "role": "font.glyph_area",
+        "sha256": "a868f6613c9c412de14ef4f9dcb6e07f5c5d14fcfb83eee1d4a58fb2ed2c3971",
+        "size": 190
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 11
+    },
+    {
+      "font_glyph_ordinal": 28,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_078.idx",
+        "sha256": "ee7747e135ff67d522e72196699ee339118e1702afdfc844f21e61545f85de2b",
+        "size": 143
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_078",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_078.rgba.png",
+        "sha256": "2a1b83385cfca87c7d50d93b08131b01153605a9ff32541acd8880058e254f5d",
+        "size": 146
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_078.png",
+        "sha256": "8184cb254275581b56f360b218c68fe6b31512ea81da1cded030e7a5f3a54c87",
+        "size": 1160
+      },
+      "source": {
+        "offset": 4716,
+        "role": "font.glyph_area",
+        "sha256": "d2205fa3b394ee6425d0ac12d370a6ce172a382987614516010ee276c087802c",
+        "size": 191
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 11
+    },
+    {
+      "font_glyph_ordinal": 29,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_079.idx",
+        "sha256": "6f4c218b64d7eb683a6af5fc5838297d984b8c08a488993331e5f8356c0ce5a0",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_079",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_079.rgba.png",
+        "sha256": "267d62738d7f8be4f277ed0d7485235950c4ca9845ce9cc4f396d1185249fd24",
+        "size": 136
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_079.png",
+        "sha256": "b9efd9de745ead9fc9fe6c0d42fe210478e6803300b0d9f88379878f9971757b",
+        "size": 1156
+      },
+      "source": {
+        "offset": 4907,
+        "role": "font.glyph_area",
+        "sha256": "597cb408c508722a712ee589f579cd8b08de8af7b7f5602b31fd9d7a8e993e0c",
+        "size": 172
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 30,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_080.idx",
+        "sha256": "ccc8b57a8db8530407c23d14b589f5cb04b273035c63ed93198b1c039e586892",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_080",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_080.rgba.png",
+        "sha256": "9231c24717397c292f920f9062555e53fb401766924b88ac96fe9e38e359b7b2",
+        "size": 142
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_080.png",
+        "sha256": "41b41a71248fae248b2b4a34d827f53a0c71e81176a7118db7b708f36bdd33ed",
+        "size": 1159
+      },
+      "source": {
+        "offset": 5079,
+        "role": "font.glyph_area",
+        "sha256": "fcb47a79504db8488f7e46c3277d254c1bfa616dc993fa956b3344871c75d04e",
+        "size": 156
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 31,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_081.idx",
+        "sha256": "6cdd6f340f372a90c0120268c012902b3ea1db6b7099c61def45f1bd0c1d2a03",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_081",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_081.rgba.png",
+        "sha256": "9a470ca0e8b9836cd6f77603e1c3745be1d96ef32ac7ef87d542c9d170b7fb73",
+        "size": 138
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_081.png",
+        "sha256": "ff09c2947253683c03c9564c7b8f97ece64048bdacef4cc905ae6dacf4ed9fa6",
+        "size": 1156
+      },
+      "source": {
+        "offset": 5235,
+        "role": "font.glyph_area",
+        "sha256": "8f1a46cef8f608c4ad6d2649a46166b4cc81cbadcbf383dcbb716c3d30ee9cef",
+        "size": 172
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 32,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_082.idx",
+        "sha256": "f3442ffc117bad9591ba111d792309ca924ed75e922a4e2e31717629a3f9e248",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_082",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_082.rgba.png",
+        "sha256": "e51b47daf043efcb5f0dfbcf62ecd3092bcd51a3589064f41157799de98fc120",
+        "size": 142
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_082.png",
+        "sha256": "161218de31e2089102fa7bd1acd2c4fa3d37eed7d1083017647c28311b57c986",
+        "size": 1156
+      },
+      "source": {
+        "offset": 5407,
+        "role": "font.glyph_area",
+        "sha256": "6573685de2369439691beca1013402258e5400d794f15c442118d326de28d25f",
+        "size": 174
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 33,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_083.idx",
+        "sha256": "341a7991ddddd0fe0ffc35d5edecc8cffe53932b225153dadd5d030e749602a6",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_083",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_083.rgba.png",
+        "sha256": "5d8262781bd16578da06cbccec44934faeadbc54778dc34ae11ecbb6bf54cfbe",
+        "size": 140
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_083.png",
+        "sha256": "3bc1a0a61706be051480bb58da7bc8db2db24e87a2104cfb292620f44f58f893",
+        "size": 1156
+      },
+      "source": {
+        "offset": 5581,
+        "role": "font.glyph_area",
+        "sha256": "1fdc2f24e66d0998f9f257e9747af3983fbbb2b399c810bf61a1995b6f7abcce",
+        "size": 172
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 34,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_084.idx",
+        "sha256": "c97b632ae977577c41b5f5eac27755ea86c78fbc2db9986ce91080adacacebb4",
+        "size": 143
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_084",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_084.rgba.png",
+        "sha256": "e813f850b86c9aaa4b5a673f35f293e9ec17d81ed05bc927a5c2526d3ace0491",
+        "size": 125
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_084.png",
+        "sha256": "09e2207b501342bfb42155585284737bfa3912def3013746360bf011332b55e0",
+        "size": 1151
+      },
+      "source": {
+        "offset": 5753,
+        "role": "font.glyph_area",
+        "sha256": "57f46d0d2fafc3e128f64900a63d9478962373db56df2c15d3b1aceb3ab53166",
+        "size": 154
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 11
+    },
+    {
+      "font_glyph_ordinal": 35,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_085.idx",
+        "sha256": "e9c1ccca26b7d87246d458072e556b91ec03917cdde6a5959b6512ee919f2fd3",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_085",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_085.rgba.png",
+        "sha256": "9f031e1fc4a2433e9068055688998e15da92072a9f027e589bf6a9a51e317508",
+        "size": 129
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_085.png",
+        "sha256": "a29bb1a44376b6e2564f703abccf52503205371d20b101ef9be1a26f6efcf327",
+        "size": 1150
+      },
+      "source": {
+        "offset": 5907,
+        "role": "font.glyph_area",
+        "sha256": "dc8d33b9707b53a64bf305aa36b9ebc5135b1e4147af9a19c0b1bff35e76b1a7",
+        "size": 174
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 36,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_086.idx",
+        "sha256": "a6270a6b6cfa0a0aeb65a1eecfa66d0ce024e70ff0fa86ffbcc9e584f670b74d",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_086",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_086.rgba.png",
+        "sha256": "2a349f4ebaf618811a58506033ad94f91b0d21350825b07da974d86092a0eb34",
+        "size": 139
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_086.png",
+        "sha256": "71db92a9662d4ffc0a479cb8b5f24cb5de1e761752171020ec258b1de06b72be",
+        "size": 1154
+      },
+      "source": {
+        "offset": 6081,
+        "role": "font.glyph_area",
+        "sha256": "9bd90291f13b972b229f4f75bfd879afb6673af8e1db64c1ddaad6a68cbc195a",
+        "size": 169
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 37,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_087.idx",
+        "sha256": "0bbf52c168474b41357fcfa62d6aab3a84d69e1a4af383f2111c6975b50bd6e3",
+        "size": 143
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_087",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_087.rgba.png",
+        "sha256": "4b8ef4a05e11554b3949bbd9543737e79d80f1a9f64bbdf300f75dd6e5bdc6b8",
+        "size": 131
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_087.png",
+        "sha256": "685b922170c143daa43dac1c335cf8172f3c3a7dd349b8d5992ebe2e3766773d",
+        "size": 1154
+      },
+      "source": {
+        "offset": 6250,
+        "role": "font.glyph_area",
+        "sha256": "fe5a4670ddfe8594148eb578691fe382f299f0c70460a59f3989fc1f1a8de4e7",
+        "size": 190
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 11
+    },
+    {
+      "font_glyph_ordinal": 38,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_088.idx",
+        "sha256": "661b258c5ebe58d8b3f7c8df59b06797f5a89c43ec7c63e5358da57ef894e709",
+        "size": 156
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_088",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_088.rgba.png",
+        "sha256": "124ef65d2dba0ae4f80187fa8b2e612cc69579725ccafe4fa176248598f3ff8a",
+        "size": 158
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_088.png",
+        "sha256": "317aeda31b13987ffc2cf86a1d32d9d17dd4463ac1aa32eb0e9f4a6cdea54b94",
+        "size": 1167
+      },
+      "source": {
+        "offset": 6440,
+        "role": "font.glyph_area",
+        "sha256": "510d0fd06cf9557abed002a8cc0ea482e787159179066684c5ad8d863c9dcfb3",
+        "size": 196
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 12
+    },
+    {
+      "font_glyph_ordinal": 39,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_089.idx",
+        "sha256": "7a5616a7d649ba81ba7e7faa51134e16d072fa2be48ad8e1484b52a9769f8dd7",
+        "size": 130
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_089",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_089.rgba.png",
+        "sha256": "542c36b96088c93f208e2557201b012834243350b3798a7f70ef29902150b97a",
+        "size": 135
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_089.png",
+        "sha256": "0507fcd91c399ed0283448eb01cae4fb184d5ce5b5263299d3c3849135f0a7b1",
+        "size": 1155
+      },
+      "source": {
+        "offset": 6636,
+        "role": "font.glyph_area",
+        "sha256": "0711ec53628ab4a7381d086e96ccde105a3bb0fdb1d8983f50c6635ddd85fc9e",
+        "size": 165
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 10
+    },
+    {
+      "font_glyph_ordinal": 40,
+      "font_variant": "base",
+      "height": 13,
+      "indexed": {
+        "path": "native/assets/extracted/FONT/images/glyph_090.idx",
+        "sha256": "08c813fbec783a6f3bee8be07681d596ad9520d6976d92609e21342133217f29",
+        "size": 156
+      },
+      "kind": "indexed_rle_image",
+      "name": "glyph_090",
+      "normalized_png": {
+        "path": "native/assets/extracted/FONT/images/glyph_090.rgba.png",
+        "sha256": "30017c40759216d68ebef5544df9fbb0ed02ae68bdc32c62a9772c3d800a6514",
+        "size": 141
+      },
+      "palette_source": "NOGGINBG.VOL preview",
+      "png": {
+        "path": "native/assets/extracted/FONT/images/glyph_090.png",
+        "sha256": "e7136dbebadd3a40fba46309c41850c159d4e76656c78419adb252ffc872cf33",
+        "size": 1160
+      },
+      "source": {
+        "offset": 6801,
+        "role": "font.glyph_area",
+        "sha256": "6fbc913d26006bfd388ca0f55e98c506703dfcb600cefe8412caee4d4a0261a9",
+        "size": 196
+      },
+      "transparent": true,
+      "transparent_index": 255,
+      "transparent_rgba": "0x01020300",
+      "visible_black_remap_rgba": "0x000008ff",
+      "width": 12
+    }
+  ],
+  "records": [
+    {
+      "metadata": {
+        "encoding": "u16le",
+        "entries": 256
+      },
+      "output": {
+        "path": "native/assets/extracted/FONT/records/0000_font.offset_table.bin",
+        "sha256": "55e8e02b1ee9a67d6a6aac5f3e7df17350a17ff99e05b41aaba8cfaecf35956c",
+        "size": 512
+      },
+      "role": "font.offset_table",
+      "source_offset": 0,
+      "source_sha256": "55e8e02b1ee9a67d6a6aac5f3e7df17350a17ff99e05b41aaba8cfaecf35956c",
+      "source_size": 512
+    },
+    {
+      "metadata": {
+        "glyph_count": 41,
+        "members": [
+          {
+            "characters": [
+              33
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                32,
+                38,
+                46,
+                54,
+                62,
+                70,
+                78,
+                86,
+                94,
+                102,
+                109,
+                115,
+                122,
+                129
+              ],
+              "encoded_size": 134,
+              "height": 14,
+              "literal_pixels": 67,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                5,
+                35466,
+                0,
+                5,
+                35467,
+                0,
+                1409,
+                35328,
+                138,
+                2816,
+                35328,
+                139,
+                0,
+                35328
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 31,
+              "width": 7
+            },
+            "offset": 0,
+            "sha256": "f2a06dc55858a2f0a8d56ce3f5db424968f95e7fdbcd0d74cbda414d67ea1d66",
+            "size": 135
+          },
+          {
+            "characters": [
+              39
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                32,
+                37,
+                43,
+                49,
+                55,
+                61,
+                67,
+                73,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83
+              ],
+              "encoded_size": 84,
+              "height": 14,
+              "literal_pixels": 30,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                139,
+                2560,
+                35584,
+                139,
+                0,
+                35723,
+                0,
+                10,
+                35723,
+                0,
+                35584,
+                139,
+                2560,
+                35584
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 40,
+              "width": 5
+            },
+            "offset": 135,
+            "sha256": "29deeb746357d45d878f299d885bae70fbcf33a7eb5c1dc8cabe0d55a883e5fe",
+            "size": 85
+          },
+          {
+            "characters": [
+              44
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                49,
+                55,
+                61,
+                67,
+                73,
+                79,
+                85
+              ],
+              "encoded_size": 90,
+              "height": 16,
+              "literal_pixels": 30,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7508,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3201,
+                35328,
+                35466,
+                35466,
+                35466,
+                35466,
+                0,
+                12,
+                35466,
+                35466
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 50,
+              "width": 5
+            },
+            "offset": 220,
+            "sha256": "dd056bbeb1a9a549b994e311914d6876c9672df6b52be0f084bc4020a3731e08",
+            "size": 91
+          },
+          {
+            "characters": [
+              46
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                46,
+                52,
+                58,
+                64
+              ],
+              "encoded_size": 69,
+              "height": 14,
+              "literal_pixels": 17,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                0,
+                33280,
+                11,
+                35584,
+                35723,
+                0,
+                0,
+                0,
+                3201,
+                35584,
+                35723,
+                35723,
+                35723,
+                35723
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 53,
+              "width": 5
+            },
+            "offset": 311,
+            "sha256": "f2d323349aec5b7c49d5b837d5b3c0f11ec10ebc6f0363c28357f12091723c2f",
+            "size": 70
+          },
+          {
+            "characters": [
+              48
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                49,
+                59,
+                69,
+                79,
+                89,
+                99,
+                109,
+                119,
+                129,
+                139,
+                149
+              ],
+              "encoded_size": 158,
+              "height": 13,
+              "literal_pixels": 109,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                6965,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 9
+            },
+            "offset": 381,
+            "sha256": "70bb48528890648623031aaa4cc23e0b9d92eab09390021be47966f44fcc4480",
+            "size": 159
+          },
+          {
+            "characters": [
+              49
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                37,
+                45,
+                53,
+                61,
+                69,
+                77,
+                85,
+                93,
+                101,
+                109,
+                117,
+                125
+              ],
+              "encoded_size": 133,
+              "height": 13,
+              "literal_pixels": 76,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                6965,
+                0,
+                0,
+                0,
+                2178,
+                0,
+                35466,
+                35466,
+                0,
+                2433,
+                35328,
+                35466,
+                35466
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 15,
+              "width": 7
+            },
+            "offset": 540,
+            "sha256": "354bfe0ec84842fb7b145de17a98c59d3c4b815d50f352bf4fe04c1dc8dfac77",
+            "size": 134
+          },
+          {
+            "characters": [
+              50
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                49,
+                59,
+                69,
+                79,
+                89,
+                99,
+                109,
+                119,
+                129,
+                139,
+                149
+              ],
+              "encoded_size": 159,
+              "height": 13,
+              "literal_pixels": 109,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                6985,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 9
+            },
+            "offset": 674,
+            "sha256": "45115ca5fbd58407eb8fe9a25161aad9e36b3de007bb8b6912a17fc1024a1987",
+            "size": 160
+          },
+          {
+            "characters": [
+              51
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                49,
+                59,
+                69,
+                79,
+                89,
+                98,
+                108,
+                118,
+                128,
+                138,
+                148
+              ],
+              "encoded_size": 157,
+              "height": 13,
+              "literal_pixels": 106,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7005,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 11,
+              "width": 9
+            },
+            "offset": 834,
+            "sha256": "ae4ef8925186829f0a00480e9a280bdd3a4e1b9f1bb88a961a1906239ff87395",
+            "size": 158
+          },
+          {
+            "characters": [
+              52
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                36,
+                43,
+                53,
+                63,
+                73,
+                83,
+                93,
+                102,
+                109,
+                116,
+                123,
+                130
+              ],
+              "encoded_size": 136,
+              "height": 13,
+              "literal_pixels": 83,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                6974,
+                0,
+                0,
+                0,
+                2178,
+                0,
+                35466,
+                35466,
+                0,
+                2433,
+                35328,
+                35466,
+                35466
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 34,
+              "width": 9
+            },
+            "offset": 992,
+            "sha256": "96231352d464be4f68202472b1371084cb35f100c4956e0be98800376f945927",
+            "size": 137
+          },
+          {
+            "characters": [
+              53
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100,
+                110,
+                120,
+                130,
+                140,
+                150
+              ],
+              "encoded_size": 160,
+              "height": 13,
+              "literal_pixels": 114,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7025,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 3,
+              "width": 9
+            },
+            "offset": 1129,
+            "sha256": "91bb64967531c515ac8ebb01d6320128cc3d6db7efb4a88381c39234b5efdca7",
+            "size": 161
+          },
+          {
+            "characters": [
+              54
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                49,
+                59,
+                69,
+                79,
+                89,
+                99,
+                109,
+                119,
+                129,
+                139,
+                149
+              ],
+              "encoded_size": 158,
+              "height": 13,
+              "literal_pixels": 109,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7045,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 9
+            },
+            "offset": 1290,
+            "sha256": "2d48d316909cd9f07c5f9a6ec94c16f976e5a721b26febbef2b250209427cd28",
+            "size": 159
+          },
+          {
+            "characters": [
+              55
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                98,
+                106,
+                115,
+                124,
+                133,
+                142
+              ],
+              "encoded_size": 150,
+              "height": 13,
+              "literal_pixels": 96,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7065,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 21,
+              "width": 9
+            },
+            "offset": 1449,
+            "sha256": "b01c77cbd337734b9514152076cb539912c32a35cbe40fcb3663b43c1a008c3b",
+            "size": 151
+          },
+          {
+            "characters": [
+              56
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                49,
+                59,
+                69,
+                79,
+                89,
+                99,
+                109,
+                119,
+                129,
+                139,
+                149
+              ],
+              "encoded_size": 158,
+              "height": 13,
+              "literal_pixels": 109,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7084,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 9
+            },
+            "offset": 1600,
+            "sha256": "179e6187e89541b74aab2a0ff10301637070ec28f8e7522ac2b9343fe85b6cd9",
+            "size": 159
+          },
+          {
+            "characters": [
+              57
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                49,
+                59,
+                69,
+                79,
+                89,
+                99,
+                109,
+                119,
+                129,
+                139,
+                149
+              ],
+              "encoded_size": 158,
+              "height": 13,
+              "literal_pixels": 108,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7104,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 9,
+              "width": 9
+            },
+            "offset": 1759,
+            "sha256": "d85069514c115a7ab331f5cf06bdcff79e6874fffbca37084bb7dc2fcbec3e12",
+            "size": 159
+          },
+          {
+            "characters": [
+              63
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                32,
+                40,
+                50,
+                60,
+                70,
+                81,
+                91,
+                99,
+                107,
+                115,
+                121,
+                128,
+                136,
+                143
+              ],
+              "encoded_size": 148,
+              "height": 14,
+              "literal_pixels": 82,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7440,
+                0,
+                33024,
+                4,
+                0,
+                33024,
+                10,
+                35466,
+                0,
+                35328,
+                138,
+                2560,
+                35328,
+                138
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 44,
+              "width": 9
+            },
+            "offset": 1918,
+            "sha256": "41db7b6d3a47e3d6f7fe43704530a850de48c5e72aaa10aa12a2603c1f0875b5",
+            "size": 149
+          },
+          {
+            "characters": [
+              65
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 173,
+              "height": 13,
+              "literal_pixels": 122,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7124,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 10
+            },
+            "offset": 2067,
+            "sha256": "115704f79c1e601e38337e512aa6e110958ed8c8edbd6a525e71d63505b55d7e",
+            "size": 174
+          },
+          {
+            "characters": [
+              66
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 172,
+              "height": 13,
+              "literal_pixels": 123,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7146,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 7,
+              "width": 10
+            },
+            "offset": 2241,
+            "sha256": "839bba6b0a925760c883811a79ebd9c46bcd5ac3656f11044135a027ab4c9800",
+            "size": 173
+          },
+          {
+            "characters": [
+              67
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 171,
+              "height": 13,
+              "literal_pixels": 122,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7168,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 10
+            },
+            "offset": 2414,
+            "sha256": "371cdcc3d362b57e9dd71685409b6beee35d595a4077a3370331dacd85937cf8",
+            "size": 172
+          },
+          {
+            "characters": [
+              68
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                39,
+                50,
+                61,
+                72,
+                83,
+                94,
+                105,
+                116,
+                127,
+                138,
+                149,
+                160
+              ],
+              "encoded_size": 170,
+              "height": 13,
+              "literal_pixels": 123,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7189,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 7,
+              "width": 10
+            },
+            "offset": 2586,
+            "sha256": "4ad7b26d1b21432a992c715807a7c9d6c864b3eb09788e060c4ed77c96764990",
+            "size": 171
+          },
+          {
+            "characters": [
+              69
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                41,
+                52,
+                63,
+                74,
+                85,
+                96,
+                107,
+                118,
+                129,
+                140,
+                151,
+                162
+              ],
+              "encoded_size": 173,
+              "height": 13,
+              "literal_pixels": 127,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7210,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 3,
+              "width": 10
+            },
+            "offset": 2757,
+            "sha256": "26fe2dd3d15a4b300e42dcbc99d39f98c904c1723afe0a40ff804291ea57f214",
+            "size": 174
+          },
+          {
+            "characters": [
+              70
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                41,
+                52,
+                63,
+                74,
+                85,
+                96,
+                107,
+                118,
+                129,
+                136,
+                143,
+                150
+              ],
+              "encoded_size": 157,
+              "height": 13,
+              "literal_pixels": 107,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7232,
+                227,
+                55040,
+                0,
+                203,
+                48896,
+                0,
+                179,
+                42752,
+                0,
+                155,
+                35584,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 23,
+              "width": 10
+            },
+            "offset": 2931,
+            "sha256": "e4cce8fda04217b4031b8310f95650b75135ecda15a79481e5d50e6b24b580d1",
+            "size": 158
+          },
+          {
+            "characters": [
+              71
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                41,
+                52,
+                63,
+                74,
+                85,
+                96,
+                107,
+                118,
+                129,
+                140,
+                151,
+                162
+              ],
+              "encoded_size": 172,
+              "height": 13,
+              "literal_pixels": 123,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7252,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 7,
+              "width": 10
+            },
+            "offset": 3089,
+            "sha256": "c69b9382fe9c2a5e49e143c329fcab650efa0d06887ed318e61d5f8847a6e731",
+            "size": 173
+          },
+          {
+            "characters": [
+              72
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                53,
+                64,
+                75,
+                86,
+                97,
+                108,
+                119,
+                130,
+                141,
+                152,
+                163
+              ],
+              "encoded_size": 175,
+              "height": 13,
+              "literal_pixels": 126,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7274,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 4,
+              "width": 10
+            },
+            "offset": 3262,
+            "sha256": "cfca66bcec2d6d3cb19007976abae1dae38b37b81776ae2ff3e087a206abe101",
+            "size": 176
+          },
+          {
+            "characters": [
+              73
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                36,
+                42,
+                48,
+                54,
+                60,
+                66,
+                72,
+                78,
+                84,
+                90,
+                96,
+                102
+              ],
+              "encoded_size": 108,
+              "height": 13,
+              "literal_pixels": 63,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                0,
+                2433,
+                35328,
+                35466,
+                35466,
+                138,
+                2304,
+                35328,
+                138,
+                35328,
+                138,
+                2304,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 2,
+              "width": 5
+            },
+            "offset": 3438,
+            "sha256": "3fcf377d3530398c20757e9a3dea5baa9088de96b7be3105b6060f692cf1aff3",
+            "size": 109
+          },
+          {
+            "characters": [
+              74
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                37,
+                44,
+                51,
+                58,
+                65,
+                72,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139
+              ],
+              "encoded_size": 149,
+              "height": 13,
+              "literal_pixels": 94,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7262,
+                0,
+                33024,
+                4,
+                0,
+                33024,
+                10,
+                35466,
+                0,
+                35328,
+                138,
+                2560,
+                35328
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 36,
+              "width": 10
+            },
+            "offset": 3547,
+            "sha256": "32204be1e01d58fcf5d2a1d6c3bcfd7a6f97a10d4dc728e36613dae2e3b8613d",
+            "size": 150
+          },
+          {
+            "characters": [
+              75
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                53,
+                64,
+                75,
+                86,
+                97,
+                108,
+                119,
+                130,
+                141,
+                152,
+                163
+              ],
+              "encoded_size": 175,
+              "height": 13,
+              "literal_pixels": 124,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7296,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 6,
+              "width": 10
+            },
+            "offset": 3697,
+            "sha256": "6c034ade015e8398817cbb581acadf8db9f1a115bf02eccb7c9dc649c4798dc7",
+            "size": 176
+          },
+          {
+            "characters": [
+              76
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                36,
+                43,
+                50,
+                57,
+                64,
+                71,
+                78,
+                85,
+                96,
+                107,
+                118,
+                129
+              ],
+              "encoded_size": 140,
+              "height": 13,
+              "literal_pixels": 87,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7284,
+                0,
+                33024,
+                4,
+                0,
+                33024,
+                10,
+                35466,
+                0,
+                35328,
+                138,
+                2560,
+                35328
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 43,
+              "width": 10
+            },
+            "offset": 3873,
+            "sha256": "07d6d977263d6686bc75221a2f6ca09df6dc749ec51d38d165d6997c82b0981a",
+            "size": 141
+          },
+          {
+            "characters": [
+              77
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                54,
+                66,
+                78,
+                90,
+                102,
+                114,
+                126,
+                138,
+                151,
+                164,
+                177
+              ],
+              "encoded_size": 189,
+              "height": 13,
+              "literal_pixels": 134,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7318,
+                23296,
+                0,
+                79,
+                17152,
+                0,
+                56319,
+                65499,
+                48059,
+                40959,
+                65439,
+                32639,
+                24575
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 9,
+              "width": 11
+            },
+            "offset": 4014,
+            "sha256": "a868f6613c9c412de14ef4f9dcb6e07f5c5d14fcfb83eee1d4a58fb2ed2c3971",
+            "size": 190
+          },
+          {
+            "characters": [
+              78
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                55,
+                68,
+                80,
+                92,
+                104,
+                116,
+                128,
+                140,
+                152,
+                165,
+                178
+              ],
+              "encoded_size": 190,
+              "height": 13,
+              "literal_pixels": 133,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7342,
+                23296,
+                0,
+                79,
+                17152,
+                0,
+                56319,
+                65499,
+                48059,
+                40959,
+                65439,
+                32639,
+                24575
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 10,
+              "width": 11
+            },
+            "offset": 4204,
+            "sha256": "d2205fa3b394ee6425d0ac12d370a6ce172a382987614516010ee276c087802c",
+            "size": 191
+          },
+          {
+            "characters": [
+              79
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 171,
+              "height": 13,
+              "literal_pixels": 122,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7329,
+                0,
+                33280,
+                4,
+                0,
+                33024,
+                5,
+                35466,
+                0,
+                1409,
+                35328,
+                138,
+                1280
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 10
+            },
+            "offset": 4395,
+            "sha256": "597cb408c508722a712ee589f579cd8b08de8af7b7f5602b31fd9d7a8e993e0c",
+            "size": 172
+          },
+          {
+            "characters": [
+              80
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                127,
+                134,
+                141,
+                148
+              ],
+              "encoded_size": 155,
+              "height": 13,
+              "literal_pixels": 104,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                0,
+                0,
+                35466,
+                0,
+                11,
+                35466,
+                138,
+                35328,
+                35466,
+                0,
+                11,
+                35466,
+                35467
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 26,
+              "width": 10
+            },
+            "offset": 4567,
+            "sha256": "fcb47a79504db8488f7e46c3277d254c1bfa616dc993fa956b3344871c75d04e",
+            "size": 156
+          },
+          {
+            "characters": [
+              81
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 171,
+              "height": 13,
+              "literal_pixels": 123,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7366,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 7,
+              "width": 10
+            },
+            "offset": 4723,
+            "sha256": "8f1a46cef8f608c4ad6d2649a46166b4cc81cbadcbf383dcbb716c3d30ee9cef",
+            "size": 172
+          },
+          {
+            "characters": [
+              82
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 173,
+              "height": 13,
+              "literal_pixels": 124,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7387,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 6,
+              "width": 10
+            },
+            "offset": 4895,
+            "sha256": "6573685de2369439691beca1013402258e5400d794f15c442118d326de28d25f",
+            "size": 174
+          },
+          {
+            "characters": [
+              83
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                40,
+                51,
+                62,
+                73,
+                84,
+                95,
+                106,
+                117,
+                128,
+                139,
+                150,
+                161
+              ],
+              "encoded_size": 171,
+              "height": 13,
+              "literal_pixels": 122,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7409,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 8,
+              "width": 10
+            },
+            "offset": 5069,
+            "sha256": "1fdc2f24e66d0998f9f257e9747af3983fbbb2b399c810bf61a1995b6f7abcce",
+            "size": 172
+          },
+          {
+            "characters": [
+              84
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                54,
+                66,
+                78,
+                90,
+                98,
+                106,
+                114,
+                122,
+                130,
+                138,
+                146
+              ],
+              "encoded_size": 153,
+              "height": 13,
+              "literal_pixels": 92,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7397,
+                0,
+                0,
+                0,
+                33280,
+                9,
+                35328,
+                35466,
+                35466,
+                0,
+                2689,
+                35328,
+                35466
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 51,
+              "width": 11
+            },
+            "offset": 5241,
+            "sha256": "57f46d0d2fafc3e128f64900a63d9478962373db56df2c15d3b1aceb3ab53166",
+            "size": 154
+          },
+          {
+            "characters": [
+              85
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                53,
+                64,
+                75,
+                86,
+                97,
+                108,
+                119,
+                130,
+                141,
+                152,
+                163
+              ],
+              "encoded_size": 173,
+              "height": 13,
+              "literal_pixels": 124,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7430,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 6,
+              "width": 10
+            },
+            "offset": 5395,
+            "sha256": "dc8d33b9707b53a64bf305aa36b9ebc5135b1e4147af9a19c0b1bff35e76b1a7",
+            "size": 174
+          },
+          {
+            "characters": [
+              86
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                53,
+                64,
+                75,
+                86,
+                97,
+                108,
+                119,
+                130,
+                141,
+                151,
+                160
+              ],
+              "encoded_size": 168,
+              "height": 13,
+              "literal_pixels": 107,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7452,
+                0,
+                155,
+                35584,
+                0,
+                127,
+                29440,
+                0,
+                103,
+                23296,
+                0,
+                79,
+                17152
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 23,
+              "width": 10
+            },
+            "offset": 5569,
+            "sha256": "9bd90291f13b972b229f4f75bfd879afb6673af8e1db64c1ddaad6a68cbc195a",
+            "size": 169
+          },
+          {
+            "characters": [
+              87
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                55,
+                68,
+                81,
+                93,
+                105,
+                117,
+                129,
+                141,
+                153,
+                165,
+                177
+              ],
+              "encoded_size": 189,
+              "height": 13,
+              "literal_pixels": 134,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7473,
+                23296,
+                0,
+                79,
+                17152,
+                0,
+                56319,
+                65499,
+                48059,
+                40959,
+                65439,
+                32639,
+                24575
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 9,
+              "width": 11
+            },
+            "offset": 5738,
+            "sha256": "fe5a4670ddfe8594148eb578691fe382f299f0c70460a59f3989fc1f1a8de4e7",
+            "size": 190
+          },
+          {
+            "characters": [
+              88
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                56,
+                69,
+                82,
+                95,
+                107,
+                118,
+                130,
+                143,
+                156,
+                169,
+                183
+              ],
+              "encoded_size": 195,
+              "height": 13,
+              "literal_pixels": 134,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7497,
+                23296,
+                0,
+                79,
+                17152,
+                0,
+                56319,
+                65499,
+                48059,
+                40959,
+                65439,
+                32639,
+                24575
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 22,
+              "width": 12
+            },
+            "offset": 5928,
+            "sha256": "510d0fd06cf9557abed002a8cc0ea482e787159179066684c5ad8d863c9dcfb3",
+            "size": 196
+          },
+          {
+            "characters": [
+              89
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                42,
+                53,
+                64,
+                75,
+                86,
+                97,
+                108,
+                119,
+                129,
+                138,
+                147,
+                156
+              ],
+              "encoded_size": 164,
+              "height": 13,
+              "literal_pixels": 105,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7484,
+                0,
+                33536,
+                4,
+                0,
+                33024,
+                5,
+                35466,
+                0,
+                1665,
+                0,
+                35466,
+                0
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 25,
+              "width": 10
+            },
+            "offset": 6124,
+            "sha256": "0711ec53628ab4a7381d086e96ccde105a3bb0fdb1d8983f50c6635ddd85fc9e",
+            "size": 165
+          },
+          {
+            "characters": [
+              90
+            ],
+            "image": {
+              "decoded_row_offsets": [
+                30,
+                43,
+                56,
+                69,
+                82,
+                95,
+                106,
+                118,
+                130,
+                143,
+                156,
+                169,
+                182
+              ],
+              "encoded_size": 195,
+              "height": 13,
+              "literal_pixels": 143,
+              "marker": 16,
+              "padding_size": 1,
+              "row_offsets_validated": false,
+              "stored_row_words": [
+                7521,
+                23296,
+                0,
+                79,
+                17152,
+                0,
+                56319,
+                65499,
+                48059,
+                40959,
+                65439,
+                32639,
+                24575
+              ],
+              "transparent_index": 255,
+              "transparent_pixels": 13,
+              "width": 12
+            },
+            "offset": 6289,
+            "sha256": "6fbc913d26006bfd388ca0f55e98c506703dfcb600cefe8412caee4d4a0261a9",
+            "size": 196
+          }
+        ]
+      },
+      "output": {
+        "path": "native/assets/extracted/FONT/records/0001_font.glyph_area.bin",
+        "sha256": "e9411bc5ef550f425d3cda97699fe5d8167faa7283b41bfe1445d82e5e9119bf",
+        "size": 6485
+      },
+      "role": "font.glyph_area",
+      "source_offset": 512,
+      "source_sha256": "e9411bc5ef550f425d3cda97699fe5d8167faa7283b41bfe1445d82e5e9119bf",
+      "source_size": 6485
+    }
+  ],
+  "source": {
+    "family": "font",
+    "name": "FONT.VOL",
+    "path": "FONT.VOL",
+    "sha256": "59b5909097ddd49c0dd7601022dd03642a509211cc06c9b1ff836876a534174d",
+    "size": 6997
+  }
+}

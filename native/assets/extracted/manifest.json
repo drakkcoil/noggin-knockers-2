@@ -1,0 +1,321 @@
+{
+  "audio_count": 439,
+  "file_count": 31,
+  "files": [
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 20,
+      "manifest": "native/assets/extracted/BUDDY/manifest.json",
+      "manifest_sha256": "ca2137b21afc0e55441db134137eba434e06e12f916366f444581f77ab006eea",
+      "name": "BUDDY.VOL",
+      "nonempty_audio_count": 10,
+      "record_count": 65
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 21,
+      "manifest": "native/assets/extracted/ED/manifest.json",
+      "manifest_sha256": "3325e79c689d65dd0cfb25896814f486400ef4d273c35f1de2912ac1af34a3e9",
+      "name": "ED.VOL",
+      "nonempty_audio_count": 7,
+      "record_count": 65
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END1/manifest.json",
+      "manifest_sha256": "e4da961fd25f6a05fd68488578c0769ee95591666400c532702f352d48eaebd0",
+      "name": "END1.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 66
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END2/manifest.json",
+      "manifest_sha256": "ba6cebd2082a8fd4855935f75a9598e5ed2c348ba0685f7764a3a87e5b9d637f",
+      "name": "END2.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 66
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END3/manifest.json",
+      "manifest_sha256": "a3f1b67c6d41167be5e6707412f4524b0d46794d5d67777f06656599ee40e3d3",
+      "name": "END3.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 66
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END4/manifest.json",
+      "manifest_sha256": "201e8049367836d53518e81206f87c401af002a122f63b62f723148ce20a45f2",
+      "name": "END4.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 66
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END5/manifest.json",
+      "manifest_sha256": "8b035e872d17ab5fe893ea63e019056c2231382151d332757ea7df347fd00af5",
+      "name": "END5.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 66
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END6/manifest.json",
+      "manifest_sha256": "c0e1e5a98892a13538fbf691bb1b0836afe627186dbdc8a50dd889f4d0d3ef17",
+      "name": "END6.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 66
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 4,
+      "manifest": "native/assets/extracted/END7/manifest.json",
+      "manifest_sha256": "c9f457bc04120926787a4c63b778f93d9f2d00abf390c94b143ed47bcbe19e33",
+      "name": "END7.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 68
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/END8/manifest.json",
+      "manifest_sha256": "e7e5e4d6196ebc9800d72ca450e836846fa02c0348ffb836c397b8de2fb35aab",
+      "name": "END8.VOL",
+      "nonempty_audio_count": 1,
+      "record_count": 66
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 22,
+      "manifest": "native/assets/extracted/FETUS/manifest.json",
+      "manifest_sha256": "bf18cd9dbbda9b8fb1b37448d105c1eb9cf97f59ea0cd01d7ba924e89838cc53",
+      "name": "FETUS.VOL",
+      "nonempty_audio_count": 6,
+      "record_count": 65
+    },
+    {
+      "audio_count": 0,
+      "family": "font",
+      "image_count": 41,
+      "manifest": "native/assets/extracted/FONT/manifest.json",
+      "manifest_sha256": "1dc1d69690d0d860cd7fa3027c8414279c2cf97de92be7ad37246874cf23e193",
+      "name": "FONT.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 2
+    },
+    {
+      "audio_count": 0,
+      "family": "font",
+      "image_count": 43,
+      "manifest": "native/assets/extracted/FONT2/manifest.json",
+      "manifest_sha256": "8164d9109009a1eca669ed4c05cec5ef52fc80f095d48455ce376f98f491af5e",
+      "name": "FONT2.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 2
+    },
+    {
+      "audio_count": 0,
+      "family": "font",
+      "image_count": 405,
+      "manifest": "native/assets/extracted/FONT3/manifest.json",
+      "manifest_sha256": "fbb9dc528ae34fd0e14bef1e2619d2c5826dff5d19ce5ce90ec9f1501373478a",
+      "name": "FONT3.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 2
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 23,
+      "manifest": "native/assets/extracted/GONZOLES/manifest.json",
+      "manifest_sha256": "58e4652797c0d9cbcd047ce6129a17b65f61e8d42ef0ea5df6ded609810fa6cc",
+      "name": "GONZOLES.VOL",
+      "nonempty_audio_count": 6,
+      "record_count": 65
+    },
+    {
+      "audio_count": 0,
+      "family": "grip_driver",
+      "image_count": 0,
+      "manifest": "native/assets/extracted/GRIP/manifest.json",
+      "manifest_sha256": "054b8306f8f89b8e1f27b5396b37d8361fb30aedbc99c839675d84525f8da15e",
+      "name": "GRIP.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 1
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 24,
+      "manifest": "native/assets/extracted/GURDIP/manifest.json",
+      "manifest_sha256": "44afe51a55f5276b9dc3de8835fbb00bf2614f520b0c4bbfb7dac191c1beb111",
+      "name": "GURDIP.VOL",
+      "nonempty_audio_count": 8,
+      "record_count": 65
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 56,
+      "manifest": "native/assets/extracted/HEAD/manifest.json",
+      "manifest_sha256": "8a8193462a2ef2737749a5e0e1d31cf227b8bd2405e0e3c7bd40c0c44a5f0bc6",
+      "name": "HEAD.VOL",
+      "nonempty_audio_count": 11,
+      "record_count": 71
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 18,
+      "manifest": "native/assets/extracted/HENRY/manifest.json",
+      "manifest_sha256": "3c206928101daa0729e4a137fd4ec28ae5bc5ecef0aae7e31ba4470d31238c52",
+      "name": "HENRY.VOL",
+      "nonempty_audio_count": 7,
+      "record_count": 65
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 18,
+      "manifest": "native/assets/extracted/KLUBBOR/manifest.json",
+      "manifest_sha256": "a7e984c294b539dbfb4ff0a3365c473b53aedf5a02897910226439ef9aba6eba",
+      "name": "KLUBBOR.VOL",
+      "nonempty_audio_count": 6,
+      "record_count": 65
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 29,
+      "manifest": "native/assets/extracted/LOGO/manifest.json",
+      "manifest_sha256": "cb7d81c1c666cae2d54a7a06a8da8fc10e315575f3138f958aa6fe0aa3bec3ae",
+      "name": "LOGO.VOL",
+      "nonempty_audio_count": 2,
+      "record_count": 118
+    },
+    {
+      "audio_count": 0,
+      "family": "effects",
+      "image_count": 100,
+      "manifest": "native/assets/extracted/MISC/manifest.json",
+      "manifest_sha256": "d6238d093969d0136e1e078e71f726296e7d6db7ac949aae1079830a372d019b",
+      "name": "MISC.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 60
+    },
+    {
+      "audio_count": 26,
+      "family": "cinema",
+      "image_count": 46,
+      "manifest": "native/assets/extracted/NCRED/manifest.json",
+      "manifest_sha256": "5c6a6f69bd5b1f52417903af9bce13bc41763594b649c0d8993ae7b38c59fce0",
+      "name": "NCRED.VOL",
+      "nonempty_audio_count": 10,
+      "record_count": 152
+    },
+    {
+      "audio_count": 0,
+      "family": "scene",
+      "image_count": 33,
+      "manifest": "native/assets/extracted/NOGGINBG/manifest.json",
+      "manifest_sha256": "3fdb71a7d504eecaec5a78e6b2b9cfec453cb24a677b64596493347ab9c4413b",
+      "name": "NOGGINBG.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 25
+    },
+    {
+      "audio_count": 0,
+      "family": "scene",
+      "image_count": 18,
+      "manifest": "native/assets/extracted/NOGTITLE/manifest.json",
+      "manifest_sha256": "5c4c9178dc87d221e367863a59ba7a7bdb0630f90cf44dddc8d4751e9ee92f51",
+      "name": "NOGTITLE.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 25
+    },
+    {
+      "audio_count": 0,
+      "family": "scene",
+      "image_count": 70,
+      "manifest": "native/assets/extracted/SELECT/manifest.json",
+      "manifest_sha256": "2dbe4d9b26cb18244bbe54108ca0b149ab6ed45d379391e6e80414eb3958d551",
+      "name": "SELECT.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 25
+    },
+    {
+      "audio_count": 0,
+      "family": "selector_marks",
+      "image_count": 2,
+      "manifest": "native/assets/extracted/SELECT2/manifest.json",
+      "manifest_sha256": "b1d38cffbd0cb0f67c2cd6d240c5c68d2121a0ca097f98e1af913f8b9683f4f0",
+      "name": "SELECT2.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 4
+    },
+    {
+      "audio_count": 3,
+      "family": "selector_options",
+      "image_count": 3,
+      "manifest": "native/assets/extracted/SELECT3/manifest.json",
+      "manifest_sha256": "31234f079591051dccad4e48d5d8d94d204fb3bbdf3d33a8ab527fd61abb17b8",
+      "name": "SELECT3.VOL",
+      "nonempty_audio_count": 3,
+      "record_count": 13
+    },
+    {
+      "audio_count": 19,
+      "family": "character",
+      "image_count": 26,
+      "manifest": "native/assets/extracted/SINAMMON/manifest.json",
+      "manifest_sha256": "537a8b267d1b24a3cda89841d54522cba2e4b4844baea1f02bcc704af16a0f8e",
+      "name": "SINAMMON.VOL",
+      "nonempty_audio_count": 7,
+      "record_count": 65
+    },
+    {
+      "audio_count": 0,
+      "family": "timbres",
+      "image_count": 0,
+      "manifest": "native/assets/extracted/TIMBRES/manifest.json",
+      "manifest_sha256": "c680111bd16495e6b93943b4f6c2a58eb2242c4388394b1b561e4bd7938f8ae6",
+      "name": "TIMBRES.VOL",
+      "nonempty_audio_count": 0,
+      "record_count": 133
+    },
+    {
+      "audio_count": 5,
+      "family": "title_speech",
+      "image_count": 0,
+      "manifest": "native/assets/extracted/TITLESND/manifest.json",
+      "manifest_sha256": "1cde3f38265eb4437c813d1d6bcac164baa279391d7863bb5383395b52b53923",
+      "name": "TITLESND.VOL",
+      "nonempty_audio_count": 5,
+      "record_count": 10
+    }
+  ],
+  "format": "nog2-extracted-release-v1",
+  "image_count": 1043,
+  "nonempty_audio_count": 95,
+  "record_count": 1693,
+  "source_directory": "."
+}
